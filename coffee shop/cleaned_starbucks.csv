@@ -1,0 +1,362 @@
+state,district,name,address,lat,lng,business_status
+Selangor,Sepang,BERJAYA STARBUCKS COFFEE,"Klia Departure, Kuala Lumpur International Airport, 64000 Sepang, Selangor, Malaysia",2.752108,101.700105,OPERATIONAL
+Perak,Kuala Kangsar,STARBUCKS,"1 & 1A, Persiaran Medan Mutiara, 1, Jalan Taiping, Medan Mutiara, 33000 Kuala Kangsar, Perak, Malaysia",4.77206,100.932226,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS,"36, Jalan Bestari 2/2, Taman Nusa Bestari, 81200 Johor Bahru, Johor, Malaysia",1.481616,103.665097,OPERATIONAL
+Pahang,Bentong,STARBUCKS,"69000 Bentong, Pahang, Malaysia",3.412494,101.78833,CLOSED_PERMANENTLY
+Johor,Johor Bahru,STARBUCKS,"Bandar Baru Seri Alam, 81750 Masai, Johor, Malaysia",1.510656,103.877547,OPERATIONAL
+Sarawak,Kuching,STARBUCKS,"G-46, Ground Floor, Plaza Merdeka, Lot, 88, Jalan Pearl, 93000, Sarawak, Malaysia",1.558142,110.343981,OPERATIONAL
+Sarawak,Samarahan,STARBUCKS,"G25, G26, G27, G98 & G99, Lot 1396-1403 & Lot 108, The Summer Shopping Mall, Block 1, Jln Datuk Mohammad Musa, Samarahan Land District, 94300 Kota Samarahan, Sarawak, Malaysia",1.454588,110.458725,CLOSED_PERMANENTLY
+Selangor,Ulu Langat,STARBUCKS,"Kampung Sesapan Bukit Minangkabau, 43700 Beranang, Selangor, Malaysia",2.88629,101.88151,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS,"Level 1, The Zone, 88, Jalan Ibrahim Sultan, Duty Free Zone, 80300 Johor Bahru, Johor, Malaysia",1.471027,103.783086,OPERATIONAL
+Selangor,Petaling,STARBUCKS,"Lorong Ilmu, 50603 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.119184,101.648877,OPERATIONAL
+Selangor,Klang,STARBUCKS,"Lot G51, Ground Floor, Persiaran Bukit Raja 2,Bandar Baru Klan, 41150 Klang, Selangor, Malaysia",3.038242,101.39745,CLOSED_PERMANENTLY
+Johor,Kulai,STARBUCKS,"Lot G68, Ground Floor, AEON Mall Kulaijaya, PTD106273, Persiaran Indahpura Utama, Bandar Indahpura, 81000, Johor, Malaysia",1.640392,103.617628,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS,"Lot J1-06, Level 1, Johor Bahru City Square, 106 & 108, Jalan Wong Ah Fook, Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",1.461884,103.76353,OPERATIONAL
+Selangor,Sepang,STARBUCKS,"Main Terminal Building, Lot FG12, Food Garden KLIA, Level 2, Kuala Lumpur International Airport, 43900 Sepang, Selangor, Malaysia",2.754691,101.704836,OPERATIONAL
+Sabah,Kota Kinabalu,STARBUCKS,"No. G-301, One Borneo Hyper Mall, Jalan Sulaman, 88000 Kota Kinabalu, Sabah, Malaysia",6.036503,116.129193,CLOSED_PERMANENTLY
+Johor,Johor Bahru,STARBUCKS,"Paradigm Mall, Lot GF-73A, Ground Floor, Skudai Hwy, 81200 Johor Bahru, Johor, Malaysia",1.515856,103.684832,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS,"Sales Gallery, Lot PTB22056, Skudai Hwy, Danga Bay, 80200, Johor, Malaysia",1.464855,103.726634,OPERATIONAL
+Sarawak,Kuching,STARBUCKS,"Unit G1 & F1, Ground & First Floor, Precint 88, 93350, 11429, Jalan Song, Tabuan Heights, 93350 Kuching, Sarawak, Malaysia",1.516973,110.367076,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS (BUKIT BINTANG),"Ground Floor, 118, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan, Malaysia",3.146661,101.710888,CLOSED_PERMANENTLY
+Johor,Muar,"STARBUCKS - KCC CITY BUSINESS PARK, MUAR","19, Jalan Gemilang Bakri 1, Pusat Komersial Gemilang Bakri, 84200 Muar, Johor, Malaysia",2.049083,102.600669,OPERATIONAL
+Selangor,Sepang,STARBUCKS - KLIA T1 SATELLITE TERMINAL,"Klia Satelite A Building, 64000, Klia Departure, Kuala Lumpur International Airport, 43900 Sepang, Selangor, Malaysia",2.747363,101.713968,OPERATIONAL
+Terengganu,Kuala Terengganu,STARBUCKS - KTCC MALL,"LOT G-25 KTCC Mall, 219, Jalan Sultan Zainal Abidin, 20200 Kuala Terengganu, Terengganu, Malaysia",5.332949,103.150679,OPERATIONAL
+Selangor,Petaling,STARBUCKS 3 DAMANSARA,"G-01, Ground Floor, Tropicana City Mall, Lot, 3, Jalan SS 20/27, 47400, Selangor, Malaysia",3.130754,101.627212,OPERATIONAL
+Selangor,Petaling,STARBUCKS 3 TWO SQUARE,"32, No, C-17-01, Dataran, 2, Jalan 19/1, 46300, Selangor, Malaysia",3.11127,101.632455,OPERATIONAL
+Selangor,Klang,STARBUCKS @ AEON BUKIT RAJA,"Ground Floor, Lot G35, Persiaran Bukit Raja 2, 41150 Klang, Malaysia",3.060748,101.472324,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS @ AEON MALL METRO PRIMA,"Metro Prima Shopping Centre, Lot G36, Ground Floor, AEON, 52100 Kuala Lumpur, Malaysia",3.213434,101.638825,OPERATIONAL
+Selangor,Sepang,STARBUCKS @ IOI CITY MALL (WEST WING),"Unit GE-2, Ground Floor, IOI City Mall, 62505 Putrajaya, Malaysia",2.96954,101.712889,OPERATIONAL
+Selangor,Sepang,STARBUCKS @ IOI CITY MALL 2,"Lot GE-209, Ground Floor (East wing), IOI City Mall, Phase 2, Lbh IRC, Ioi Resort, 62502 Putrajaya, Selangor, Malaysia",2.968532,101.716409,OPERATIONAL
+Selangor,Petaling,STARBUCKS @ JAYA SHOPPING CENTRE,"Lot G15A & G-16, Ground Floor, Jaya Shopping Centre, Section 14, 46100, Selangor, Malaysia",3.109013,101.63684,OPERATIONAL
+Pulau Pinang,Seberang Perai Selatan,STARBUCKS @ KLIPPA IKEA BATU KAWAN (U/C),"Penang, Malaysia",5.236139,100.442154,OPERATIONAL
+Selangor,Klang,STARBUCKS @ KSL ESPLANADE MALL,"G063, Ground Floor, KSL Esplanade Mall, Persiaran Bestari 2/09, Bandar Bestari, 41200 Klang, Selangor, Malaysia",2.958974,101.46650699999999,OPERATIONAL
+Sarawak,Miri,STARBUCKS @ PERMAISURI IMPERIAL CITY MALL,"City Mall, PICM-GF11, PICM-GF11a & PICM-GF11b, Ground Floor, Permaisuri Imperial, Jalan Merpati, 98000, Sarawak, Malaysia",4.400465,113.990372,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS @ THE SCOTT GARDEN,"S-G-9, Old Klang Rd, The Scott Garden, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.095059,101.675018,CLOSED_PERMANENTLY
+Selangor,Petaling,STARBUCKS @ THOMSON HOSPITAL KOTA DAMANSARA,"Ground floor, Unit 1111, Thomson Hospital, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",3.148928,101.578879,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS @LOTUS'S MELAKA DT,"Lot L45, Ground Floor, Lotus's Melaka, No. 1, Jalan Tun Abdul Razak, 75400, Malacca, Malaysia",2.21761,102.247391,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS AEON ALPHA ANGLE,"Lot G25A, Ground Floor, AEON Alpha Angle Shopping Centre, Jalan R1, Seksyen 1, 53300, Federal Territory of Kuala Lumpur, Malaysia",3.202234,101.733923,OPERATIONAL
+Selangor,Gombak,STARBUCKS AEON AU2,"Aeon Au2 Shopping Centre, Lot G48, 6, Jalan 37/56, Setiawangsa, 54200 Kuala Lumpur, Malaysia",3.176929,101.75078,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS AEON AYER KEROH,"Jalan Tun Abdul Razak, 75450 Ayer Keroh, Melaka, Malaysia",2.233641,102.282462,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS AEON BANDARAYA MELAKA,"Lot G89 & G90, AEON Bandaraya Melaka Shopping Centre, No. 2, 75400, Malacca, Malaysia",2.214426,102.246229,OPERATIONAL
+Pulau Pinang,Seberang Perai Tengah,STARBUCKS AEON BUKIT MERTAJAM,"Lot G08 & G08A, AEON, Jalan Rozhan, Alma, 14000 Bukit Mertajam, Penang, Malaysia",5.320193,100.477909,OPERATIONAL
+Selangor,Klang,STARBUCKS AEON BUKIT TINGGI,"Lot G22, AEON Bukit Tinggi Shopping Centre, 1, Persiaran Batu Nilam 1, KS6, 41200, Selangor, Malaysia",2.994227,101.445014,OPERATIONAL
+Perak,Kinta,STARBUCKS AEON IPOH STATION 18,"Lot G66, Ground Floor, AEON Ipoh Station 18 Shopping Centre, No. 2, Susuran Stesen 18, Station 18, 31650, Perak, Malaysia",4.545464,101.0709,OPERATIONAL
+Perak,Kinta,STARBUCKS AEON KLEBANG,"Lot G05, Ground Floor, AEON Mall Ipoh Klebang, Lot 12080, Klebang Perdana, 31200, Perak, Malaysia",4.677681,101.122746,OPERATIONAL
+Sarawak,Kuching,STARBUCKS AEON KUCHING CENTRAL,"Lot G31, Ground Floor, AEON Mall Kuching Central, 88, Jln Tun Datuk Patinggi Haji Ahmad Zaidi Adruce, 93200 Kuching, Malaysia",1.527165,110.337593,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS AEON MALURI,"MY Kuala Lumpur Maluri Jalan Jejaka Lot G12, Ground Floor AEON Taman Maluri Shopping Centre, 55100, Malaysia",3.125908,101.728418,OPERATIONAL
+Selangor,Gombak,STARBUCKS AEON RAWANG,"Lot G62, Ground Floor, Komplex Beli Belah AEON Anggun Rawang, 1, Persiaran Anggun, Taman Anggun, 48000, Selangor, Malaysia",3.316664,101.536474,OPERATIONAL
+Negeri Sembilan,Seremban,STARBUCKS AEON SEREMBAN 2,"Lot G49 & 50, AEON Seremban 2 Shopping Centre, 70300, Negeri Sembilan, Malaysia",2.701287,101.911663,OPERATIONAL
+Perak,Manjung,STARBUCKS AEON SERI MANJUNG,"Lot G65, AEON Seri Manjung Shopping Centre, Pusat Perniagaan Manjung Point 3, 32040, Perak, Malaysia",4.219394,100.671336,OPERATIONAL
+Selangor,Petaling,STARBUCKS AEON SHAH ALAM,"Ground Floor, AEON Mall, Lot G07, Jln Akuatik 13/64, 40100 Shah Alam, Malaysia",3.076385,101.548487,OPERATIONAL
+Perak,Larut Dan Matang,STARBUCKS AEON TAIPING,"Lot G08, Ground Floor, AEON Mall Taiping, Jalan Kamunting, 34600, Perak, Malaysia",4.873425,100.729346,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS AEON TEBRAU,"Aeon Tebrau City Shopping Centre, Lot G110, Ground Floor, 81100, Johor, Malaysia",1.549356,103.796149,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS ALAM DAMAI,"No. 21, Ground Floor, Jalan Alam Damai, Niaga 1, 56100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.074504,101.737194,OPERATIONAL
+Pulau Pinang,Seberang Perai Tengah,STARBUCKS ALKARIA BUKIT MERTAJAM,"540-541, Jln Arumugam Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia",5.364981,100.459717,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS ALL SEASONS PLACE,"6G-1-17, Level 1, All Seasons Place, 97000 Air Itam, Penang, Malaysia",5.396585,100.290594,OPERATIONAL
+Kedah,Kota Setar,STARBUCKS ALOR SETAR AIRPORT,"Lot No. MTD01/C, Level 1, Departure Level, Sultan Abdul Halim Airport, 06200, Malaysia",6.191603,100.394975,OPERATIONAL
+Kedah,Kota Setar,STARBUCKS ALOR SETAR DT,"Bangunan Starbucks Coffee, Lot 2487 & 2490, Jalan Alor Mengkudu, 05400 Alor Setar, Kedah, Malaysia",6.095977,100.376485,OPERATIONAL
+Kedah,Kota Setar,STARBUCKS AMAN CENTRAL,"Central Mall, Lot G36 & G-70, Ground Floor, Aman, Jalan Sekerat, Kampung Lubok Peringgi, 05150, Kedah, Malaysia",6.125628,100.366721,OPERATIONAL
+Kedah,Kuala Muda,STARBUCKS AMANJAYA DT,"No. 3, Jalan Cempaka 2/3, Amanjaya Square, 08000, 69, Jalan Cempaka 1, Bandar Amanjaya, 08000 Sungai Petani, Kedah, Malaysia",5.669695,100.508032,OPERATIONAL
+Selangor,Petaling,STARBUCKS AMCORP TOWER,"G-01, Ground Floor, Amcorp Tower, 18, Persiaran Barat, Pjs 52, 46050 Petaling Jaya, Selangor, Malaysia",3.10456,101.647426,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS AMPANG DT,"4258 & 4259, Jln Ampang, Desa Pahlawan, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.159442,101.743502,OPERATIONAL
+Selangor,Ulu Langat,STARBUCKS AMPANG POINT,"Lot G20A, Ground Floor, Ampang Point Shopping Centre, Jln Memanda 3, 68000, Selangor, Malaysia",3.158008,101.751362,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS ANSA HOTEL,"Lot 0.3, Ground Floor, Piccolo Hotel, 101, 55100, Federal Territory of Kuala Lumpur, Malaysia",3.146993,101.711923,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS ARCORIS MONT KIARA,"Lot G-1, Ground Level @ Arcoris, 10, Jalan Kiara, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.16768,101.652453,OPERATIONAL
+Selangor,Sepang,STARBUCKS ARENA XCHANGE,"Lot AX37, Ground Floor, Arena Xhange, Warisan Puteri, 43900 Sepang, Selangor, Malaysia",2.826991,101.692815,OPERATIONAL
+Selangor,Petaling,STARBUCKS ATRIA SHOPPING GALLERY,"No. G39, Ground Floor, Atria Shopping Gallery, Jalan SS 22/23, Damansara Jaya, 47400 Petaling Jaya, Selangor, Malaysia",3.127096,101.616518,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS AVENUE K,"G-7, Ground Floor, Avenue K, 156, 50450 Kuala Lumpur, Malaysia",3.159271,101.714071,OPERATIONAL
+Melaka,Alor Gajah,STARBUCKS AYER KEROH R&R,"RSA Northbound, AKHNB CL4, 78000 Ayer Keroh, Malacca, Malaysia",2.36361,102.245704,OPERATIONAL
+Pulau Pinang,Seberang Perai Utara,STARBUCKS BAGAN AJAM DT,"1, Jalan Oren, Pusat Perniagaan Oren, 12200 Butterworth, Pulau Pinang, Malaysia",5.440295,100.381612,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS BAMBOO HILLS DT,"P1-1, Jalan Ipoh, Bamboo Hills, off Lebuhraya Duta-Ulu Kelang, Taman Bamboo, Segambut, 51200 Kuala Lumpur, Wilayah Persekutuan, Malaysia",3.193046,101.673241,OPERATIONAL
+Selangor,Petaling,STARBUCKS BANDAR PUTERI DT,"No. G, Lot TC-05, IOI Galleria @ The Cube, 2, Jln Puteri 7/13A, Bandar Puteri Puchong, 47100, Selangor, Malaysia",3.020362,101.624952,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS BANDAR SERI ALAM DT,"8, Jln Suria, Bandar Baru Seri Alam, 81750 Masai, Johor, Malaysia",1.496422,103.871722,OPERATIONAL
+Selangor,Petaling,STARBUCKS BANDAR UTAMA 2 (FIRST FLOOR),"1 Utama Shopping Centre, Lot F352, 1st Floor Rainforest, 1, Lebuh Bandar Utama, 47800 Petaling Jaya, Malaysia",3.150102,101.616133,OPERATIONAL
+Selangor,Ulu Langat,STARBUCKS BANGI GATEWAY,"Lot G-11 & G-12, Plaza Bangi Perdana, Seksyen 15, 43650 Bandar Baru Bangi, Malaysia",2.931938,101.764383,CLOSED_TEMPORARILY
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS BANGSAR VILLAGE II,"Lot No. 2F-22 & K1, 2nd Floor, Bangsar Village II, 2, Jalan Telawi 1, 59100 Kuala Lumpur, Malaysia",3.130421,101.671437,OPERATIONAL
+Selangor,Kuala Langat,STARBUCKS BANTING,"No. 1-G, Jalan Cemerlang, 1A, Pusat Perdagangan, Banting, 42700 Banting, Malaysia",2.812896,101.508516,OPERATIONAL
+Johor,Batu Pahat,STARBUCKS BATU PAHAT DT,"PTD48032, Jalan Persiaran Flora Utama, Taman Flora Utama, 83000 Batu Pahat, Malaysia",1.862655,102.951382,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS BAWAH POKOK,"23, Jalan Mutiara Emas 5/22, Taman Mount Austin, 81100 Johor Bahru, Johor, Malaysia",1.548316,103.769529,OPERATIONAL
+Pulau Pinang,Barat Daya,STARBUCKS BAYAN BARU,"Ground Floor, Ideal @ The One, Lot 73-1-3, Jalan Mahsuri, 11950 Bayan Lepas, Malaysia",5.327448,100.284313,OPERATIONAL
+Selangor,Sepang,STARBUCKS BELL AVENUE,"Lot R-G-20, Bell Avenue, Jalan Sunsuria, Kota Warisan, 43900 Sepang, Selangor, Malaysia",2.828861,101.705656,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS BERJAYA CENTRAL PARK,"Lot 1-1-1A, Menara Bangkok Bank, Laman Sentral Berjaya, 50450, Federal Territory of Kuala Lumpur, Malaysia",3.156138,101.705258,OPERATIONAL
+Pahang,Bentong,STARBUCKS BERJAYA HILLS,"La Grande, Berjaya Hills Resort, KM48, Persimpangan Bertingkat, 28750, Pahang, Malaysia",3.399916,101.839619,OPERATIONAL
+Sarawak,Miri,STARBUCKS BINTANG PLAZA MIRI,"Plaza Shopping Plaza, Lot G47 & G39A, Ground Floor, Bintang, Jalan Bintang, 98000, Sarawak, Malaysia",4.396686,113.993202,OPERATIONAL
+Sarawak,Bintulu,STARBUCKS BINTULU AIRPORT,"Lot No. GL 19, Ground Floor, Public Concourse (Landside, Sarawak, Malaysia",3.123615,113.023712,OPERATIONAL
+Selangor,Ulu Langat,STARBUCKS BMC MALL,"G.22 & G.22L, BMC Mall, Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200, Selangor, Malaysia",3.0549,101.787296,OPERATIONAL
+Johor,Batu Pahat,STARBUCKS BP MALL,"Malaysia, : Jln Kluang, Johor, Batu Pahat邮政编码: 83000",1.863854,102.962662,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS BURMA ROAD,"403-A, Jalan Burma, Pulau Tikus, 10350 George Town, Pulau Pinang, Malaysia",5.431822,100.31101,OPERATIONAL
+Kedah,Kubang Pasu,STARBUCKS CALTEX BANDAR JITRA,"Lot 131, Jalan, Bandar Darulaman, 06000 Jitra, Kedah, Malaysia",6.253162,100.419303,OPERATIONAL
+Pulau Pinang,Seberang Perai Tengah,STARBUCKS CALTEX JURU R&R DT,"Retail Area 2, Juru Caltex Layby Northbound, Lot 4291, 13600, Penang, Malaysia",5.354222,100.416809,OPERATIONAL
+Selangor,Gombak,STARBUCKS CALTEX MELAWATI,"Lot, Caltex, 14855, Jalan Bandar 4, Taman Melawati, 53100 Kuala Lumpur, Selangor, Malaysia",3.211142,101.752234,OPERATIONAL
+Selangor,Petaling,STARBUCKS CALTEX MOKHTAR DAHARI DT,"Drive Thru, Lot PT 29780, Kampung Bukit Cherakah, Persiaran Mokhtar Dahari, Daerah Petaling, Selangor, Mukim, Seksyen U15, 40170 Shah Alam, Malaysia",3.169991,101.469532,OPERATIONAL
+Pahang,Cameron Highlands,STARBUCKS CAMERON CENTRUM,"A-G-9 & A-G-10,GF, PRESINT 1,BRINCHANG, 39000 Brinchang, Pahang, Malaysia",4.494822,101.389303,OPERATIONAL
+Pahang,Cameron Highlands,STARBUCKS CAMERON HIGHLANDS,"Unit No. 22 & 23, Ground Floor & 1st Floor, 39000, Pahang, Malaysia",4.470606,101.377858,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS CAPITAL SQUARE TOWER,"AIA CAPSQUARE TOWER, Jalan Munshi Abdullah, 50100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.154308,101.69915,OPERATIONAL
+Kedah,Langkawi,STARBUCKS CENANG MALL,"Lot GF1a, GF1b & GF1c, Cenang Mall Langkawi, 2605, Jalan Pantai Chenang, Mukim Kedawang, 07000, Kedah, Malaysia",6.290867,99.727736,OPERATIONAL
+Selangor,Klang,STARBUCKS CENTRAL I-CITY,"LG-12, Lower Ground Floor, Central i-City Shopping Centre, 40000 Shah Alam, Malaysia",3.062677,101.481227,OPERATIONAL
+Sabah,Kota Kinabalu,"STARBUCKS CENTRE POINT, KK","Centre Point Sabah, Lot No. P37, 4th Floor, Palm Square, 1, Lorong Centre Point, 88000, Sabah, Malaysia",5.977777,116.071877,OPERATIONAL
+Selangor,Petaling,STARBUCKS CENTREPOINT BANDAR UTAMA,"G109 & G110, Ground Floor, Lot, Lebuh Bandar Utama, 47800, Selangor, Malaysia",3.137596,101.609636,OPERATIONAL
+Selangor,Klang,STARBUCKS CENTRO MALL,"Lot G135, Ground Floor, 8, Jalan Batu Tiga Lama, Kawasan 16, 41300 Klang, Selangor, Malaysia",3.052748,101.462734,OPERATIONAL
+Kedah,Kubang Pasu,STARBUCKS CHANGLUN DT,"No.141, Pusat Komersial Changloon, Pekan, 06010 Changlun, Kedah, Malaysia",6.436846,100.429872,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS CHERAS LEISURE MALL,"Lot L2-25, Level 2, Cheras Leisure Mall, 56100, Federal Territory of Kuala Lumpur, Malaysia",3.090894,101.742867,OPERATIONAL
+Pahang,Bentong,STARBUCKS CHIN SWEE,"Chin Swee Caves Temple, Lot L12-S1, Level 12, Lobby Floor, Goh Tong, Pahang, Malaysia",3.412938,101.788854,OPERATIONAL
+Selangor,Petaling,STARBUCKS CITTA MALL,"Lot No. G-15, Ground Floor, Citta Mall 1 Jalan PJU 1A/48, PJU 1A, Ara Damansara, 47301 Petaling Jaya, Selangor, Malaysia",3.112007,101.578638,OPERATIONAL
+Sabah,Kota Kinabalu,"STARBUCKS CITY MALL, KOTA KINABALU","City Mall, Lot No. 4, Ground Floor, Jln Lintas, Luyang Commercial Centre, 88300, Sabah, Malaysia",5.961613,116.097317,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS COFFEE,"1001, Jln Sultan Ismail, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.15921,101.69608,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS COFFEE,"182, Jalan Magazine, 10300 George Town, Pulau Pinang, Malaysia",5.413222,100.331163,OPERATIONAL
+Pulau Pinang,Barat Daya,STARBUCKS COFFEE,"Ground Floor, Queensbay Mall, GF-36, 100, Persiaran Bayan Indah, 11900, Penang, Malaysia",5.334355,100.306677,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS COFFEE - GURNEY PARAGON,"Lot G30, Gurney Paragon Mall, Gurney Dr, 10250 George Town, Penang, Malaysia",5.436402,100.311296,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS COFFEE - SRI PETALING,"2, Jln Radin Bagus 7, Bandar Baru Sri Petaling, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.070875,101.692464,OPERATIONAL
+Sarawak,Kuching,STARBUCKS COFFEE @ VIVACITY MEGAMALL,"Unit G-073B & G-073BS, Ground Floor, Vivacity Megamall, Q112B, 93350, Sarawak, Malaysia",1.527106,110.369636,OPERATIONAL
+Pahang,Bentong,STARBUCKS COFFEE GENTING 1 (FIRST WORLD),"Level T1, Lot F/L1.4, Resort, First World Hotel, Genting Highlands, 69000 Pahang, Malaysia",3.425071,101.794756,OPERATIONAL
+Pahang,Bentong,STARBUCKS COFFEE GENTING 3 (HIGHLANDS HOTEL),"Highlands Hotel, Lot H/LG 6.00, Level Lower Ground, 69000 Genting Highlands, Pahang, Malaysia",3.42341,101.791553,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS COFFEE GREEN HALL,"Ground Floor, Lot 1, Jalan Green Hall, Georgetown, 10200 George Town, Penang, Malaysia",5.421288,100.339373,OPERATIONAL
+Perak,Kinta,STARBUCKS COFFEE PALO 101,"Lot 187-A , Palo, 101, Jalan Sultan Iskandar, Taman Jubilee, 30000 Ipoh, Perak, Malaysia",4.593039,101.085815,OPERATIONAL
+Selangor,Petaling,STARBUCKS COFFEE SELGATE,"Seksyen 14, 40000 Shah Alam, Selangor, Malaysia",3.072209,101.52225,OPERATIONAL
+Selangor,Petaling,STARBUCKS COFFEE SUNSURIA DRIVE-THRU KOTA DAMANSARA,"5H3R+G5, 47810 Petaling Jaya, Selangor, Malaysia",3.153848,101.590508,OPERATIONAL
+Selangor,Sepang,STARBUCKS CONEZION PUTRAJAYA DT,"Blok A1, Conezion, IOI Resort City, 62502, Putrajaya, Malaysia",2.964343,101.721221,OPERATIONAL
+Selangor,Petaling,STARBUCKS DAMANSARA AVENUE DT,"B-G-1, Ground Floor 2005 & Lot 2006, Persiaran Perdana, 52200 Kuala Lumpur, Malaysia",3.191622,101.617066,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS DAMANSARA CITY MALL,"L1-01 & L2-01 (Duplex), 1st Floor, Damansara City Mall, Damansara City, 50490, Federal Territory of Kuala Lumpur, Malaysia",3.146529,101.661563,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS DAMANSARA HEIGHTS,"G.02.02, Ground Floor, Republik, 1, Jalan Medan Setia 1, Bukit Damansara, 50490 Kuala Lumpur, WP Kuala Lumpur, Malaysia",3.14874,101.652196,OPERATIONAL
+Selangor,Petaling,STARBUCKS DAMANSARA PERDANA,"A-LG-03, Lower Ground Floor, Qliq Hotel, Jalan PJU 8/8, Empire Damansara, 47820, Selangor, Malaysia",3.165761,101.611885,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS DANAU KOTA DT,"Unit 17, The Palette Commercial Hub, Jalan 3/23b, Danau Kota, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.205894,101.716918,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS DATARAN PAHLAWAN,"BX-001A & G-003A, Dataran Pahlawan Melaka Megamall, Jln Merdeka, 75000, Malacca, Malaysia",2.19001,102.250647,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS DATUM JELATEK,"Lot G-19, Datum Jelatek Shopping Centre, Jalan Enggang, Taman Keramat, 54200 Ampang Jaya, Selangor, Malaysia",3.167814,101.735949,OPERATIONAL
+Selangor,Petaling,STARBUCKS DENAI ALAM,"10-1, Jln Elektron U16/G, Denai Alam, 47000 Shah Alam, Selangor, Malaysia",3.160963,101.513416,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS DESA SRI HARTAMAS,"22, Jalan 25/70a, Desa Sri Hartamas, 59400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.162343,101.650458,OPERATIONAL
+Pulau Pinang,Seberang Perai Selatan,STARBUCKS DESIGN VILLAGE,"Lot G30, Design Village Outlet Mall, 733, Jalan Cassia Barat 2, 14100, Penang, Malaysia",5.243451,100.436817,OPERATIONAL
+Selangor,Sepang,STARBUCKS DPULZE,"G28, Dpulze Shopping Centre, Lingkaran Cyber Point Timur, Cyber 12, 63000, Selangor, Malaysia",2.922105,101.65129,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS DT MALIM JAYA,"Lot 2610, Mukim, 75400, Malacca, Malaysia",2.238455,102.234152,OPERATIONAL
+Selangor,Sepang,STARBUCKS DT SHELL LDP PUCHONG SOUTH,"Lot 117230, Shell Station NTI CO LDP, Northbound KM32, 47100 Puchong, Selangor, Malaysia",2.980419,101.646487,OPERATIONAL
+Pahang,Kuantan,STARBUCKS EAST COAST MALL,"Ground Floor, East Coast Mall, Jalan Putra Square 6, Putra Square, 25300 Kuantan, Pahang, Malaysia",3.817719,103.327054,OPERATIONAL
+Selangor,Kuala Selangor,STARBUCKS ECO GRANDEUR,"B49, 47000 Sungai Buloh, Selangor, Malaysia",3.227375,101.458198,OPERATIONAL
+Pulau Pinang,Seberang Perai Selatan,STARBUCKS ECO HORIZON DT,"1, Jln Borealis 4, Pusat Komersial Borealis, 14110 Simpang Ampat, Pulau Pinang, Malaysia",5.236426,100.444002,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS EKOCHERAS,"LG-11, Lower Ground Floor, EkoCheras Mall, 56000, Federal Territory of Kuala Lumpur, Malaysia",3.093604,101.739258,OPERATIONAL
+Selangor,Petaling,STARBUCKS EMPIRE GALLERY SUBANG,"G28, Empire Shopping Gallery, Jalan SS 16/1, SS16, 47500, Selangor, Malaysia",3.081675,101.58254,OPERATIONAL
+Selangor,Petaling,STARBUCKS ENCORP STRAND,"Lot G-08 & G-09, Ground Floor, Encorp Strand Mall. 1, Jalan PJU 5/23, Encorp Strand, 47810, Selangor, Malaysia",3.155311,101.593942,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS G VILLAGE,"Lot G-10, Ground Floor, G Village, 55100, Federal Territory of Kuala Lumpur, Malaysia",3.149765,101.736626,OPERATIONAL
+Selangor,Kuala Langat,STARBUCKS GAMUDA COVE DT,"SB-01 SB-01-EXT & SB-01-E, Discovery Park, Persiaran Cove Sentral, Bandar Gamuda Cove, 42700, 42700 Dengkil, Selangor, Malaysia",2.885465,101.617377,OPERATIONAL
+Selangor,Sepang,STARBUCKS GATEWAY@KLIA TERMINAL 2,"Unit No. L3-25, Level 3, Gateway@KLIA2, 64000, Selangor, Malaysia",2.743932,101.685784,OPERATIONAL
+Pahang,Bentong,STARBUCKS GENTING PERMAI DT,"21078, Jalan Permai 2, Genting Permai Avenue, 69000 Genting Highlands, Pahang, Malaysia",3.387066,101.773905,OPERATIONAL
+Pahang,Bentong,STARBUCKS GENTING PREMIUM OUTLETS,"Premium Outlets, Suite No.422, High Street, 69000 Genting Highlands, Pahang, Malaysia",3.402533,101.783979,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS GLENEAGLES,"Ground Floor (Garden Area), Gleneagles Hospital, 50450 Kuala Lumpur, Malaysia",3.161621,101.739221,OPERATIONAL
+Pulau Pinang,Seberang Perai Tengah,STARBUCKS GRAVITAS BUSINESS PARK,"Lot GF-23 & 23A, Ground Floor, Gravitas, Jln Baru, 13700, Penang, Malaysia",5.36932,100.417215,CLOSED_TEMPORARILY
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS GREAT EASTERN MALL,"Lot13 & 14, Ground Floor, Great Eastern Mall. 303, 50450 Kuala Lumpur, Malaysia",3.160458,101.736728,OPERATIONAL
+Kedah,Kuala Muda,STARBUCKS GURUN R&R (NB),"Lot GRNNB-C01, Gurun RSA Northbound, North-South Expy, 08300 Gurun, Malaysia",5.832529,100.486903,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS HOSPITAL KUALA LUMPUR HKL,"Persiaran Hospital, 50586 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.171831,101.699705,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS HUKM HOSPITAL,"Lot 10 & 11, Visitors’ Lobby, Hospital Canselor Tunku Mukhiz HCTM, Jalan Yaacob Latif, Cheras, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.097756,101.724638,OPERATIONAL
+Pulau Pinang,Seberang Perai Tengah,STARBUCKS ICON CITY DT,"Ground & Mezzanine Floor, 1, Jln Icon City, Icon City, 14000, Penang, Malaysia",5.345459,100.434547,OPERATIONAL
+Pulau Pinang,Seberang Perai Selatan,STARBUCKS ICONIC POINT DT,"Iconic Point Business Park, 2A, Jalan Iconic Point, 14100 Simpang Ampat, Penang, Malaysia",5.283855,100.475804,OPERATIONAL
+Sabah,Sandakan,STARBUCKS IJM DT,"Jalan Utara, 90000 Sandakan, Sabah, Malaysia",5.865763,118.057393,OPERATIONAL
+Sabah,Kota Kinabalu,STARBUCKS IMAGO TIMES SQUARE,"Lot G33B & G33C, Ground Floor, Imago, KK Times Square, off, 1, 88100, Sabah, Malaysia",5.971286,116.066406,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS INTERMARK MALL,"Lot G-02 & G-03B, Ground Floor, Intermark Mall, The Intermark, 50400, Federal Territory of Kuala Lumpur, Malaysia",3.160874,101.720561,OPERATIONAL
+Johor,Kulai,STARBUCKS IOI KULAI DT,"Ground Floor, Ioi Mall, Lot No. G-OSE3/5/6, Lebuh Putra Utama, Bandar Putra Kulai, 81000, Johor, Malaysia",1.647324,103.626305,OPERATIONAL
+Perak,Kinta,STARBUCKS IPOH PARADE,"Ground Floor, Ipoh Parade, 105, Jalan Sultan Abdul Jalil, 30450 Ipoh, Perak, Malaysia",4.595913,101.090094,OPERATIONAL
+Sabah,Kota Kinabalu,STARBUCKS IRAMANIS,"1, Lrg Iramanis, Taman Iramanis, 88450 Kota Kinabalu, Sabah, Malaysia",5.970153,116.110762,OPERATIONAL
+Selangor,Ulu Langat,STARBUCKS JADE HILLS DT,"Persiaran Puncak Utama, Jade Hills, 43000 Kajang, Selangor, Malaysia",2.991576,101.760502,OPERATIONAL
+Selangor,Petaling,STARBUCKS JAYA ONE (NOT PET FRIENDLY),"Lot No. G.013, Ground Floor, The Square, Jaya One, Jln Profesor Diraja Ungku Aziz, Seksyen 13, 46300, Selangor, Malaysia",3.117701,101.635554,OPERATIONAL
+Perak,Kinta,STARBUCKS JELAPANG SQUARE DT,"Lot Besar 392323, Pusat Komersial Jelapang, Jelapang, Ipoh, 19, Jalan Jelapang 11, Jelapang, 30020 Ipoh, Perak, Malaysia",4.644336,101.061759,OPERATIONAL
+Sabah,Kota Kinabalu,STARBUCKS JESSELTON POINT KOTA KINABALU,"LB-02, Ground Floor, Jesselton Duty Free Mall, 3, Jln Haji Saman, 88000 Kota Kinabalu, Sabah, Malaysia",5.988799,116.078363,OPERATIONAL
+Kedah,Langkawi,STARBUCKS JETTY POINT LANGKAWI,"Zone 2, Kompleks Jetty Point, Lot 12 & 13, Persiaran Putera, Kuah, 07000 Langkawi, Kedah, Malaysia",6.306082,99.852033,OPERATIONAL
+Pulau Pinang,Seberang Perai Tengah,STARBUCKS JURU AUTO-CITY,"Highway Auto-City, 1821-G1, Jalan Perusahaan, Prai Industrial Estate, 13600 Perai, Penang, Malaysia",5.337605,100.428474,OPERATIONAL
+Pulau Pinang,Seberang Perai Tengah,STARBUCKS JURU R&R DT,"2, Lrg Setia Sentral 2, Pusat Perniagaan Setia Sentral, 14000 Perai, Pulau Pinang, Malaysia",5.354766,100.417772,OPERATIONAL
+Perlis,Perlis,STARBUCKS KANGAR JAYA DT,"1A, Jalan Kangar Jaya 14, Kangar Jaya, 01000 Kangar, Perlis, Malaysia",6.407019,100.179627,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS KIARA BAY DT,"No. R-23, Kiara Bay, Kepong Metropolitan Park, Jln Lingkaran Tengah 2, 52100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.226007,101.650835,OPERATIONAL
+Sabah,Kota Kinabalu,STARBUCKS KKIA LANDSIDE,"Terminal 1, L1L10, Level 1 (Landside, 88740, Sabah, Malaysia",5.921953,116.050681,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS KL CONVENTION CENTRE,"Lot C09, Concourse Floor, Kuala Lumpur Convention Centre, KLCC, 50088 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.153274,101.713045,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS KL EAST MALL,"Lot G1-39 & 41, Ground Floor 1, KL East Mall, Jln Lingkaran Tengah 2, 53100 Kuala Lumpur, Malaysia",3.224416,101.73075300000001,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS KL ECO CITY MALL,"Lot UG-25 & UG-26, Level UG, KL Eco City Mall, Jalan Pantai Baharu, 59200 Kuala Lumpur, Malaysia",3.118798,101.674097,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS KL SENTRAL,"Unit 5, Level 1, Arrival Hall, Jalan Travers, Kuala Lumpur Sentral, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.134823,101.686701,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS KL SOGO,"Lot No. GF B-04, Ground Floor, Kompleks SOGO, 190, 50100 Kuala Lumpur, Malaysia",3.156499,101.695648,OPERATIONAL
+Selangor,Sepang,STARBUCKS KLIA CONTACT PIER,"Main Terminal Building, Kuala Lumpur International Airport, 64000 Sepang, Selangor, Malaysia",2.752648,101.705834,OPERATIONAL
+Selangor,Sepang,STARBUCKS KLIA2 LANDSIDE,"2, Kuala Lumpur Int'l Airport, Lot No. S2-3-LO1, Departure Level, Public Concourse, Terminal Landside, 64000 Sepang, Selangor, Malaysia",2.744715,101.685193,OPERATIONAL
+Johor,Kluang,STARBUCKS KLUANG MALL,"Lot No. G-10, Ground Floor, Kluang Mall, Jln Rambutan, Bandar Kluang, 86000, Johor, Malaysia",2.039714,103.319954,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS KOMTAR JBCC,"Lot 239 Level 2, Komtar JBCC, Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",1.463963,103.762738,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS KOMUNE LIVING & WELLNESS,"21, Jalan Tasik Permaisuri 2, Bandar Tun Razak, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.100534,101.718166,OPERATIONAL
+Kelantan,Kota Bharu,STARBUCKS KOTA BHARU MALL,"KB Mall, G26 & G26A, Jalan Hamzah, Section 16, 15050, Kelantan, Malaysia",6.116783,102.239939,OPERATIONAL
+Selangor,Petaling,STARBUCKS KOTA DAMANSARA,"No. 1, Ground Floor, Jalan PJU 5/11, Dataran Sunway, Kota Damansara, 47810, Selangor, Malaysia",3.152659,101.592609,OPERATIONAL
+Selangor,Klang,STARBUCKS KOTA KEMUNING DT,"Part of Lot PT128300, Jalan Anggerik Vanilla, Kota Kemuning, 40460, Selangor, Malaysia",3.002896,101.541347,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS KOTA LAKSAMANA DT,"Bangunan Starbucks Coffee, Taman Limbongan Indah, 75200 Malacca, Malaysia",2.202392,102.222923,OPERATIONAL
+Sabah,Kota Kinabalu,STARBUCKS KPJ SABAH,"KPJ Sabah Specialist Hospital, Lobby A, Lot No. 2 & 3, 88300 Kota Kinabalu, Malaysia",5.967558,116.093291,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS KPJ TAWAKKAL HOSPITAL,"Lot 202A, Level 1, KPJ Tawakkal Health Centre, 53000, Federal Territory of Kuala Lumpur, Malaysia",3.176708,101.699795,OPERATIONAL
+W.P. Putrajaya,W.P. Putrajaya,STARBUCKS KPKT,"51, Persiaran Perdana, Presint 4, 62100 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",2.903113,101.681326,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS KSL RESORT,"Lot G-H01/H01A, KSL Resort Lobby, Ground Floor, KSL City, 33, Jalan Seladang, 80250 Johor Bahru, Malaysia",1.485792,103.762811,OPERATIONAL
+Perak,Kuala Kangsar,STARBUCKS KUALA KANGSAR,"No 1, 1A, Persiaran Medan Mutiara 1, Jalan Taiping, Medan Mutiara, 33000 Kuala Kangsar, Perak, Malaysia",4.772392,100.923352,OPERATIONAL
+Pahang,Kuantan,STARBUCKS KUANTAN INDERA MAHKOTA DT,"Starbucks Coffee Drive-Thru, 14, Jln IM 7/1, Bandar Indera Mahkota, 25200 Kuantan, Pahang, Malaysia",3.833766,103.299369,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS KUCHAI LAMA,"1, Jalan Kuchai Maju 11, Kuchai Entrepreneurs Park, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.090544,101.688809,OPERATIONAL
+Sarawak,Kuching,STARBUCKS KUCHING INTERNATIONAL AIRPORT,"Lot L3 07, 08 & 09, Level 3, Departure Hall, KIA, Public Concourse, Starbucks, 900A, 93722 Kuching, Sarawak, Malaysia",1.486173,110.350244,OPERATIONAL
+Kedah,Kulim,STARBUCKS KULIM CENTRAL,"Ground Floor, Lot GF, 08, Jalan Klc 1, Kulim Landmark Central, 09000, Kedah, Malaysia",5.385866,100.546554,OPERATIONAL
+Kedah,Kuala Muda,STARBUCKS LAGENDA VILLAGE MALL,"Lot G-9, G-15, G-16, Ground Floor, Village Mall, Jalan Legenda 1, Lagenda Heights, 08000, Kedah, Malaysia",5.659826,100.501532,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS LALAPORT BUKIT BINTANG CITY CENTRE,"Lot G-72, Ground Floor, Mitsui Shopping Park LaLaport, BBCC, 2, Jln Hang Tuah, 55100 Kuala Lumpur, WP Kuala Lumpur, Malaysia",3.13983,101.707662,OPERATIONAL
+Kedah,Langkawi,STARBUCKS LANGKAWI INTERNATIONAL AIRPORT,"Lot FH05, Food Hall, Level 1, Departure Hall (Landside), LIA, 07000, Kedah, Malaysia",6.342145,99.731764,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS LEVEL 7,"170-G-22 Gurney Mall Plaza Pesiaran, Gurney Dr, 10250 George Town, Penang, Malaysia",5.437563,100.309612,OPERATIONAL
+Selangor,Ulu Langat,STARBUCKS LOTUS SEMENYIH DT,"1, Jalan Tps 1/1, Taman Pelangi Semenyih, 43500 Semenyih, Selangor, Malaysia",2.930165,101.856384,OPERATIONAL
+Selangor,Petaling,STARBUCKS LOTUS'S BANDAR BUKIT PUCHONG DT,"Lot G1, Ground Floor, Lotus's, Bandar Bukit Puchong 2, 47120, Malaysia",2.982866,101.617104,OPERATIONAL
+Selangor,Kuala Langat,STARBUCKS LOTUS'S JENJAROM,"No. G6, Ground Floor, No. 1, Jalan 1/1, Taman Seri Jaromas, 42600, Selangor, Malaysia",2.87409,101.501934,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS LOTUS'S KEPONG DT,"G1 & G2, Lotus's Kepong, 3, Jalan 7A/62A, Bandar Menjalara, 52200 Kuala Lumpur, Malaysia",3.192613,101.632915,OPERATIONAL
+Kelantan,Kota Bharu,STARBUCKS LOTUS'S KOTA BHARU,"G1 & G2, Ground Floor, Tesco Kota Bharu, Lot 1828, Seksyen 17, Bandar Kota Bharu, 15050 Kota Bharu, Kelantan, Malaysia",6.114967,102.232204,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS LOTUS'S TANJUNG PINANG,"Lot G4, Lotus's Tanjung Pinang, 1, Jalan Seri Tg Pinang, 10470 Tanjung Tokong, Penang, Malaysia",5.459099,100.308234,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS LOTUS'S TEBRAU DT,"Ground Floor, Lotus's, Lot No. G7 & G8, 1, Persiaran Desa Tebrau, Taman Desa Tebrau, 81100, Johor, Malaysia",1.547278,103.794281,OPERATIONAL
+Selangor,Kuala Selangor,STARBUCKS LOTUS’S KUALA SELANGOR,"Lot No.2 GF Lotus's Kuala Selangor.2 Jalan Tiara, 1, Jalan Medan Niaga 2, Kampung Baharu, 45000 Kuala Selangor, Selangor, Malaysia",3.319705,101.270456,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS LOW YAT,"Lot G-028SA, Plaza Low Yat, 7, Jalan Bintang, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.144405,101.709923,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS MAHKOTA PARADE,"Ground Floor, Lot No. G17/EG2, No, 1, Jln Merdeka, Taman Costa Mahkota, 75000 Malacca, Malaysia",2.189191,102.249705,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS MANSION ONE,"57-G-1, Part of Lot 57-G-01, Mansion One, Jln Sultan Ahmad Shah, 10050 George Town, Penang, Malaysia",5.427364,100.320564,OPERATIONAL
+Sarawak,Miri,STARBUCKS MARINA PARKCITY DT,"Lot 2255, Jalan Marina 3, Marina ParkCity, 98000 Miri, Sarawak, Malaysia",4.3894,113.98112,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MASJID JAMEK LRT STATION,"Lot No. K1, Concourse Level, Masjid Jamek Station, 50100, Federal Territory of Kuala Lumpur, Malaysia",3.149968,101.696528,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MBC TOWER,"Menara Bumiputra-commerce, 11, Jln Raja Laut, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.155591,101.695615,OPERATIONAL
+Perak,Kinta,STARBUCKS MEDAN GOPENG,"Burger Houz, Lot 200A, Jln Sultan Nazrin Shah, 31350, Perak, Malaysia",4.572227,101.112861,OPERATIONAL
+Pahang,Kuantan,STARBUCKS MEGAMALL KUANTAN,"Ground Floor, Berjaya Megamall, Lot G15, Jalan Tun Ismail, Sri Dagangan, 25000, Pahang, Malaysia",3.815169,103.329663,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS MELAKA RAYA,"161, Jln Merdeka, Taman Melaka Raya, 75000 Melaka, Malaysia",2.189097,102.253494,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MENARA ALLIANZ SENTRAL,"Level LG3, Menara Allianz Sentral, 203, Jalan Tun Sambanthan, 50470 Kuala Lumpur, Malaysia",3.132201,101.68655,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MENARA BINJAI,"Unit No. G-02, Ground Floor, Menara Binjai, 50450, Federal Territory of Kuala Lumpur, Malaysia",3.159606,101.71884,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MENARA ETIQA,"Lot 1.1, Menara Etiqa, 3, Jalan Bangsar Utama 1, 59000 Kuala Lumpur, Malaysia",3.126987,101.678131,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MENARA EXCHANGE 106 TRX,"Lot G25 & 23.B, Ground Floor, Menara Exchange106, Lingkaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.141849,101.71881,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MENARA HAP SENG,"Menara Hap Seng 2, Suite G-09, Ground Floor, The Podium, 50250 Kuala Lumpur, Malaysia",3.152741,101.707363,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MENARA MAYBANK,"Foyer Area, 1st Floor, Menara Maybank, 100, 50050 Kuala Lumpur, Malaysia",3.14738,101.699478,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MENARA OLYMPIA,"Level 1, Menara Olympia, 50200, Malaysia",3.149062,101.700478,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MENARA TA ONE,"Ground Floor, Menara TA One, 22, Jalan P. Ramlee, 50250 Kuala Lumpur, Malaysia",3.156646,101.709727,OPERATIONAL
+Negeri Sembilan,Seremban,STARBUCKS MESAMALL DT,"G-02, Pusat Membeli-Belah Mesa, Pusat Perniagaan & Residensi Mesa, Persiaran Ilmu, 71800, Negeri Sembilan, Malaysia",2.824909,101.777512,OPERATIONAL
+Selangor,Ulu Langat,"STARBUCKS METRO POINT, KAJANG","Lot G19 & G30, Ground Floor, Metro Point Complex, 43000, Selangor, Malaysia",2.991356,101.793877,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MID VALLEY MEGAMALL (GROUND FLOOR),"Lot G-100, West Court, Ground Floor, Mid Valley City, 58000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.117819,101.67691,OPERATIONAL
+Selangor,Petaling,STARBUCKS MINES CITY DT,"L3-19AP, Level 3, The Mines, Jalan Dulang, Mines Wellness City, 43300, Selangor, Malaysia",3.02839,101.719116,OPERATIONAL
+Sarawak,Miri,STARBUCKS MIRI AIRPORT,"Lot No. GL14, Public Concourse, 98000, Sarawak, Malaysia",4.325022,113.983452,OPERATIONAL
+Selangor,Sepang,STARBUCKS MITSUI OUTLET PARK,"G65, Ground Floor, Mitsui Outlet Park KLIA Sepang, Persiaran Komersial, KLIA, 64000, Selangor, Malaysia",2.780534,101.677574,OPERATIONAL
+Selangor,Petaling,STARBUCKS MSU,"S0210, Management & Science University, University Drive, off, Persiaran Olahraga, 40100 Shah Alam, Malaysia",3.077775,101.552961,CLOSED_TEMPORARILY
+Johor,Muar,STARBUCKS MUAR BAKRI,"Ground Floor, Lot No. PTB16019, Jalan Bakri, 84000, Johor, Malaysia",2.048578,102.584213,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS MYTOWN SHOPPING CENTRE,"G-026 & G-E-026, Ground Floor, MyTOWN Shopping Centre, No. 6, 55100, Federal Territory of Kuala Lumpur, Malaysia",3.13438,101.722869,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS NEXUS BANGSAR SOUTH,"Lot G-9, Ground Floor, Nexus, Bangsar South City, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.109687,101.665853,OPERATIONAL
+Pulau Pinang,Seberang Perai Selatan,STARBUCKS NIBONG TEBAL,"1874, Jalan Air Lintas, 14300 Nibong Tebal, Penang, Malaysia",5.181013,100.484854,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS NU SENTRAL,"Lot No. GF05 & 06, Tingkat Bawah, 201, Jalan Tun Sambanthan, 50470 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.133437,101.686697,OPERATIONAL
+Selangor,Petaling,STARBUCKS OASIS DAMANSARA,"R11, 2, Jalan PJU 1A/7, Oasis Ara Damansara, 47301 Petaling Jaya, Selangor, Malaysia",3.113463,101.574955,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS PANTAI AYER KEROH,"NO. 2418-A, GROUND FLOOR, BLOCK D, PANTAI HOSPITAL, KM 8, Jalan Tun Abdul Razak, 75450 Ayer Keroh, Malacca, Malaysia",2.237862,102.286122,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PANTAI MEDICAL CENTRE,"Bangsar, 59100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.119619,101.666917,OPERATIONAL
+Selangor,Petaling,STARBUCKS PARADIGM MALL,"Ground Floor, Paradigm Mall, Lot No. GB 01A & GB 16, 1, Jalan SS 7/26a, 47301, Selangor, Malaysia",3.104994,101.596322,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PAVILION BUKIT JALIL,"Lot 3.114, Level 3, Pavilion Bukit Jalil, Persiaran Jalil Utama, Bandar Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.050479,101.671972,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PAVILION DAMANSARA HEIGHTS,"Lot 2.55.00 & E2.55.00 Level 2, Pavilion Damansara Height, 3, Jalan Damanlela, Damansara Town Centre, 50490 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.145482,101.663021,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PAVILION KL (LEVEL 3),"Lot 3 . 08 . 00 & 3 . 09 . 00, 168, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.149326,101.712742,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PAVILION KL (LEVEL 6),"Lot No. 6.02.00, Level 6, Pavilion, 55100 Kuala Lumpur, Malaysia",3.149376,101.712803,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PEARL POINT,"Pearl Point Shopping Mall, Lot 1.0.26, Ground Floor, Batu 5, 58000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.084665,101.672966,OPERATIONAL
+Pulau Pinang,Barat Daya,STARBUCKS PENANG INTERNATIONAL AIRPORT (DOMESTIC),"Lot L2AFB08, Level 2, Domestic Departure/Arrival (Airside, 11900 Bayan Lepas, Penang, Malaysia",5.291427,100.264965,OPERATIONAL
+Pulau Pinang,Seberang Perai Utara,STARBUCKS PENANG SENTRAL,"Lot 3-16, Level 3, Penang Sentral, 12000, Penang, Malaysia",5.394769,100.365604,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PETRON CHERAS DT,"No. 1A, Starbucks Kafeteria, Lot 27680A, Jln Cheras, Taman Bukit Segar, 56100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.086158,101.742217,OPERATIONAL
+Selangor,Kuala Selangor,STARBUCKS PETRON SEKINCHAN DT,"Lot 17100, Jalan Besar, Sungai Burung, Kampung Parit Empat, 45400 Sekinchan, Selangor, Malaysia",3.487901,101.115063,OPERATIONAL
+Selangor,Ulu Langat,STARBUCKS PETRONAS AMPANG JAYA,"Petronas Service Station, Phrase 1, GF, Lot 36904 (PT27423, Taman Dato Ahmad Razali, 68000, Selangor, Malaysia",3.159586,101.75417,CLOSED_TEMPORARILY
+Perak,Perak Tengah,STARBUCKS PETRONAS BANDAR UNIVERSITI DT,"Petronas Station, Lot PTD 307&308, Jalan PP 1, Bandar Universiti, Mukim, 32610 Seri Iskandar, Perak, Malaysia",4.363404,100.976774,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS PETRONAS BAYU SENIBONG DT,"Lot PTD173047, Taman Bayu Senibong, 81750, Johor, Malaysia",1.493796,103.800716,OPERATIONAL
+Selangor,Petaling,STARBUCKS PETRONAS EQUINE PARK DT,"Petronas Station Equine Park 1, Mukim, 43300, Selangor, Malaysia",2.994794,101.676294,OPERATIONAL
+Selangor,Petaling,STARBUCKS PETRONAS FEDERAL HIGHWAY DT,"5 (KL-Bound, PETRONAS Temasya, KM18, Federal Hwy, Seksyen U1, 41050, Selangor, Malaysia",3.084448,101.583721,OPERATIONAL
+Sarawak,Kuching,STARBUCKS PETRONAS HEIGHTS DRIVE DT,"Jalan Stutong, 93350 Kuching, Sarawak, Malaysia",1.505834,110.377147,OPERATIONAL
+Selangor,Petaling,STARBUCKS PETRONAS KOTA DAMANSARA,"Petronas, Tropicana Indah, 47410 Petaling Jaya, Selangor, Malaysia",3.149559,101.580064,OPERATIONAL
+Selangor,Gombak,STARBUCKS PETRONAS LINGKARAN KARAK DT,"Lot PT6075 H.S (M, Karak Expy, 68100, Selangor, Malaysia",3.241165,101.716976,OPERATIONAL
+Selangor,Sepang,STARBUCKS PETRONAS PLUS DT,"Stesen Minyak Petronas, KM 305, PLUS Arah Selatan, 43300, Selangor, Malaysia",3.005976,101.725441,OPERATIONAL
+Selangor,Gombak,STARBUCKS PETRONAS RAWANG R&R DT,"Petronas R&R Rawang, North-South Expy, Arah Utara, 48000 Rawang, Selangor, Malaysia",3.331619,101.558553,OPERATIONAL
+Selangor,Petaling,STARBUCKS PETRONAS SG BESI PUCHONG DT,"Petronas, 217, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",3.050397,101.628864,OPERATIONAL
+Johor,Kulai,STARBUCKS PETRONAS TOLL SKUDAI NORTHBOUND,"Taman Teknologi Johor, 81300 Skudai, Johor, Malaysia",1.579384,103.649911,OPERATIONAL
+Selangor,Ulu Selangor,STARBUCKS PETRONAS ULU BERNAM DT (SB),"Petronas Station Ulu Bernam, KM 124, Kawasan Rehat & Rawat, 35800, Ulu Bernam, Malaysia",3.662836,101.52069,OPERATIONAL
+Negeri Sembilan,Kuala Pilah,STARBUCKS PILAH GATEWAY,"Kampung Gemelang, 72000 Kuala Pilah, Negeri Sembilan, Malaysia",2.734616,102.234637,OPERATIONAL
+Selangor,Petaling,STARBUCKS PJ8,"G1-4, WISMA DAJU 5, 21, Jalan Barat, Pjs 8, 46200 Petaling Jaya, Selangor, Malaysia",3.101538,101.640445,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PLATINUM PARK,"Unit 1.2, Menara Felda, Platinum Park. 11, 58200 Kuala Lumpur, Malaysia",3.155075,101.718922,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PLAZA DAMAS,"Ground Floor, Hartamas Shopping Centre, Lot P7-A, Plaza, Sri Hartamas, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.164063,101.656807,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS PLAZA MONT KIARA,"2, Jalan Kiara 2, Mont Kiara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.165468,101.651758,OPERATIONAL
+Selangor,Petaling,STARBUCKS PLAZA SHAH ALAM,"E9/E, Lot No. G10, Ground Floor, Plaza Shah Alam, 2, Jalan Tengku Ampuan Zabedah A 9/A, 40100 Shah Alam, Malaysia",3.084424,101.523141,OPERATIONAL
+Johor,Pontian,STARBUCKS PONTIAN,"Kampung Kubor, 82000 Pontian District, Johor, Malaysia",1.480737,103.399292,OPERATIONAL
+Negeri Sembilan,Port Dickson,STARBUCKS PORT DICKSON DT,"Port of HS (D) 8376, PT74, Persiaran Waterfront, PD Waterfront, 71000, Negeri Sembilan, Malaysia",2.52095,101.80033,OPERATIONAL
+Selangor,Sepang,STARBUCKS PRIMA 5 DT,"Prima Avenue, Prima 5C, 3505, Jalan Teknokrat 5, 63000, Selangor, Malaysia",2.920864,101.655945,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS PUTERI HARBOUR,"Little Red Cube, Lot 1D, Ground Floor, Persiaran Puteri Selatan, 79000, Johor, Malaysia",1.418052,103.656439,OPERATIONAL
+Selangor,Kuala Langat,STARBUCKS QUAYSIDE MALL,"GF(W)-11, GF(W)-11-E, Gamuda Kemuning, Kompleks Perniagaan Gamuda, 25.7, Persiaran Freesia, 42500 Telok Panglima Garang, Selangor, Malaysia",2.956632,101.552558,OPERATIONAL
+Pulau Pinang,Barat Daya,STARBUCKS QUEENSBAY MALL,"First Floor, Queensbay Mall, Unit No. 1F-K1/P2 [Postal No. 1F-108/109, 100, Persiaran Bayan Indah, 11900, Penang, Malaysia",5.331881,100.307207,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS QUILL CITY MALL,"G-13, Ground Floor, Quill City Mall, Jln Sultan Ismail, 50250 Kuala Lumpur, Malaysia",3.159569,101.699981,OPERATIONAL
+Pulau Pinang,Seberang Perai Utara,STARBUCKS RAJA UDA DT,"No. 7, Butterworth Business City Centre, Jalan Raja Uda, 12000, Penang, Malaysia",5.415281,100.381393,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS RESERVE,"Lot 170-G-38, 39, Gurney Plaza, 10250 George Town, Penang, Malaysia",5.437844,100.310143,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RESERVE - HYATT PLACE BUKIT JALIL,"Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.053682,101.670816,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RESERVE - MID VALLEY (GROUND FLOOR),"G-076 - G-079, Ground Floor (South Court), Mid Valley, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, WP Kuala Lumpur, Malaysia",3.116248,101.676266,OPERATIONAL
+Selangor,Petaling,STARBUCKS RESERVE 1 UTAMA OLD WING (GROUND FLOOR),"1 Utama Shopping Centre, Lot G139A, Ground Floor, 47800 Petaling Jaya, Malaysia",3.148561,101.616097,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RESERVE @ FOUR SEASONS,"Level 4a, no, Lot 1, Ground Floor at Shoppes at Four Seasons Place, 145, Jln Ampang, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.158673,101.7139,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RESERVE @THE GARDENS MALL,"S226B, 2nd Floor, The Gardens Mall, Mid Valley City, 58000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.117951,101.675244,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RESERVE BERJAYA TIMES SQUARE,"Berjaya Times Square, Lot No. G-09A, Ground Floor, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.142639,101.710107,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RESERVE BUKIT BINTANG JUNCTION,"Ground & Mezz Floor, Wolo Hotel, Corner of Jalan Bukit Bintang and, Jln Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.147084,101.711492,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RESERVE DESA PARKCITY,"Lot GF-03, Ground Floor, The Waterfront @, 5, Persiaran Residen, Desa Parkcity, 52200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.186895,101.628092,OPERATIONAL
+Selangor,Ulu Langat,STARBUCKS RESERVE ECO MAJESTIC DT,"No. 1-9, Jalan Eco Majestic 10/1, Eco Majestic, 43500, Semenyih, Malaysia",2.898911,101.832933,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS RESERVE ISLAND GLADES DT,"11600, Malaysia, Penang, Jelutong, Taman Island Glades, Jln Masjid Negeri",5.386871,100.30422,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RESERVE PUBLIKA,"Lot 42, Level G2, Publika Shopping Gallery, 1, Jln Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.17089,101.666469,OPERATIONAL
+Selangor,Petaling,STARBUCKS RESERVE SETIA ALAM DT,"Lot. 4, Persiaran Setia Impian, Bandar Setia Alam, Seksyen, U13 Shah Alam, 47500, Selangor, Malaysia",3.1017,101.444661,OPERATIONAL
+Pahang,Bentong,STARBUCKS RESERVE SKYAVENUE,"Lot T2B-31, SkyAvenue, 48000 Genting Highlands, Pahang, Malaysia",3.424097,101.794116,OPERATIONAL
+Selangor,Petaling,STARBUCKS RESERVE SUNWAY PYRAMID,"Lot G1.129, OB3.G.1 & OB3.G.2, Ground Floor, Oasis Boulevard, Sunway Pyramid Shopping Mall, 47500, Selangor, Malaysia",3.073098,101.606318,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RESERVE THE EXCHANGE TRX,"The Exchange, L2, TRX Retail Mall, Persiaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.142608,101.718727,OPERATIONAL
+Selangor,Petaling,STARBUCKS RESERVE TROPICANA GARDENS MALL,"Lot G-22, Ground Floor, Tropicana Gardens Mall, Tropicana Indah, 47810 Petaling Jaya, Selangor, Malaysia",3.149187,101.593482,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS RHB CENTRE,"Lot 1, Ground Floor Tower 1, RHB Centre, Jln Tun Razak, Royal Selangor Golf Club, 50400 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.144229,101.722127,OPERATIONAL
+Selangor,Kuala Langat,STARBUCKS RIMBAYU DT,"Part of Lot 36309, Mukim, 42500, Malaysia",2.940301,101.54463,OPERATIONAL
+Sabah,Sandakan,STARBUCKS SANDAKAN AIRPORT,"Lot GFL12, Ground Floor, Kerbside (Landside), Sandakan Airport, 90000 Sandakan, Sabah, Malaysia",5.896848,118.061915,OPERATIONAL
+Johor,Segamat,STARBUCKS SEGAMAT SRI UTAMA,"Pusat Komersial Sri Utama, Lot 25, Jalan Utama 3/2, 85000 Segamat, Johor, Malaysia",2.514359,102.823249,OPERATIONAL
+Sabah,Semporna,STARBUCKS SEMPORNA,"Lot 23, Lot 24 & Plaza A, Ground Floor, Seafest Commercial Complex, 91308, Semporna, Malaysia",4.479365,118.618235,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS SENTUL POINT,"A-G-18, Sentul Point, 8, Jln Sentul Pasar, Sentul, 51000 Kuala Lumpur, WP Kuala Lumpur, Malaysia",3.20211,101.689515,OPERATIONAL
+Negeri Sembilan,Seremban,STARBUCKS SEREMBAN 2 DT,"Lot 50800 Persiaran Utama S2-3, Jalan S2 D22, Seremban 2, 70300 Seremban, Negeri Sembilan, Malaysia",2.692086,101.906934,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS SERI AUSTIN DT,"Jalan Seri Austin 1, Taman Seri Austin, 81100 Johor Bahru, Johor, Malaysia",1.575899,103.747699,OPERATIONAL
+Selangor,Petaling,STARBUCKS SETIA CITY MALL,"Lot LG-33, Setia City Mall. 7, Persiaran Setia Dagang, Bandar Setia Alam, Seksyen, U13 Shah Alam, 40170, Selangor, Malaysia",3.109025,101.46152,OPERATIONAL
+Selangor,Ulu Langat,STARBUCKS SETIA MAYURI BROGA,"Jln Broga, 43500 Semenyih, Selangor, Malaysia",2.944901,101.865939,CLOSED_TEMPORARILY
+Johor,Johor Bahru,STARBUCKS SETIA TROPIKA DT,"No. 8B, Jalan Setia Tropika 1/21, Taman Setia Tropika, 81200 Johor Bahru, Johor, Malaysia",1.548664,103.717584,OPERATIONAL
+Selangor,Petaling,STARBUCKS SETIAWALK,"SETIAWALK, G-01G, SetiaWalk, 47160, Pusat Bandar Puchong, 47100 Puchong, Selangor, Malaysia",3.031817,101.616941,CLOSED_TEMPORARILY
+Selangor,Sepang,STARBUCKS SHAFTSBURY,"P1-22, Shaftsbury Square, Lot 2350, Persiaran Multimedia, Cyber 6, 63000, Selangor, Malaysia",2.923435,101.661755,OPERATIONAL
+W.P. Putrajaya,W.P. Putrajaya,STARBUCKS SHAFTSBURY AVENUE DT,"G-12, Ground Floor, Shaftsbury Putrajaya, Presint 1, 62100 Putrajaya, Malaysia",2.938829,101.713067,OPERATIONAL
+Sarawak,Sibu,STARBUCKS SIBU AIRPORT,"Lot No GFL07 & GFL09, Ground Floor, Landside Terminal, Sibu Airport, 96000 Sibu, Sarawak, Malaysia",2.256219,111.986388,OPERATIONAL
+Sarawak,Sibu,STARBUCKS SIBU PEDADA,"Lot 3047, Block 3, Jalan Pedada, 96000, Sarawak, Malaysia",2.308505,111.845277,OPERATIONAL
+Johor,Kulai,STARBUCKS SKUDAI R&R DT (SOUTH BOUND),"PTD110975, Lebuhraya Utara Selatan, KM 16, 5, Arah Selatan, Johor, Malaysia",1.590537,103.635737,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS SOHO KL,"Soho KL, Unit J-0G-01, Solaris Mont Kiara, 50480 Kuala Lumpur, Malaysia",3.175281,101.660115,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS SOUTHLINK BANGSAR,"Unit B1-06B, Level Basement One, South Link, 2A, Jalan Kerinchi Kiri 2, Bangsar South, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.113143,101.665391,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS SRI PINANG DT,"No. 29C, Lot L1-1, L1-2, L1-3 & L2-1, Maritime, 5, Lebuh Sungai Pinang, 11600 Jelutong, Penang, Malaysia",5.397686,100.329361,OPERATIONAL
+Selangor,Petaling,"STARBUCKS SS15, SUBANG JAYA","Ground Floor, No. 77 & 79, Jalan SS 15/8a, Ss 15, 47500 Subang Jaya, Selangor, Malaysia",3.074073,101.590485,OPERATIONAL
+Selangor,Petaling,STARBUCKS SS2 PETALING JAYA,"No. 5 Ground Floor, 3, Jalan SS 2/67, Taman Sea, 47300 Petaling Jaya, Selangor, Malaysia",3.118499,101.623106,OPERATIONAL
+W.P. Putrajaya,W.P. Putrajaya,STARBUCKS SUASANA PJH,"Level G, Block A, Suasana PJH, Jalan Tun Abdul Razak, Presint 2, 62100 Putrajaya, Malaysia",2.925918,101.686477,OPERATIONAL
+Selangor,Petaling,STARBUCKS SUBANG JAYA MEDICAL CENTRE,"Sime Darby Medical Centre Subang Jaya, Lot G7, Ground Floor, Mediplex, 1, Jalan SS 12/1A, SS12, 47500, Selangor, Malaysia",3.079682,101.593649,OPERATIONAL
+Selangor,Petaling,STARBUCKS SUBANG SKYPARK,"Lot G12 & G13, Terminal 3, Sultan Abdul Aziz Salahuddin Airport, Jalan Lapangan Terbang SAAS, 47200, Selangor, Malaysia",3.133192,101.553872,OPERATIONAL
+Terengganu,Kuala Nerus,STARBUCKS SULTAN MAHMUD AIRPORT,"Lapangan Terbang Sultan Mahmud, Kampung Telaga Batin, 21300 Kuala Terengganu, Terengganu, Malaysia",5.37903,103.105673,OPERATIONAL
+Selangor,Petaling,STARBUCKS SUNSURIA FORUM,"Lot C01, Ground Floor, 1, Jln Setia Dagang AL U13/AL, Alam Nusantara, 40170 Shah Alam, Selangor, Malaysia",3.105975,101.468341,OPERATIONAL
+Pulau Pinang,Seberang Perai Tengah,STARBUCKS SUNWAY CARNIVAL,"GF-25, Ground Floor, Sunway Carnival Mall, Jalan Todak, Pusat Bandar Seberang Jaya, 13700 Perai, Penang, Malaysia",5.399017,100.397695,OPERATIONAL
+Selangor,Petaling,STARBUCKS SUNWAY GIZA,"Sunway Giza Mall, G.05, Block D, 47810, Selangor, Malaysia",3.150521,101.591691,OPERATIONAL
+Selangor,Petaling,STARBUCKS SUNWAY PINNACLE,"GL-1, Ground Floor Lobby, The Pinnacle, Persiaran Lagoon Selatan, Bandar Sunway, UEP, 46150, Selangor, Malaysia",3.070216,101.610033,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS SUNWAY PUTRA MALL,"Lot No. G-6, Ground Floor, Sunway Putra Mall. 100, 50350 Kuala Lumpur, Malaysia",3.166104,101.692131,OPERATIONAL
+Selangor,Petaling,STARBUCKS SUNWAY PYRAMID (LG1),"Sunway Pyramid, Lot LG1.110, Lower Ground 1, Jalan PJS 11/15, Bandar Sunway, 59200, Selangor, Malaysia",3.071739,101.605919,OPERATIONAL
+Perak,Kinta,STARBUCKS SUNWAY TAMBUN DT,"Part of Lot HS (D) KA 72917, PT146136 (Plot 10) of, 31150, Perak, Malaysia",4.620879,101.148193,OPERATIONAL
+Selangor,Petaling,STARBUCKS SUNWAY UNIVERSITY,"Mezzanine Floor, 5, Jalan Universiti, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia",3.067206,101.603868,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS SUNWAY VELOCITY,"Lot G-27, Ground Floor, Sunway Velocity Mall, Jalan Peel, 55100 Kuala Lumpur, Malaysia",3.127824,101.724814,OPERATIONAL
+Sabah,Kota Kinabalu,STARBUCKS SURIA SABAH,"G-2 & G-69, Ground Floor, Suria Sabah Shopping Mall, 88000, Sabah, Malaysia",5.987958,116.078135,OPERATIONAL
+Sabah,Tawau,STARBUCKS T2 APAS TAWAU,"No.15 (Lot 29) No.30 (Lot 30) No.16 (Lot 31) No.29 (Lot 32), T2@Apas, Jalan T2 Mile 1, Jalan Apas, 91000 Tawau, Sabah, Malaysia",4.251394,117.897773,OPERATIONAL
+Selangor,Petaling,STARBUCKS TAIPAN,"Ground FLoor, No. 41, Jalan USJ 10/1d, 47620 Subang Jaya, Malaysia",3.049447,101.584197,OPERATIONAL
+Perak,Larut Dan Matang,STARBUCKS TAIPING SENTRAL,"Lot G-09 & G, 10, 36, Jalan Istana Larut, 34000 Taiping, Perak, Malaysia",4.8653,100.731496,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS TAMAN CONNAUGHT,"Ground Floor, 2, Jalan Menara Gading 1, Taman Connaught, 56000 Kuala Lumpur, Malaysia",3.080666,101.73347,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS TAMAN DAYA DT,"6C, Jalan Sagu 18, Taman Daya, 81100 Johor Bahru, Johor, Malaysia",1.545834,103.765425,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS TAMAN DESA,"No.25, Ground Floor, Jln 5/109f, Taman Danau Desa, 58100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.098882,101.686875,OPERATIONAL
+Perak,Muallim,STARBUCKS TANJUNG MALIM,"Shop 4, Lot 232, Jalan Tanjong, Proton City, 35900 Tanjong Malim, Perak, Malaysia",3.691345,101.522809,OPERATIONAL
+Pulau Pinang,Timur Laut,STARBUCKS TANJUNG TOKONG DT,"4-G, Jalan Pantai Molek, Kampung Raya Baharu, 10470 Tanjung Tokong, Pulau Pinang, Malaysia",5.446521,100.305596,OPERATIONAL
+Perak,Batang Padang,STARBUCKS TAPAH R&R (SB),"Lot TPHSB-C05, Tapah RSA Southbound, North-South Expy, 35000, Perak, Malaysia",4.180677,101.290165,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS TASEK CENTRAL,"Level 2, Plaza Tasek, Lot 2-34 & 2-35, 2, Jalan Pendekar 16, 81300 Skudai, Malaysia",1.514227,103.654942,OPERATIONAL
+Perak,Kinta,STARBUCKS TASEK DT,"Pusat Perdagangan, Lot 382914-382921, Jalan, Tasek Mutiara 1, Tasek Mutiara, 31400 Ipoh, Malaysia",4.654235,101.10781,OPERATIONAL
+Pahang,Kuantan,STARBUCKS TELUK CEMPEDAK,"No 1&2, Pusat Rekreasi, Teluk Cempedak, Jalan Tengku, Jalan T.A. Bakar, 25050 Kuantan, Pahang, Malaysia",3.812301,103.372062,OPERATIONAL
+Perak,Hilir Perak,STARBUCKS TELUK INTAN,"No.1, 1A & 1B, Jalan Intan 2, Bandar Baru Teluk Intan, 36000 Teluk Intan, Perak, Malaysia",4.020261,101.023307,OPERATIONAL
+Selangor,Petaling,STARBUCKS THE CURVE,"Ground Floor, The Curve, G88, Mutiara Damansara, 47800, Selangor, Malaysia",3.157631,101.611292,OPERATIONAL
+Selangor,Petaling,STARBUCKS THE GLADES,"Shop 10 & 11, The Glades Plaza, Off, Section 3, Persiaran Putra Perdana, Putra Heights, 47650 Subang Jaya, Selangor, Malaysia",3.008358,101.577439,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS THE LINK 2,"Lot UG-42, Jalil Link 2, Jalan Jalil Perkasa 3, Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.052383,101.679646,OPERATIONAL
+Selangor,Petaling,STARBUCKS THE MINES,"L2-80(p), The Mines Shopping Mall, Mines Wellness City, 43300 Seri Kembangan, Selangor, Mines Wellness City, 43300 Seri Kembangan, Selangor, Malaysia",3.028273,101.718614,OPERATIONAL
+Melaka,Melaka Tengah,STARBUCKS THE SHORE,"GF-10, The Shore Shopping Gallery, Jalan, Jln. Bunga Raya, 75300, Malacca, Malaysia",2.202907,102.249953,OPERATIONAL
+Sarawak,Kuching,STARBUCKS THE SPRING,"Lot G10, First Floor, The Spring Shopping Centre, Lot 7196, Section 64, Kuching Town Land District, 93350, Sarawak, Malaysia",1.535546,110.358202,OPERATIONAL
+Sarawak,Bintulu,STARBUCKS THE SPRING BINTULU,"Lot G42A, Ground Floor, The Spring, 97000 Bintulu, Malaysia",3.180725,113.033994,OPERATIONAL
+Selangor,Petaling,STARBUCKS THE STARLING,"G 039, Ground Floor, the Starling, 6, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor, Malaysia",3.134348,101.62329,OPERATIONAL
+Perak,Kampar,"STARBUCKS TIN VILLAGE, KAMPAR","Lot No. 5 & 6, Ground Floor, Tin Village Mall, 31900, Perak, Malaysia",4.328737,101.146783,OPERATIONAL
+Johor,Johor Bahru,STARBUCKS TOPPEN SHOPPING CENTRE,"L1.52, Level 1, Toppen Shopping Centre, 33, Jln Harmonium, 81100 Johor Bahru, Malaysia",1.552795,103.798475,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS TPM DT,"Jalan Teknologi 8, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.054851,101.70443,OPERATIONAL
+Kelantan,Kota Bharu,STARBUCKS TROIKA KOTA BHARU,"Lot 1-10 & 1-11, Troika, Jalan Mahmood, Bandar Kota Bharu, 15200 Kota Bharu, Kelantan, Malaysia",6.121004,102.241119,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS TROPIKA BUKIT JALIL,"Lot No G-05, Ground Floor, E-G-5, Jalan Jalil Perkasa 3, Bukit Jalil, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.05301,101.678139,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS TTDI,"Lot A & B, No 20-G, Jalan Tun Mohd Fuad 1, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.141695,101.629161,OPERATIONAL
+Selangor,Gombak,STARBUCKS UKAY PERDANA DT,"No. PT 5765, Seksyen 2, Bandar, Taman Bukit Mulia, 68000 Ampang Jaya, Selangor, Malaysia",3.197274,101.775643,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS UNITED POINT,"Unit G-25, Ground Floor, Pusat Perdagangan Berpadu (United Point, 10, Jalan Lang Emas, 51200 Kuala Lumpur, Malaysia",3.190517,101.654068,OPERATIONAL
+Selangor,Petaling,STARBUCKS UOA BUSINESS PARK,"Unit 1-1, Level 1, The Podium, Tower 3, UOA Business Park, 1, Jalan Pengaturcara U1/51, Seksyen U1, 40150, Selangor, Malaysia",3.086147,101.586938,OPERATIONAL
+Selangor,Petaling,STARBUCKS UPTOWN 1,"110G, Jalan SS 21/39, Damansara Utama, 47400 Petaling Jaya, Selangor, Malaysia",3.133344,101.621359,OPERATIONAL
+Pulau Pinang,Seberang Perai Selatan,STARBUCKS USM,"Universiti Sains Malaysia, Nibong Tebal, Pulau Pinang, Malaysia",5.150262,100.495059,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS VIVA HOME,"Level LG-46, VIVA Shopping Mall, Jln Loke Yew, Malaysia",3.122544,101.719097,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS WANGSA WALK,"Lot G-26 AG-26, Ground Floor, Wangsa Walk Mall, 9, Jalan Wangsa Perdana 1, Taman Sri Rampai, 53300 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.198409,101.742254,OPERATIONAL
+Sabah,Kota Kinabalu,"STARBUCKS WARISAN SQUARE, KOTA KINABALU","Warisan Square, Lot No. 8, Ground & 1st Floor, Block C, Jln Tun Fuad Stephens, 88000, Sabah, Malaysia",5.979048,116.070878,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS WISMA CIMB,"50350, Jalan Pantai Baharu, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.117102,101.667688,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS WISMA HB,"A-0-1 (Front Portion), Ground Floor, Block A, Wisma HB, Megan Avenue II, 12, 50450, Federal Territory of Kuala Lumpur, Malaysia",3.161764,101.711874,OPERATIONAL
+W.P. Kuala Lumpur,W.P. Kuala Lumpur,STARBUCKS WISMA UOA,"19-1-2, Ground Floor, UOA Centre, 50450, Federal Territory of Kuala Lumpur, Malaysia",3.152685,101.711954,OPERATIONAL
+Selangor,Ulu Langat,STARBUCKS ÆON CHERAS SELATAN,"Lot G31, ÆON, Cheras Selatan Shopping Centre, Lebuh Utama Tun Hussein Onn, Tun Hussein Onn, 43200 Cheras, Selangor, Malaysia",3.033257,101.765127,OPERATIONAL
+W.P. Labuan,W.P. Labuan,STARBUCKS LABUAN AIRPORT LOT,"NO. L1L06, LEVEL 1, LABUAN AIRPORT, JALAN TUN MUSTAPHA, TAMAN SEC AIRPORT, 87015, LABUAN",5.294416080589258,115.2494513665717,OPERATIONAL
