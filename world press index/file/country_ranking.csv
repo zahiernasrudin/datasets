@@ -1,0 +1,181 @@
+country_prev_ranking,country_ranking,country_name,country_score
+1,1,Norway,91.89
+3,2,Denmark,89.6
+4,3,Sweden,88.32
+6,4,Netherlands,87.73
+5,5,Finland,86.55
+8,6,Estonia,86.44
+9,7,Portugal,85.9
+2,8,Ireland,85.59
+12,9,Switzerland,84.01
+21,10,Germany,83.84
+20,11,Luxembourg,83.8
+16,12,Latvia,82.9
+7,13,Lithuania,81.73
+15,14,Canada,81.7
+11,15,Liechtenstein,81.52
+31,16,Belgium,81.49
+14,17,Czech Republic,80.14
+18,18,Iceland,80.13
+13,19,New Zealand,79.72
+10,20,Timor-Leste,78.92
+24,21,France,78.65
+19,22,Samoa,78.41
+26,23,United Kingdom,77.51
+32,24,Jamaica,77.3
+30,25,Trinidad and Tobago,76.69
+23,26,Costa Rica,76.13
+35,27,Taiwan,76.13
+48,28,Suriname,76.11
+17,29,Slovakia,76.03
+36,30,Spain,76.01
+28,31,Moldova,74.86
+29,32,Austria,74.69
+86,33,Mauritania,74.2
+22,34,Namibia,74.16
+43,35,Dominican Republic,73.89
+38,36,North Macedonia,73.78
+34,37,Seychelles,73.75
+25,38,South Africa,73.73
+27,39,Australia,73.42
+39,40,Montenegro,73.21
+33,41,Cabo Verde,72.77
+50,42,Slovenia,72.6
+49,43,Armenia,71.6
+89,44,Fiji,71.23
+44,45,Tonga,70.11
+41,46,Italy,69.8
+57,47,Poland,69.17
+42,48,Croatia,68.79
+53,49,Romania,68.45
+62,50,Ghana,67.71
+52,51,Uruguay,67.7
+83,52,Chile,67.32
+54,53,Ivory Coast,66.89
+51,54,Belize,66.85
+45,55,United States,66.59
+94,56,Gabon,65.83
+63,57,Mauritius,65.55
+46,58,Gambia,65.53
+71,59,Bulgaria,65.32
+66,60,Liberia,65.13
+79,61,Ukraine,65
+47,62,South Korea,64.87
+82,63,Malawi,64.46
+74,64,Sierra Leone,64.27
+55,65,Cyprus,63.14
+40,66,Argentina,63.13
+72,67,Hungary,62.98
+93,68,OECS,62.83
+81,69,Congo-Brazzaville,62.57
+68,70,Japan,62.12
+75,71,Comoros,61.47
+37,72,Andorra,61.44
+84,73,Malta,60.96
+95,74,Nepal,60.52
+56,75,Kosovo,60.19
+98,76,Central African Republic,60.12
+60,77,Guyana,60.1
+85,78,Guinea,59.97
+65,79,Botswana,59.78
+61,80,Niger,59.71
+64,81,Bosnia-Herzegovina,58.85
+92,82,Brazil,58.59
+69,83,Panama,58.55
+105,84,Qatar,58.48
+111,85,Eswatini,58.31
+58,86,Burkina Faso,58.24
+106,87,Thailand,58.12
+107,88,Greece,57.15
+112,89,Benin,56.73
+76,90,Northern Cyprus,56.72
+59,91,Papua New Guinea,56.02
+78,92,Guinea Bissau,55.95
+99,93,Haiti,55.92
+104,94,Senegal,55.44
+87,95,Zambia,55.38
+109,96,Chad,54.81
+143,97,Tanzania,54.8
+91,98,Serbia,54.48
+96,99,Albania,54.1
+101,100,Madagascar,54.07
+97,101,Israel,53.23
+116,102,Kenya,53.22
+77,103,Georgia,53.05
+125,104,Angola,52.44
+102,105,Mozambique,52.42
+100,106,Maldives,52.36
+73,107,Malaysia,52.07
+114,108,Burundi,51.78
+88,109,Mongolia,51.34
+80,110,Ecuador,51.3
+108,111,Indonesia,51.15
+123,112,Nigeria,51.03
+70,113,Togo,50.89
+113,114,Mali,50.56
+103,115,Paraguay,50.48
+126,116,Zimbabwe,50.31
+142,117,Brunei,50.09
+121,118,Tunisia,49.97
+139,119,Colombia,49.63
+122,120,Kyrgyzstan,49.11
+128,121,Mexico,49.01
+67,122,Lesotho,48.92
+124,123,Democratic Republic of Congo,48.91
+117,124,Bolivia,48.88
+110,125,Peru,47.76
+129,126,Singapore,47.19
+120,127,Equatorial Guinea,46.49
+133,128,Uganda,46
+144,129,Morocco / Western Sahara,45.97
+138,130,Cameroon,44.95
+154,131,Kuwait,44.66
+146,132,Jordan,44.3
+115,133,El Salvador,44.01
+132,134,Philippines,43.36
+140,135,Hong Kong,43.06
+118,136,South Sudan,42.57
+155,137,Oman,42.52
+127,138,Guatemala,42.28
+136,139,Algeria,41.98
+119,140,Lebanon,41.91
+130,141,Ethiopia,41.37
+134,142,Kazakhstan,41.11
+149,143,Libya,40.59
+131,144,Rwanda,40.54
+141,145,Somalia,39.4
+169,146,Honduras,38.18
+90,147,Bhutan,37.29
+137,148,Uzbekistan,37.27
+148,149,Sudan,35.73
+135,150,Sri Lanka,35.21
+147,151,Cambodia,34.28
+150,152,Pakistan,33.9
+160,153,Laos,33.76
+168,154,Yemen,33.67
+153,155,Tajikistan,33.31
+159,156,Venezuela,33.06
+156,157,Palestine,31.92
+165,158,Türkiye,31.6
+161,159,India,31.28
+145,160,United Arab Emirates,30.62
+162,161,Djibouti,30.14
+164,162,Russia,29.86
+158,163,Nicaragua,29.2
+151,164,Azerbaijan,27.99
+163,165,Bangladesh,27.64
+170,166,Saudi Arabia,27.14
+157,167,Belarus,26.8
+172,168,Cuba,25.63
+167,169,Iraq,25.48
+166,170,Egypt,25.1
+173,171,Myanmar,24.41
+179,172,China,23.36
+171,173,Bahrain,23.21
+178,174,Vietnam,22.31
+176,175,Turkmenistan,22.01
+177,176,Iran,21.3
+180,177,North Korea,20.66
+152,178,Afghanistan,19.09
+175,179,Syria,17.41
+174,180,Eritrea,16.64
