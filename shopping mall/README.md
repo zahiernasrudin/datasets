@@ -19,7 +19,7 @@ This dataset lists all the shopping malls available in Malaysia. It contains inf
 | `formatted_address` | Text          | Full address of the shopping mall, formatted for clarity (from Google API).                                          | "168, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia" |
 | `state`             | Text          | The state in which the shopping mall is located, based on the boundaries set by the government.                      | "W.P. Kuala Lumpur"                                                                                     |
 | `district`          | Text          | The district within the state where the shopping mall is situated, based on the boundaries set by the government.    | "W.P. Kuala Lumpur"                                                                                     |
-| `status`            | Text          | Operational status of the mall ("Operational", "Closed", "Coming soon", "Temporarily closed", "Permanently closed"). | "Operational"                                                                                           |
+| `status`            | Text          | Operational status of the mall ("Operational", "Coming soon", "Temporarily closed", "Permanently closed"). | "Operational"                                                                                           |
 
 ## **Data Cleaning Steps**
 
