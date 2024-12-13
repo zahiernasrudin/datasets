@@ -1,420 +1,420 @@
-name,lat,lng,place_id,formatted_address,state,district,status
-Lot 10,3.146781096,101.7115865,ChIJURADLNA3zDERBUon9ANBTiQ,"50, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Quill City Mall,3.160096716,101.7000884,ChIJzw7vn65JzDER5r0wpUhcXU4,"1018, Jln Sultan Ismail, Bandar Wawasan, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Johor Bahru City Square,1.462723945,103.7632381,ChIJZ6vyT8MS2jERZbHkx3oUHnQ,"106-108, Jalan Wong Ah Fook, Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-KSL City Mall,1.486076191,103.7623898,ChIJZ6EbFTBt2jERflX9tqaEOF0,"LG 64, 33, Jalan Seladang, Taman Abad, 80250 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-R&F Mall Johor Bahru,1.459024368,103.7694707,ChIJubVfkDgT2jERyx5LuRIvIw0,"L2-086-A5, Mercu, 1, Jalan Tanjung Puteri, Tanjung Puteri, 80300 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Aman Central,6.125050122,100.3668115,ChIJpRemiblESzARdkytmmL-ofQ,"Aman Central, 1, Darul Aman Hwy, Kampung Lubok Peringgi, 05100 Alor Setar, Kedah, Malaysia",Kedah,Kota Setar,Operational
-MesaMall Nilai,2.825161021,101.7773824,ChIJN7EK_JLGzTERZxVcqpdLtwQ,"MESAMALL, Persiaran Ilmu, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-East Coast Mall,3.818684003,103.3262857,ChIJDXO-Huu7yDERTxdtz5jz2po,"Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang, Malaysia",Pahang,Kuantan,Operational
-Tree Square Mall,5.463589457,100.283741,ChIJX0qXozDDSjARQlRc5-kbTkw,"88, Jalan Sungai Kelian, 11200 Tanjung Bungah, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Strand Mall,3.155329455,101.5936863,ChIJ_QZk0CFPzDERh2npbnmrS7g,"46-G, Jalan PJU 5/22 Encorp Strand Pusat Perdagangan Kota Damansara, Pju 5 Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-SB Mall,3.209028245,101.5636181,ChIJNRb3oIdFzDERxkP158Ex-WA,"Lot 2-18, 2, Seksyen U20, Bandar Baru Sungai Buloh, 40160 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Great Eastern Mall,3.1602108,101.736936,ChIJW2BdmLA3zDERQI0BrKeUURc,"303, Jln Ampang, Desa Pahlawan, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Bangsar Shopping Centre,3.1428401,101.6675173,ChIJ7_y5Tq9JzDERVkRzAXei3c8,"285, Jalan Maarof, Bangsar, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Bangsar Village I & II,3.129626,101.670946,ChIJ3frksplJzDER5USO8zLKNs0,"1, Jalan Telawi 1, Bangsar, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-NU Sentral,3.1328277,101.6873496,ChIJgakKKSVJzDERjXMeoGqoR98,"Nu Sentral Shopping Mall, Jalan Tun Sambanthan, City Centre, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Berjaya Times Square,3.1421984,101.7105512,ChIJQ47BkCg2zDER3BvZuEV9la8,"Berjaya Times Square, Imbi, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Bukit Bintang Plaza,3.1457406,101.7102981,ChIJqYGucyk2zDERpJ37kYeZQPM,"Bukit Bintang Plaza, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Temporarily closed
-Fahrenheit 88,3.1472735,101.7130436,ChIJg5laCyw2zDERUuHjHTLlnok,"179, Jln Gading, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Imbi Plaza,3.1438109,101.7112198,ChIJ2T6f3yg2zDERCa7pS_8xabQ,"Jln Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Kenanga Wholesale City,3.1367328,101.7078259,ChIJdbawVSc2zDERjwW5Qlv7lN4,"2, Jalan Gelugor, Pudu, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Malaysia Grand Bazaar,3.1394696,101.7092656,ChIJ__8_4Sc2zDERysrmJlI01iE,"BBCC Hub, Ground Floor & First Floor, 2, Jln Hang Tuah, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Mitsui Shopping Park LaLaport Bukit Bintang City Centre,3.1408189,101.7086085,ChIJ2wBKclM3zDERxhFO1U42f34,"Lot 2.44A, Level 2, LaLaport, Jln Hang Tuah, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Plaza Low Yat,3.1440858,101.70994,ChIJYYacASk2zDERh3Iqf0NTR1g,"7, Jalan Bintang, Off Jalan Bukit Bintang, Central, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Pavilion Kuala Lumpur,3.1489607,101.7134125,ChIJm1A1iSw2zDERtJ-nsFBslu0,"168, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Sungei Wang Plaza,3.1451126,101.7114909,ChIJw_uZIyk2zDERHksxFNzcHb8,"Jln Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-The Exchange TRX,3.1424073,101.7168132,ChIJP3e35y82zDERtMlTjdDsXTg,"Persiaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-The Starhill,3.1467855,101.7113043,ChIJ2S0HAyo2zDERg94Jy1u7n78,"Bukit Bintang, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Pavilion Bukit Jalil,3.0502354,101.670963,ChIJ1WK28udKzDERlczc3oAKZCQ,"2, Persiaran Jalil 8, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-1 Shamelin Shopping Centre,3.1227265,101.7401395,ChIJY1Zv3m82zDERcvJ69kHY4iw,"100, Jalan 4/91, Taman Shamelin Perkasa, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",Selangor,Ulu Langat,Operational
-AEON Taman Maluri Shopping Centre,3.1259253,101.7283988,ChIJI2uKaRM2zDERpt7du-HIaqk,"Jalan Jejaka, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Cheras Leisure Mall,3.0909294,101.7431317,ChIJm1EIWx01zDERxrth90qvHkQ,"Level 3, Jalan Manis 6, Taman Bukit Segar, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Cheras Sentral Mall,3.0787772,101.7447049,ChIJQyguwK41zDERImQvNoDevks,"Jln 3/144a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-EkoCheras Mall,3.0934935,101.7391395,ChIJvaM1Vdw1zDERCEBYgTm3xU8,"No.693, Batu, 5, Jln Cheras, Taman Mutiara Barat, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Ikon Connaught,3.0814646,101.7314185,ChIJF8iv8yI1zDERZussn_gmmZ0,"IKON CONNAUGHT MALL, 160, Jalan Cerdas, Taman Connaught, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-MyTOWN Shopping Centre,3.1348713,101.722742,ChIJB3uwzD02zDERHQMlA6UmnJU,"6, Jalan Cochrane, Seksyen 90, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Sunway Velocity Mall,3.1278714,101.7248453,ChIJwYo9AhQ2zDERokwJnyvbwhY,"Lingkaran Sunway Velocity, Sunway Velocity, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-8 Conlay,3.1502299,101.7153463,ChIJ0bmF6xg3zDERcVT0Cdt-Fao,"8, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
-Avenue K Shopping Mall,3.1594766,101.7135149,ChIJ____xNA3zDERO4igW3-sa28,"156, Jln Ampang, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Intermark Mall,3.1613001,101.7199536,ChIJVXXIZcU3zDERkpdEfCQBDT8,"Intermark Mall, 348, Jln Tun Razak, Kampung Datuk Keramat, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Shoppes At Four Seasons Place,3.1581836,101.7137683,ChIJH4WTx-w3zDERMZYvtKRjnyI,"145, Jln Ampang, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Suria KLCC,3.1582482,101.7121664,ChIJH5xmLdE3zDERKa4a_IywVck,"241, Menara Berkembar Petronas, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-The LINC KL,3.1589303,101.7209621,ChIJc51XDnA3zDERKPSkKRzOSpI,"360, Jln Tun Razak, Taman U Thant, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Damansara City Mall,3.1455193,101.6624926,ChIJsS6I5KlJzDERAmJx91OQpUk,"6, Jalan Damanlela, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Pavilion Damansara Heights,3.1468172,101.6632101,ChIJTYNQiKlJzDERfLsxWWHHoIU,"3, Jalan Damanlela, Pusat Bandar Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-CapSquare Centre,3.1541482,101.7001134,ChIJ69s5ZyxIzDERCww7H-uT6dI,"Level 31, Menara AIA Capsquare, Jalan Munshi Abdullah, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-City One Plaza,3.1552049,101.6980047,ChIJl23w5h9JzDERYHGHhlhknmc,"Jalan Munshi Abdullah, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Pertama Complex,3.1573072,101.6952903,ChIJt3kp4jFIzDERYTTxCkrBGZs,"1222, Jalan Tuanku Abdul Rahman, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-SOGO Kuala Lumpur,3.1560783,101.6952893,ChIJbUbW7y1IzDERi6WYVG8fI5c,"190, Jalan Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Sunway Putra Mall,3.1665524,101.6924341,ChIJy4nAbDlJzDER6HZyA4ZtdpE,"100, Jalan Putra, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Plaza GM Kuala Lumpur,3.1659492,101.6970891,ChIJbdTbniRIzDERn3eiw4-WWb8,"Plaza Gm, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Mutiara Complex,3.1889954,101.6808872,ChIJsS_IjnVIzDER3khU7BWGt9E,"568, Jalan Ipoh 3.3 Miles Kuala Lumpur, Batu Complex Bussiness Centre, 51200 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Sungai Mas Plaza,3.2024719,101.6717983,ChIJ4ypzlM9HzDER74ZKM0oKUpY,"5, Jln Ipoh, Taman Kok Lian, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Bloomsvale Shopping Gallery,3.0753999,101.6606866,ChIJcZG6-6VLzDERVQQ8jzfsz10,"Jalan Puchong, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Pearl Point Shopping Mall & Pearl Shopping Gallery,3.0846946,101.6733384,ChIJSwoQIphLzDERUmua0iZ1wfg,"Menara Pearl Point 2 No. 2A, Jalan Sepadu, Off, Jln Klang Lama, Taman United, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-The Scott Garden,3.095009,101.6746841,ChIJAc0ITThKzDERckunp8Gzf_s,"The Scott Garden, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-ÆON Mall Metro Prima,3.2133117,101.6395118,ChIJnzFSBLZHzDER8smiHSIjJKM,"52100, Aeon Mall, Metro Prima, 52100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Brem Mall,3.2044611,101.6675995,ChIJ31oLl85HzDERW9aX56STRI0,"Jalan Jambu Mawar, Taman Sri Delima, 52000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Kepong Village Mall,3.213966,101.6355931,ChIJc3JwNGpGzDERY2k7mh1IIbA,"Kepong, 52100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Kompleks Desa,3.2096844,101.6303428,ChIJ3ex_IhNGzDERn71vITeNv4g,"Jln Kepong, Taman Kepong, 52100 Kuala Lumpur, Selangor, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-KL Midtown,3.1813458,101.6681835,ChIJiTdPDQBJzDER6SHneiLuSDU,"5MJ9+H5, Dutamas, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
-Mid Valley Megamall,3.117196,101.678054,ChIJS9Y7UY5JzDERudeQ8EDhRmw,"Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-The Gardens Mall,3.119085603,101.676042,ChIJs8bC5Y5JzDERJ6ehASo_-20,"Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-KL Eco City Mall,3.1193326,101.6743881,ChIJM_iX7QRJzDERQ8YMmhuPIaI,"INC, 3, Jalan Bangsar, KL Eco City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-KL Gateway Mall,3.114035,101.6634081,ChIJq6reQYBJzDERGDH3SiooRZI,"2, Jalan Kerinchi, Kampung Kerinchi, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Nexus Bangsar South,3.10968,101.6653807,ChIJAQDAtStKzDERH_KXp7vMzNk,"7, Jalan Kerinchi, Bangsar South, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Pudu Plaza,3.136739,101.7135169,ChIJ9_g05Tc3zDERUKOSW2JVqtU,"Jalan Landak, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Pudu Sentral,3.1456853,101.7006055,ChIJm5FoTNFJzDER2-pitV9m-e4,"PUDU SENTRAL, 12, Jln Pudu, City Centre, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Plaza Salak Park,3.0827782,101.7024706,ChIJ14mYXXdKzDERq3Rr43idU3k,"2, Jalan 1/125e, Taman Desa Petaling, 57100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-1 Mont Kiara,3.1659615,101.652742,ChIJz6U4mPFIzDERbNcRkGIp1LI,"1, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-163 Retail Park,3.1664583,101.6523213,ChIJZ6ZzKPJIzDER5e9LSMzFTJE,"8, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Hartamas Shopping Centre,3.163504,101.656995,ChIJQdVhI_dIzDERjqhpE-AGlew,"60, Jalan Sri Hartamas 1, Taman Sri Hartamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Plaza Mont Kiara,3.166001,101.6519883,ChIJ1_6OgcWDt4cRRtLBkclRW_o,"A-6-10, BLOCK A, PLAZA MONT KIARA, 2, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Publika Shopping Gallery,3.1714242,101.6642001,ChIJIVqWDl5IzDERNCOhnX8t_NU,"1, Jln Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Solaris Parq The Mall,3.1741036,101.669243,ChIJz7cgxeNJzDER3GiIYLm7ga8,"7, Changkat Hartamas, Solaris On The Park, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
-SAMA Square,3.194148,101.7202435,ChIJgbO7djc5zDER-o3yr2hLeL4,"Jalan 1/23c, Kampung Baru Air Panas, 53200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Setapak Central,3.205435,101.7199889,ChIJL4BKORI4zDERB8t2wthEFkI,"67, Jln Taman Ibu Kota, Taman Danau Kota, 53300 Kuala Lumpur, Wilayah Persekutuan, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-ÆON AU2  Shopping Centre,3.1771405,101.7507835,ChIJ6buhvJ03zDER8pfjKKl8zTY,"Aeon Au2 Shopping Centre, Au 2, 54200 Kuala Lumpur, Selangor, Malaysia",Selangor,Gombak,Operational
-Datum Jelatek Mall,3.1672198,101.7361289,ChIJUZc8R7w3zDERXY-b6exTmJc,"Datum Jelatek, P1, Jln Jelatek, Taman Keramat, 54200 Wilayah Persekutuan, Federal Territory of Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Endah Parade,3.063303,101.6951981,ChIJg-Gw-o9KzDERlqNBQvsTb-Q,"Endah Parade, 1, Jalan 1/149e, Taman Sri Endah, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-KL East Mall,3.2247781,101.7304658,ChIJRf33Eh05zDERKqnpK_diqS4,"823, Jln Lingkaran Tengah 2, KL Timur, 53100 Kuala Lumpur, Selangor, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-M3 Mall,3.217628,101.7184995,ChIJR-PQ0m84zDERfECwtBmV0Yk,"Jln Madrasah, Taman Melati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Melawati Mall,3.2109589,101.7487551,ChIJMx-1emc5zDERTPzdmoMthqE,"Mall, Jalan Bandar 12, Taman Melawati, 53100 Kuala Lumpur, Selangor, Malaysia",Selangor,Gombak,Operational
-Glo Damansara,3.132696,101.6298517,ChIJj_dWfzhJzDERI9HaoLGBJq8,"699, Jln Damansara, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",Selangor,Petaling,Operational
-ÆON Alpha Angle,3.2021198,101.7341702,ChIJ9RA0jTw4zDERk9FZzp5Vixs,"Jalan R1, Seksyen 1, Bandar Baru, Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Wangsa Walk Mall,3.1985818,101.7422055,ChIJMWftky84zDERqc2Bp25UPdY,"1, wangsa walk mall, Wangsa permai, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Financial Park Labuan,5.275694,115.2486421,ChIJGyOescQYIzIRhd8ZgfdWjII,"Financial Park, 87000 Labuan, Wilayah Persekutuan Labuan, Malaysia",W.P. Labuan,W.P. Labuan,Operational
-Labuan Times Square,5.2748104,115.2452661,ChIJPe04m9sYIzIReKb7ZnYkkzU,"Bandar Labuan, 87000 Labuan, Labuan Federal Territory, Malaysia",W.P. Labuan,W.P. Labuan,Operational
-Alamanda Shopping Centre,2.9395291,101.7106171,ChIJRdkIxt_JzTERBh81g8-8zvk,"Jalan Alamanda, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",W.P. Putrajaya,W.P. Putrajaya,Operational
-IOI City Mall Putrajaya,2.970663,101.7136681,ChIJQWjHIQzKzTERgAEUgEQ4mCw,"Management Office, Unit T2-3A-3 & Unit T2-3A-3A Level 3A, IOI City Tower Two, Lbh IRC, Ioi Resort, 62502 Putrajaya, Selangor, Malaysia",Selangor,Sepang,Operational
-Suria Mall Putrajaya,2.9197362,101.6840939,ChIJZ2VNlMO3zTERdOmXhPzPWcs,"LOTG03,SURIA MALL NO1, Jalan P3c, Presint 3, 62100 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",W.P. Putrajaya,W.P. Putrajaya,Operational
-Shaftsbury Putrajaya,2.9392876,101.7136518,ChIJPf15QeLJzTERBF_7gws28kU,"RESIDENCES) MENARA SHAFTSBURY STELLAR PUTRAJAYA, UG-31, Jalan Alamanda, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",W.P. Putrajaya,W.P. Putrajaya,Operational
-Batu Pahat Mall,1.8638484,102.9620825,ChIJvSc_pbFQ0DER0627YD-67RQ,"Lot G51 & G52 Ground Floor, Batu Pahat Mall, Jln Kluang, 83000 Batu Pahat, Johor, Malaysia",Johor,Batu Pahat,Operational
-Square One Mall,1.865365069,102.9495851,ChIJB4x1rNZQ0DERFtqFdw5NFaQ,"Jalan Persiaran Flora Utama, Taman Flora Utama, 83000 Batu Pahat, Johor, Malaysia",Johor,Batu Pahat,Operational
-The Summit Batu Pahat,1.8574715,102.9351368,ChIJp9hnB81W0DER_rYnnlBxPyc,"88, Jalan Bakau Condong, Kampung Pegawai, 83000 Batu Pahat, Johor, Malaysia",Johor,Batu Pahat,Operational
-ÆON Mall Bukit Indah,1.4817523,103.6557625,ChIJt0xtwktz2jERRS2DKtCZfp0,"Grand Mezzanine, 8, Jalan Indah 15/2, Taman Bukit Indah, 81200 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-ÆON Taman Universiti Shopping Centre,1.5427763,103.6291529,ChIJWTczPA902jERgXy_vW9D17o,"No.4, Jalan Pendidikan, Taman Universiti, 81300 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Eco Galleria,1.441624,103.6168291,ChIJnbxVEQAL2jERWoFkzMTrP44,"Jalan Eko Botani 3 Taman Eko Botani, 79100 Iskandar Puteri Johor Darul Ta’zim Malaysia Nusajaya, 79100 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Mall of Medini,1.4290229,103.6331061,ChIJTWnN_ogL2jER_vHyehiA0K4,"Mall of Medini, 79100 Iskandar Puteri, Johor, Malaysia",Johor,Johor Bahru,Operational
-Perling Mall,1.4968847,103.6808712,ChIJG5hWzSFz2jERVitZ5-SQqao,"3, Persisiran Perling, Taman Perling, 81200 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Skudai Parade,1.5413937,103.6607335,ChIJH2vohcJz2jERcbvJaheCHcI,"SK 18 Batu 10 MUHIBBAH Jalan Bertingkat Skudai Skudai, Skudai, 81300 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Temporarily closed
-Sutera Mall,1.517129,103.6714742,ChIJ5-YuwMFz2jERCJbqqo0ig0U,"L1-046, Sutera Mall, 1, Jalan Sutera Tanjung 8/4, Taman Sutera Utama, 81300 Skudai, Johor, Malaysia",Johor,Johor Bahru,Operational
-Tasik Central,1.5144949,103.6558659,ChIJMzC4uXVz2jERDMi3_zkpoB0,"Plaza Tasek, 2, Jalan Pendekar 16, Taman Ungku Tun Aminah, 81300 Skudai, Johor, Malaysia",Johor,Johor Bahru,Operational
-ÆON Mall Bandar Dato' Onn,1.563759,103.7345281,ChIJ2St8mxxu2jERTeACpDMGci4,"Aeon Mall, 3, Jln Dato' Onn 3, Bandar Dato Onn, 81100 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-ÆON Mall Tebrau City,1.5490688,103.7959073,ChIJsQTqQ11t2jERF_ULAhUiHKs,"S122A level 2, Centre Court, Aeon Tebrau City Shopping Centre, Persiaran Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-ÆON Permas Jaya Shopping Centre,1.4960141,103.8178832,ChIJ0dhK26Fs2jERQRHi53-CWwc,"1, Jalan Permas Utara, Bandar Baru Permas Jaya, 81750 Masai, Johor, Malaysia",Johor,Johor Bahru,Operational
-Angsana Johor Bahru Mall,1.4949273,103.7057484,ChIJH9Llir9y2jERFryY-pcx09Y,"Lot 2-09) , Level 2, Angsana Johor Bahru Mall, Lbh Skudai, Pusat Bandar Tampoi, 81200 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Beletime Danga Bay,1.4642404,103.7290203,ChIJEbcwvM8N2jER44RtBXa_ZmU,"No.01-01, Shopping Mall Ground Floor, Bay Point Persiaran Danga Perdana Country Garden, Danga Bay, 80200 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Galleria@Kotaraya,1.4594943,103.7630603,ChIJj17Dt8IS2jERpo41GcSpoJE,"Jalan Trus, UTC, 80000 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Paradigm Mall Johor Bahru,1.5156318,103.6857437,ChIJIf-ff_9y2jERb19MfG9Nuw0,"K013, Paradigm Mall, Skudai Hwy, Taman Bukit Mewah, 81200 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Paragon Market Place,1.5153202,103.7428389,ChIJVYHWPTJt2jERwzbuMKY3FDQ,"135, Jalan Tampoi, Kampung Bahru Majidee, 81100 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Pelangi Leisure Mall,1.483721,103.7743674,ChIJS-Vizylt2jER6GoSyWU-KJk,"Jalan Serampang, Taman Sri Tebrau, 80400 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Plaza Pelangi,1.4804916,103.7651672,ChIJEVipoi1t2jERSAPBSPOsOpg,"Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Plaza Sentosa,1.4915921,103.7687572,ChIJ3x2X5iNt2jERRmlFqf_ZSmA,"Jalan Sutera Taman Sentosa, Taman Sentosa, 80150 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-SKS Mall Larkin,1.4974273,103.7434755,ChIJwYtNEsVt2jERPDtjpi5weXg,"Jalan Garuda, Larkin Jaya, 80350 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Stellar Walk,1.4872413,103.8092637,ChIJLyls4KVs2jERrPRjhyCb2TQ,"Stellar Walk, Jln Persiaran Senibong, Permas Jaya, 81750 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-"The Mall, Mid Valley Southkey",1.5013338,103.7774187,ChIJtc_vgOFs2jERtTpxahI--kw,"1, Persiaran Southkey 1, Southkey, 80150 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Toppen Shopping Centre,1.5523863,103.7974892,ChIJ5eu_6p9u2jERBYoI5dwLfzY,"Toppen Shopping Centre, No. 33A, Jln Harmonium, Taman Desa Tebrau, 81100 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Zenith Lifestyle Centre,1.4635729,103.7622119,ChIJc_QVmcQS2jERVI2dHSzjWdI,"82C, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Kluang Mall,2.0400737,103.3205798,ChIJF0wwO65t0DERDAwUFJpUux8,"Jln Rambutan, Taman Suria, 86000 Kluang, Johor, Malaysia",Johor,Kluang,Operational
-Kluang Parade,2.0358294,103.3203579,ChIJwdaNIz9t0DERdwS6ls4HCY4,"2, Jalan Sentol, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",Johor,Kluang,Operational
-Heritage Mall,1.73460401,103.9048307,ChIJGZX1r4Vg2jERkWbPx7iBSjQ,"Jalan Seri Warisan 2, Bandar Kota Tinggi, 81900 Kota Tinggi, Johor, Malaysia",Johor,Kota Tinggi,Operational
-Plaza Kota Tinggi,1.7305973,103.9032291,ChIJ98DzU4Vg2jERSCPuQX77dTI,"18, 19, Jalan Niaga 2, Kampung Makam, 81900 Kota Tinggi, Johor, Malaysia",Johor,Kota Tinggi,Operational
-ÆON Mall Kulaijaya,1.6405852,103.6170961,ChIJAYXRIel52jEROJztI31cKfk,"F49, Bandar Indahpura, 81000 Kulai, Johor, Malaysia",Johor,Kulai,Operational
-IOI Mall Kulai,1.6481162,103.6265492,ChIJmQ5JFMx72jER6SVA4Lu05ds,"LG-01, Lower Ground Floor, Lebuh Putra Utama, Bandar Putra Kulai, 81000 Kulai, Johor, Malaysia",Johor,Kulai,Operational
-Johor Premium Outlets,1.6028601,103.6215983,ChIJi9eLLjp32jERCIzJKhsQF7k,"Jalan Premium Outlets, Bandar Indahpura, 81000 Kulai, Johor, Malaysia",Johor,Kulai,Operational
-Kulai Centre Point,1.6616982,103.6031146,ChIJcdGR_KV52jER0QGlXt-kusE,"Lot 1566, 20, Jln Besar, Taman Mewah, 81000 Kulai, Johor, Malaysia",Johor,Kulai,Operational
-Wetex Parade,2.0445951,102.5662887,ChIJqam9lw-50TERvkqdhvcILoM,"69, Jalan Ali, Pekan Muar, 84000 Muar, Johor, Malaysia",Johor,Muar,Operational
-SKS City Mall,1.5739228,104.2075825,ChIJVQ9aqDtM2jERBke0FwaS1kg,"Bandar Penawar, 81930 Kota Tinggi, Johor, Malaysia",Johor,Kota Tinggi,Operational
-Plaza Pontian,1.4812175,103.3922154,ChIJDcEel3eY0DERf0b8w22jlXg,"Pontian Plaza, Kampung Atap, 82000 Pontian District, Johor, Malaysia",Johor,Pontian,Operational
-Segamat Central,2.5100262,102.8118698,ChIJGcBipS7TzzERyqPdjm-UbBg,"Segamat Central Shopping Centre, Jln Kolam Air, Kampung Gubah, 85000 Segamat District, Johor, Malaysia",Johor,Segamat,Operational
-Alor Setar Mall,6.0813012,100.3608522,ChIJDUwp1nFESzAReousEvPJIGI,"Lot F29, Ground Floor, Alor Setar Mall, Perusahaan, Kaw, Tandop, 05400 Alor Setar, Kedah, Malaysia",Kedah,Kota Setar,Operational
-Sentosa Plaza,6.122489086,100.3640669,ChIJ2UuRCrtESzAR-6b9dN2fKNo,"Jln Tunku Abdul Rahman Putra, Bandar Alor Setar, 05150 Alor Setar, Kedah, Malaysia",Kedah,Kota Setar,Operational
-Jitra Mall,6.2611857,100.41829,ChIJ36e7SjVYSzARzYYwpAKfgNg,"29, Pekan Jitra 3, Pekan Jitra, 06000 Jitra, Kedah, Malaysia",Kedah,Kubang Pasu,Operational
-Kulim Landmark Central,5.384861,100.546452,ChIJa-j6CfbLSjARtVV68Dok1zk,"Kulim Landmark Central, 09000 Kulim, Kedah, Malaysia",Kedah,Kulim,Operational
-Cenang Mall,6.2907234,99.7278025,ChIJKW5Pt96HSzARGGghnTvlAnI,"Lot 2605, Cenang, Mukim, Jalan Pantai Chenang, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",Kedah,Langkawi,Operational
-Langkawi Parade,6.3272016,99.8383876,ChIJw8y-HWl_TDARPcxEZf3K_9Y,"21, Lorong Tiram, 07000 Kuah, Kedah, Malaysia",Kedah,Langkawi,Operational
-Petani Parade,5.6129572,100.4840391,ChIJfZL1tUrWSjARoYglzxmHPc0,"Taman Sejati Indah, 08000 Sungai Petani, Kedah, Malaysia",Kedah,Kuala Muda,Operational
-G-Orange Mall Gua Musang,4.8923057,101.9758601,ChIJQX70cAAHyjER1tU7BOuoYIs,"18300 Gua Musang, Kelantan, Malaysia",Kelantan,Gua Musang,Operational
-KB Mall,6.1174606,102.2401375,ChIJ46TVO5CvtjERw5To4Somqtw,"1, Jalan Hamzah, Bandar Kota Bharu, 15050 Kota Bharu, Kelantan, Malaysia",Kelantan,Kota Bharu,Operational
-ÆON Mall Kota Bharu,6.1100676,102.2307775,ChIJDetvNZOvtjERYI9DEER4m2s,"Lembah Sireh, 15050 Kota Bharu, Kelantan, Malaysia",Kelantan,Kota Bharu,Operational
-G-Orange Mall Tunjong,6.065843,102.238763,ChIJqUnR2vavtjERQ8H9p3mRNK8,"LOT 2138, WISMA G ORANGE, TUNJUNG, BATU 4 1/2, 15050 Kota Bharu, Kelantan, Malaysia",Kelantan,Kota Bharu,Operational
-Kota Seri Mutiara Shopping Centre,6.1129974,102.2500503,ChIJcYILOOGvtjERj9BOPL0jFyY,"Jalan Pasir Puteh, Kota Sri Mutiara 97, 15000, Kota Bharu, Bandar Kota Bharu, 15150 Kota Bharu, Kelantan, Malaysia",Kelantan,Kota Bharu,Operational
-Freeport A'Famosa Outlet,2.4449511,102.2066086,ChIJ7eg6HasDzjERCs5TACadUM4,"Jalan Kemus / Sempang Ampat, 78000 Alor Gajah, Melaka, Malaysia",Melaka,Alor Gajah,Operational
-ÆON Mall Melaka Shopping Centre,2.236076039,102.2823085,ChIJNeuezJXv0TERt8FKFaQtOGQ,"Jalan Tun Abdul Razak, 75450 Melaka, Malaysia",Melaka,Melaka Tengah,Operational
-ÆON Mall Bandaraya Melaka,2.2148518,102.2463583,ChIJYSuWmy7w0TER_OZpQ4xr9tQ,"2, Jalan Lagenda 2, Taman 1 Lagenda, 75400 Melaka, Malaysia",Melaka,Melaka Tengah,Operational
-Dataran Pahlawan Melaka Megamall,2.1899761,102.2504291,ChIJhXSb5-Dx0TERyKwfXu_R9LE,"Jln Merdeka, Banda Hilir, 75000 Melaka, Malaysia",Melaka,Melaka Tengah,Operational
-Mahkota Parade,2.1886862,102.2504107,ChIJw6soFdbx0TERjNXnPt6ax80,"Lot B-02, Mahkota Parade, 1, Jln Merdeka, Taman Costa Mahkota, 75000 Melaka, Malaysia",Melaka,Melaka Tengah,Operational
-The Shore Shopping Gallery,2.2029405,102.2499114,ChIJCRqgSNfx0TERyquQAWjDFn0,"193, Pinggiran @ Sungai Melaka, Jalan Persisiran Bunga Raya, Kampung Bunga Paya Pantai, 75100 Melaka, Malaysia",Melaka,Melaka Tengah,Operational
-"Kiara Square, Bahau",2.8105786,102.395537,ChIJP2YG1qFpzjERqselOurt2as,"98, Jalan Kiara 2, Pusat Perniagaan Kiara, 72100 Bahau, Negeri Sembilan, Malaysia",Negeri Sembilan,Jempol,Operational
-ÆON Mall Nilai,2.8175917,101.7907081,ChIJ66_dAS_HzTERCsqE42E13uY,"2, Persiaran Pusat Bandar, Putra Point, 71800 Nilai, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-Regina Mall,2.5240049,101.8014949,ChIJAUZVZH_xzTEReVB6FR73Ytc,"Jalan Pantai, Kampung Bahasa Kapor, 71000 Port Dickson, Negeri Sembilan, Malaysia",Negeri Sembilan,Port Dickson,Operational
-ÆON Seremban 2 Shopping Centre,2.7013839,101.9119475,ChIJl3dCKuvnzTERjsPXEP6qFXk,"F25 1st FLOOR, ÆON SEREMBAN 2 SHOPPING CENTRE, 112, Persiaran S2 B1, Seremban 2, 70300 Seremban, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-"Angsana Seremban Mall, Ampangan",2.7229112,101.9622402,ChIJrxZhBUvfzTERX9TGe81V27U,"Jalan Ampangan, Plaza Ampangan, 70400 Seremban, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-Centrepoint Seremban Shopping Mall,2.7228949,101.955192,ChIJEymTi4zdzTERdVnybvURBKo,"33, Jalan Dato Siamang Gagap, Betaria Business Centre, 70100 Seremban, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-Era Square,2.725947,101.9316442,ChIJ-ZjwrXndzTERdvW5svfdosE,"Era Square, 70200 Seremban, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-KM Plaza,2.7232503,101.9373625,ChIJrYKPLILdzTER78R2yiiDGZM,"Jalan Tuanku Munawir, Bandar Seremban, 70000 Seremban, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-Palm Mall,2.7198558,101.9229003,ChIJv6oHQLfdzTERWABFn-UQqoU,"Level 4, Palm Mall, Jalan Sungai Ujong, Kemayan Square, 70200 Seremban, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-Seremban Gateway,2.7167752,101.9194177,ChIJU3JplYnnzTERm2AvZ9YUdtM,"Lebuhraya Seremban - Bukit Nenas, 70200 Seremban, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-Seremban Prima,2.7201239,101.9411523,ChIJj94nKIfdzTERUE7AHMCBaQM,"Lot S05A, Jalan Dato Bandar Tunggal, Bandar Seremban, 70000 Seremban, Negeri Sembilan, Malaysia",Negeri Sembilan,Seremban,Operational
-"Cameron Centrum, Brinchang",4.4951467,101.389435,ChIJVxw69mRZyjER6KiCWLl7Sng,"F9WQ+2R, Brinchang, 39000 Brinchang, Pahang, Malaysia",Pahang,Cameron Highlands,Operational
-"Cameron Fair Shopping Centre, Tanah Rata",4.4692283,101.3758977,ChIJX0J78YhXyjERC1NaDN-Dk6E,"Cameron Fair Tanah Rata Rata, Tanah Rata, 39000 Tanah Rata, Pahang, Malaysia",Pahang,Cameron Highlands,Operational
-"Cameron Square, Brinchang",4.5080977,101.4079935,ChIJ20W8gqFZyjERxpUMVqPdzGo,"Brinchang, 39000 Brinchang, Pahang, Malaysia",Pahang,Cameron Highlands,Operational
-Awana SkyCentral,3.4039773,101.7835567,ChIJe3CFsT0UzDERHul0m-p7sW0,"Awana Transport Hub Genting Highlands Resorts, 69000 Genting Highlands, Pahang, Malaysia",Pahang,Bentong,Operational
-First World Plaza,3.4229492,101.7934354,ChIJ235KkwAUzDERH3vgvWTDy4w,"Genting Highlands, 69000 Genting Highlands, Pahang, Malaysia",Pahang,Bentong,Operational
-Genting Highlands Premium Outlet,3.4033765,101.7831159,ChIJQwP5jDwUzDERqbMpmoMrOxU,"KM13, 69000 Genting Highlands, Pahang, Malaysia",Pahang,Bentong,Operational
-SkyAvenue,3.4253103,101.7971696,ChIJnS8ZEgEUzDERPCZ8T9g2rvs,"Resorts World Genting, Genting Highlands, 69000 Genting Highlands, Pahang, Malaysia",Pahang,Bentong,Operational
-Berjaya Megamall,3.8151965,103.3301266,ChIJQ8uNAZG6yDERxj6Er1okPwQ,"G33, (Ground Floor), Berjaya Megamall, Jalan Tun Ismail, 25000, Kuantan, Pahang, 25000 Kuantan, Pahang, Malaysia",Pahang,Kuantan,Operational
-Kuantan City Mall,3.8175383,103.3276516,ChIJL8ndyJO6yDERPPk1Ik4szJc,"Jalan Putra Square 6, Putra Square, 25300 Kuantan, Pahang, Malaysia",Pahang,Kuantan,Operational
-Kuantan Parade,3.8046137,103.3226062,ChIJmwiZg3-7yDEREO95KCC8QEc,"Jalan Haji Abdul Rahman, 25000 Kuantan, Pahang, Malaysia",Pahang,Kuantan,Operational
-Teruntum Complex,3.8032162,103.3239878,ChIJYR1UzYK6yDERw_q63ChBP6o,"Teruntum Complex, 25000 Kuantan, Pahang, Malaysia",Pahang,Kuantan,Operational
-Temerloh Mall,3.4405988,102.4159799,ChIJTZ-R0JS4zjER4gfNQUD9-k0,"Lorong Temerloh Mall, 28000 Temerloh, Pahang, Malaysia",Pahang,Temerloh,Operational
-TMG Temerloh,3.4580056,102.4017715,ChIJZ3qtdvi4zjERAAp2YE8V7nU,"Pusat Perniagaan Cengal 2, 87, Kampung Carak Paya Dalam, 28000 Temerloh, Pahang, Malaysia",Pahang,Temerloh,Operational
-Mentakab Star Mall,3.471256,102.331764,ChIJzxUKzBO6zjERVgo96TTJPoo,"Lot F-74, Tingkat 2, Mentakab Star Mall, No.1, Jalan Star City 1, Star City, 28400 Mentakab, Pahang, Malaysia",Pahang,Temerloh,Operational
-1st Avenue Mall,5.4130454,100.3311692,ChIJiW2u2vHDSjARY7j9FGS58aM,"182, Jalan Magazine, 10300 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Bukit Jambul Complex,5.333558,100.2913328,ChIJY49WfUTASjARbSbexT9iW5I,"3A-06-01, Kompleks Bukit Jambul, Jalan Rumbia, Kampung Seberang Paya, 11900 Bayan Lepas, Penang, Malaysia",Pulau Pinang,Timur Laut,Operational
-City Junction,5.4497754,100.3049765,ChIJuSjvO4rDSjAR-vEgrfPqUmw,"2, Persiaran Lengkuas 2, Tanjung Tokong, 10470 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-D'Piazza Mall,5.3265257,100.2833421,ChIJq4Mf6mrASjAR8xp7dE9WrnQ,"70-1-76 D'Piazza Mall, Bayan Baru, 11900 Bayan Lepas, Pulau Pinang, Malaysia",Pulau Pinang,Barat Daya,Operational
-GAMA Supermarket & Departmental Store,5.4134887,100.3283316,ChIJ7VazjpXDSjARYStsepOafXI,"Wisma Gama, No.1, Jalan Dato Keramat, 10150 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-GBS@Mayang,5.326666,100.2850209,ChIJwS-OUzfBSjARbC6nqMwbYN8,"Jalan Mahsuri, Bandar Bayan Baru, 11900 Bayan Lepas, Pulau Pinang, Malaysia",Pulau Pinang,Barat Daya,Operational
-Gurney Paragon,5.4357359,100.311185,ChIJHTeoOQbDSjARsTHDtwiCS9Y,"163d, Persiaran Gurney, 10250 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Gurney Plaza,5.4380431,100.3100232,ChIJbV1ghQPDSjARqoUoHwF0xjM,"170, Persiaran Gurney, Pulau Tikus, 10250 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-ICT Digital Mall,5.4145698,100.3295888,ChIJ2XnugpbDSjARJDud-jMiUY8,"ICT KOMTAR, Jln Penang, 10000 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-KOMTAR,5.4145872,100.3297474,ChIJP4BcxJXDSjARIkAwoVy-ih8,"Komtar, 10450 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-M Mall O2O,5.4125569,100.3247849,ChIJ2ziG27jDSjARhoP6nQ0i4pE,"Jalan Dato Keramat, 10150 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-One Precinct,5.3252774,100.2849948,ChIJc9RdG2vASjARY_wOBCsNT_E,"Lengkok Mayang Pasir, Jalan Mayang Pasir1, Bandar Bayan Baru, 11950 Bayan Lepas, Penang, Malaysia",Pulau Pinang,Barat Daya,Operational
-Penang Plaza,5.4140975,100.3285271,ChIJ1XsrrZfDSjARNLmpeFnkmiM,"George Town, Penang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Penang Times Square,5.412176,100.3256387,ChIJx4NOur_DSjARgnX41oDHC9g,"144, Jalan Dato Keramat, George Town, 10150 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Prangin Mall,5.414683,100.331112,ChIJtyM86gTDSjARnGWY72xSErw,"Prangin Mall, No 33, Jalan Dr Lim Chwee Leong, George Town, 10100 George Town, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Queensbay Mall,5.3331774,100.3066084,ChIJM9-dQfbASjARRVPI8nLX1Po,"Queensbay Mall, 100, Persiaran Bayan Indah, 11900 Bayan Lepas, Pulau Pinang, Malaysia",Pulau Pinang,Barat Daya,Operational
-Udini Square,5.3782376,100.3142186,ChIJ9QZIaHDBSjAR6cc61_RZX80,"Lebuh Tunku Kudin 3, 11700 Gelugor, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-AEON Mall Bukit Mertajam,5.3210688,100.4775282,ChIJJ765yjbISjARftvwF1hc4Io,"Lot 30908, Jalan Rozhan, Alma, 14000 Bukit Mertajam, Pulau Pinang, Malaysia",Pulau Pinang,Seberang Perai Tengah,Operational
-Auto-City Penang,5.3377822,100.4315799,ChIJzT4LUdDHSjARrdCODy4xUmM,"Highway Auto-city, 1688-F8, Jalan Perusahaan, Bukit Tengah, 13600 Perai, Pulau Pinang, Malaysia",Pulau Pinang,Seberang Perai Tengah,Operational
-Bukit Mertajam Wholesale City,5.365458,100.4590091,ChIJv5O4mOXISjARKozSIPcWMXY,"Bukit Mertajam, Penang, Malaysia",Pulau Pinang,Seberang Perai Tengah,Operational
-"Klippa Shopping Centre , DT , extension  completed; full project TBC in 2025.)",5.2334398,100.4405397,ChIJj_43oZW3SjARbdm23NYYapQ,"752, Persiaran Cassia Barat 8, Bandar Cassia, 14100 Pulau Pinang, Malaysia",Pulau Pinang,Seberang Perai Selatan,Coming soon
-Megamal Pinang,5.3761839,100.4001367,ChIJA94VQ2PGSjARnuHtz6USRNE,"2828, Jln Baru, Bandar Perai Jaya, 13700 Perai, Pulau Pinang, Malaysia",Pulau Pinang,Seberang Perai Tengah,Operational
-Pearl City Mall,5.2773477,100.4906019,ChIJyazIok62SjARWFPGmfRttu4,"8936, Jalan Tasek Mutiara 2, Bandar Tasek Mutiara, 14120 Simpang Ampat, Pulau Pinang, Malaysia",Pulau Pinang,Seberang Perai Selatan,Operational
-Sunway Carnival Mall,5.3986416,100.3976623,ChIJd4X4hs3FSjARHHCpdB9aIkA,"Sunway Carnival Mall 3068, Jalan Todak Pusat Bandar Seberang Jaya, Seberang Jaya, 13700 Perai, Pulau Pinang, Malaysia",Pulau Pinang,Seberang Perai Tengah,Operational
-ÆON Mall Ipoh Station 18,4.5458419,101.070556,ChIJLcUk0q7pyjERwTcw38YrjBs,"No.2, Susunan Stesen 18, Station 18, 31650 Ipoh, Perak, Malaysia",Perak,Kinta,Operational
-ÆON Mall Kinta City,4.613871,101.1180371,ChIJs7Ms0R3tyjERlXknc_qhkh4,"2, Jalan Teh Lean Swee, Taman Ipoh Selatan, 31400 Ipoh, Perak, Malaysia",Perak,Kinta,Operational
-ÆON Mall Klebang,4.6773225,101.1229943,ChIJ--QGJ_mSyjERxcUXrCFETak,"AEON MALL, KLEBANG, 31400 Ipoh, Perak, Malaysia",Perak,Kinta,Operational
-ÆON Midtown Falim,4.5812758,101.0607619,ChIJTVk6cY3ryjER5TKZzn54rho,"1, Hala Falim 1, Taman Falim, 30200 Ipoh, Perak, Malaysia",Perak,Kinta,Operational
-Angsana Ipoh Mall,4.6029193,101.0945349,ChIJj_FpyPTsyjER-kmUd0bHGkg,"24, Jalan Raja Ashman Shah, Kampung Kastam Greentown, 30450 Ipoh, Perak, Malaysia",Perak,Kinta,Operational
-IPOH Parade,4.5959134,101.0900944,ChIJQZydGmHsyjERtEl0E23hdv4,"Ipoh Parade, 105, Jalan Sultan Abdul Jalil, 31350 Ipoh, Perak, Malaysia",Perak,Kinta,Operational
-Kompleks Yik Foong,4.5969448,101.0813827,ChIJlVasIX3syjERYozWG5-Obcg,"Jalan Laxamana, 30300 Ipoh, Perak, Malaysia",Perak,Kinta,Operational
-Perak IT Mall,4.6606065,101.1096303,ChIJ68dFc5-TyjERRX8bpKia0lM,"Perak IT Mall, jalan, Tawas Idaman 2, taman tawas idaman, 30010 Ipoh, Perak, Malaysia",Perak,Kinta,Operational
-Sunway Ipoh Mall,4.619781,101.1467408,ChIJcVLUXFDtyjERghF7f6wHTuA,"Sunway City Ipoh, Ulu Kinta, Perak, Malaysia",Perak,Kinta,Coming soon
-Kampar Terminal Mall,4.308504,101.1536528,ChIJQTjBbJQcyzER4MfLuLK0QTk,"Kampar, Perak, Malaysia",Perak,Kampar,Operational
-Tin Village Mall,4.3280891,101.146982,ChIJ9yvIo7viyjER849yN-rr1xk,"lot 312205, Jalan Batu Karang, Taman Kolej Perdana, 31900 Kampar, Perak, Malaysia",Perak,Kampar,Operational
-"Kerian Sentral Mall, Parit Buntar",5.1274929,100.4826619,ChIJq5LZGc2vSjARe-WEyuiLOqE,"2-01, Jalan Sekolah, Taman Setia Jaya, 34200 Parit Buntar, Perak, Malaysia",Perak,Kerian,Operational
-ÆON Mall Seri Manjung,4.2201989,100.6709423,ChIJUw2YE6styzERNKfnnqTzfXQ,"Pusat Perniagaan, Jalan Manjung Point 3, 32040 Seri Manjung, Perak, Malaysia",Perak,Manjung,Operational
-"D'Mall, Seri Iskandar",4.3549694,100.9707164,ChIJh8KeZ9LfyjERxt9xVx1M3mA,"Persiaran SIBC 20, 32600 Bota, Perak, Malaysia",Perak,Perak Tengah,Operational
-ÆON Mall Taiping,4.8728469,100.7298124,ChIJu92Yh5WuyjERqy5_CJTREio,"Lot G16 & 17, AEON Mall, Jalan Kamunting, 34000 Taiping, Perak, Malaysia",Perak,Larut Dan Matang,Operational
-Taiping Mall,4.8497629,100.7425103,ChIJ6z-P8veuyjERbXm4cgBGUcY,"Jalan Tupai 3A Taiping Mall 33 Level 3A, 34000 Taiping, Perak, Malaysia",Perak,Larut Dan Matang,Operational
-Taiping Sentral Mall,4.8658188,100.7312078,ChIJIRqTuJSuyjERGHkwbvpNT9I,"36, Jalan Istana Larut, 34000 Taiping, Perak, Malaysia",Perak,Larut Dan Matang,Operational
-Keningau Mall,5.334461,116.1528357,ChIJP4u9vhbvPDIR1GlIC1RyZi8,"Jalan Masak, 89000 Keningau, Sabah, Malaysia",Sabah,Keningau,Operational
-Eastern Plaza,4.2541556,117.897002,ChIJh2ZEQ9-dFTIRxOPTIQmhoBU,"Jalan Kuhara, 91000 Tawau, Sabah, Malaysia",Sabah,Tawau,Operational
-1Borneo Hypermall,6.0351724,116.128932,ChIJvVRqQXtrOzIRFupvUkPRnMs,"ONE BORNEO HYPERMALL LOT G333-G335 & G352-G354 GRD FLR, Jalan Sulaman, 88400 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-88 Mall,5.9410288,116.0702239,ChIJt_0suiNpOzIRbjxld6SeVGk,"Unnamed Road, Taman Ridgeview, 88200 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Centre Point Sabah,5.9781469,116.0718643,ChIJs7_pb5FpOzIRK-YNoFYX3O0,"Centre Point Sabah, 1, Jln Centre Point, 88000 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-EG Mall Inanam,6.0059057,116.1450236,ChIJyaG12QxsOzIRLnr-vo_5DMk,"Km12, Jalan Tuaran, Inanam, 88400 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Grand Merdeka,6.0612614,116.1801472,ChIJB2yY0dRsOzIRUQ7Z_ySglIw,"Grand medeka mall lot g-200, 88450 Menggatal, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Imago KK Times Square,5.9708621,116.0663544,ChIJGwRDk79pOzIRjM0ywHUkgDM,"KK Times Square, Phase 2, Off Coastal Highway, 88100 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Inanam Mall,5.992784,116.1348787,ChIJB5WBsPhrOzIR8kPiSA3lje0,"Jln Nountun, Inanam, 88450 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-ITCC Penampang,5.9101536,116.0914083,ChIJ19aPpytmOzIROqzrsyYb1eg,"ITCC, Jalan Pintas Penampang, 89500 Penampang, Sabah, Malaysia",Sabah,Penampang,Operational
-Jesselton Residences,5.9891676,116.0782581,ChIJ5bouxIdpOzIRnVVgMTE8Ez0,"Malaysia, Sabah, Kota Kinabalu, Jln Haji Saman, LOT NO,A-15-06, Block A",Sabah,Kota Kinabalu,Operational
-Karamunsing Complex,5.9665572,116.072049,ChIJO6SXELxpOzIR7kJB8kTkcKk,"Karamunsing Complex, Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-KK Plaza,5.982796,116.0736188,ChIJM-QZTI5pOzIRjr9n0ABjWcU,"Kk Plaza, Jln Lapan Belas, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Mega Long Mall,5.9127259,116.1027167,ChIJ1ZskZ51oOzIRLZjgRkA4N3Q,"5th Floor Megalong Shopping Mall., Pekan Donggongon, 89500 Penampang, Sabah, Malaysia",Sabah,Penampang,Operational
-Oceanus Waterfront Mall,5.9770124,116.0689112,ChIJl47lj5NpOzIRWdYgNk33guk,"LOT C-16&C-17, LOWER GROUND FLOOR, OCEANUS WATERFRONT MALL, 88000 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Riverson The Walk,5.9689798,116.0644946,ChIJpTn-msBpOzIRHUMFS1nwJWU,"Jln Riverson 1, 88000 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Suria Sabah,5.9867933,116.0775039,ChIJZzdhHIZpOzIRr_9CABl11w8,"1, Jln Tun Fuad Stephens, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Sutera Avenue,5.9670435,116.064869,ChIJCUKEsrhpOzIR9KpoqLrzwas,"Sutera Avenue, Kota Kinabalu, Malaysia",Sabah,Kota Kinabalu,Operational
-Wisma Merdeka,5.986208089,116.0757571,ChIJcyR-UI9pOzIRZMlZt7wUqik,"Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Boulevard Shopping Mall Bintulu,3.2007132,113.0479617,ChIJp8F8YqDBHTIRPE9QOeK8I60,"714, Jalan Tun Razak, 97000 Bintulu, Sarawak, Malaysia",Sarawak,Bintulu,Operational
-Li Hua Plaza,3.1697643,113.0420422,ChIJJRGfEFzAHTIRSErGRB599Fs,"Jln Abang Galau, Shahida Commercial Centre, 97000 Bintulu, Sarawak, Malaysia",Sarawak,Bintulu,Operational
-Naim Street Mall,3.1704795,113.0481632,ChIJt56npfXAHTIRW3nVmHLfKhE,"No.1, Old Airport, 97000 Bintulu, Sarawak, Malaysia",Sarawak,Bintulu,Operational
-Parkcity Commerce Square Mall,3.1833544,113.039575,ChIJUVeI3lLAHTIRCSZqT6CDd84,"Commerce square Mall, Parkcity Commerce Square, 97000 Bintulu, Sarawak, Malaysia",Sarawak,Bintulu,Operational
-The Spring Bintulu,3.1811596,113.034922,ChIJfV8Zdiin-zERfdb_PjWahro,"Lot 4282, Jalan Tun Abdul Razak, 97000 Bintulu, Sarawak, Malaysia",Sarawak,Bintulu,Operational
-Aiman Mall,1.4555273,110.445887,ChIJfXcomDai-zERz-25oO6aCkI,"94300 Kota Samarahan, Sarawak, Malaysia",Sarawak,Samarahan,Operational
-Summer Mall,1.4547885,110.45877,ChIJDVwlAk-i-zERe-mZeB-flMM,"Lot 7455, Block 1, Jln Datuk Mohammad Musa, 94300 Kota Samarahan, Sarawak, Malaysia",Sarawak,Samarahan,Operational
-La Promenade Mall,1.4959209,110.4020864,ChIJqaE7PTqh-zERjkGXDyapiDY,"No.1, HSL Tower, Lorong La Promenade 2, La Promenade, Kuching - Samarahan Expressway, 94300 Kota Samarahan, Sarawak, Malaysia",Sarawak,Samarahan,Operational
-ÆON Mall Kuching Central,1.5275039,110.3373277,ChIJSaiwZHun-zERqaT-wcKEGOU,"Mall Management Office, First Floor, Jln Tun Datuk Patinggi Haji Ahmad Zaidi Adruce, Min Chu Garden, 93200 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Aeroville Mall,1.4968283,110.3717632,ChIJRZDk6Weh-zER6V-tx8DteYM,"Lot 19923 (Phase 2) Block 11, Land District, Jln Stutong Baru, Muara Tebas, 93350 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Boulevard Shopping Mall,1.5096009,110.3359475,ChIJKx7fmlmn-zERwUOaYvQCrjI,"Jalan Datuk Tawi Sli, Taman Seng Goon, 93250 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-CityOne Megamall,1.5207249,110.3544307,ChIJV2aCyhSn-zER02e58DpADVM,"T20, 3rd Floor,Mall 2 City, One Megamall, 1, Jalan Song, Taman Phoning, 93350 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Electra House,1.559381208,110.343159,ChIJ2XwF1_Gn-zERdCSANewJzBc,"Jalan Power, 93000 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Farley Mall,1.4842057,110.3330239,ChIJKTb6OxWh-zERqTu8tWZFcqI,"Lot 4547,Block 233,KNLD, Jalan Penrissen, 6th Mile, 93250 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Genesis Parade,1.5054978,110.2522927,ChIJOch6lFsJ-zERRTmRZkxKNCM,"93250 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Hopoh Shopping Centre,1.5537994,110.3404687,ChIJDTid2vKn-zERQ8O_ZQdPXyw,"93400 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Kuching Sentral,1.481769,110.331728,ChIJaxg4XaCg-zERJUf8IW8YmgY,"Lot 2 ground floor 6th mile, Jalan Penrissen, Kuching Sentral, 93250 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Majma Mall,1.5550688,110.33988,ChIJrYkW_fKn-zERFX83HXrGMmc,"41, Jalan P. Ramlee, 93400 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Matang Mall,1.5745279,110.2960486,ChIJnRQszNkH-zERbcIXvYrntXw,"73 second floor, Lorong Anggerik 7, Taman Matang Jaya, 93050 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Moyan Square,1.499169,110.2510683,ChIJOVsCe-IL-zERtJbvZiNtCQI,"55, Lor Moyan Utama 1, 93250 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Papillon Street Mall,1.5142932,110.3042968,ChIJPdV-8JQJ-zERaH320gmkz5U,"Batu Kawah New Township, Jalan Batu Kawa, Bandar Baru Batu Kawa, 93250 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Plaza Merdeka Shopping Center,1.5585742,110.344017,ChIJKXOlDu6n-zERSKBAccqMThA,"88, Pearl Street, 93000 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Riverside Shopping Complex,1.557896,110.351547,ChIJxTI1fumn-zERWFarXNd_Ggk,"Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-ST3 Shopping Mall,1.5360203,110.3557502,ChIJ-51uE6Cn-zERdPThflnpP_A,"64, Jalan Simpang Tiga, Kampung Kenyalang Park, 93300 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Tabuan Plaza,1.5321647,110.3760371,ChIJB0xXqQGn-zERi8wDDyO5Wts,"93350, Jln Bayor Bukit, Muara Tebas, 93350 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-The Spring Shopping Mall,1.5355458,110.3582016,ChIJNfuDY6Cn-zERvKQMPnRpF04,"304, Persiaran, Kampung Kenyalang Park, 93300 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Tun Jugah Mall,1.5570486,110.3532347,ChIJMxI1GOqn-zERe5fd5SEvu3M,"18, Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Vivacity Megamall,1.5268545,110.3695884,ChIJSQayGQWn-zERvJDO9nzBZsE,"Ground Floor, Management Office, Jalan Wan Alwi, 93350 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Wisma Saberkas,1.5368706,110.3400929,ChIJfwSIFY6n-zERtAIouYpY4wM,"Jalan Tun Abang Haji Openg, 93150 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Wisma Satok,1.5535633,110.3349045,ChIJA0Cyy_Sn-zERsb4j-79-0lc,"Lot 2.20, Level 2, Wisma Satok, Jalan Satok, Kampung Bandarshah, 93400 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Wisma Wan,1.5270422,110.3751205,ChIJcRhDGQOn-zERMFcnlsTL3hc,"Jln Bayor Bukit, Tabuan Jaya, 93350 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Limbang Plaza,4.7550079,115.0091705,ChIJpU95hwmPIjIRbdNJe4_37kU,"Pekan Limbang, 98700 Limbang, Sarawak, Malaysia",Sarawak,Limbang,Operational
-Bintang Megamall,4.3970478,113.9932847,ChIJwU1sCCxPHzIR38IwE7G8EgQ,"Lot 1264, Jalan Miri Pujut, Bintang Jaya, 98000 Miri, Sarawak, Malaysia",Sarawak,Miri,Operational
-Boulevard Shopping Mall Miri,4.4151455,114.0129009,ChIJISnM_-dOHzIRQr_Q1a3yK7Q,"Lot 2528, Boulevard Commercial Centre, 98000 Miri, Sarawak, Malaysia",Sarawak,Miri,Operational
-Miri Plaza,4.405319858,114.0021441,ChIJW_Ks79dOHzIRsKEfnnwKuFI,"Pelita Commercial Centre, 98000 Miri, Sarawak, Malaysia",Sarawak,Miri,Operational
-MYY Mall,4.4707827,114.0106985,ChIJTazKyilOHzIR6R1ymSgnA_Q,"Jalan Pasar Lutong, Lutong, 98000 Miri, Sarawak, Malaysia",Sarawak,Miri,Operational
-Permaisuri Imperial City Mall,4.4004328,113.9903458,ChIJk_8V7C1PHzIR2EQYX_uYF6I,"Permaisuri Imperial City Mall, Jalan Merpati, 98000 Miri, Sarawak, Malaysia",Sarawak,Miri,Operational
-Permy Mall,4.4500689,114.0383533,ChIJNQ23dAVOHzIR0_0e66Y2yEE,"Sublot 261, 1st Floor Permy Mall, Bandar Baru Permyjaya, 98000 Miri, Sarawak, Malaysia",Sarawak,Miri,Operational
-Soon Hup Tower,4.3974004,113.9873538,ChIJ1xpDyjJPHzIR1PGW-L9My0c,"Jalan Merbau, 98000 Miri, Sarawak, Malaysia",Sarawak,Miri,Operational
-Hann's Residence,2.286578743,111.8475763,ChIJYQtHPxl_9zERddIDeV1Acf8,"Sibu, 96000 Sibu, Sarawak, Malaysia",Sarawak,Sibu,Operational
-Sarawak House Shopping Complex,2.289415,111.8300862,ChIJnwUoM9x_9zERbQkSK0LpiuQ,"Jln Kampung Nyabor, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",Sarawak,Sibu,Operational
-Star Mega Mall,2.3052474,111.8644069,ChIJoZWYO8GB9zERZOSCHnj7MrY,"Jalan Tunku Abdul Rahman, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",Sarawak,Sibu,Operational
-Wisma Sanyan,2.2905456,111.8253011,ChIJhX-1vNt_9zERgTJ41L75uWk,"Wisma Sanyan, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",Sarawak,Sibu,Operational
-Plaza Simanggang,1.2360296,111.4580218,ChIJZ-Yu5D5J-TERmox4fTeEVcI,"Jalan Foocow, 95000 Simanggang, Sarawak, Malaysia",Sarawak,Sri Aman,Operational
-Ampang Point,3.15857069,101.7518256,ChIJY-f_aag3zDER08YcJId9cfI,"Ampang Point, 53, Jln Memanda 9, Taman Dato Ahmad Razali, 68000 Ampang, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-Axis Atrium,3.136544,101.7472814,ChIJqdxcUVk2zDERTdjv7tDahDE,"AXIS ATRIUM SHOPPING MALL, Jalan Cempaka, Taman Cempaka, 68000 Ampang, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-Galaxy Ampang,3.1469408,101.7557673,ChIJxV2O5_42zDERDLZBbx_QiE8,"Galaxy Ampang Shopping Centre, Jln Dagang 5, Taman Dagang, 68000 Ampang, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-Pandan Capital Mall,3.1287959,101.7538286,ChIJveFg9Yo2zDERDsfosU3tEmU,"L2/c2,Pandan Kapital, Persiaran Mpaj, Pandan Indah, 55100 Kuala Lumpur, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-Spectrum Shopping Mall,3.146098912,101.7650324,ChIJE81VWeM2zDERxL1N0kZ4I9o,"Spectrum Shopping Mall, 3, Jalan Wawasan Ampang 4/2, Bandar Baru Ampang, 68000 Ampang, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-Bangi Gateway,2.9331222,101.7659028,ChIJESPI7RLJzTEREW49D-1gnO0,"Bangi Gateway, Seksyen 15, 43650 Bandar Baru Bangi, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-De Centrum Mall,2.9797909,101.7388572,ChIJMTcVN0DKzTERc3NVDHww7sU,"Jalan Wawasan, Kawasan Institusi Bangi, 43009 Kajang, Selangor, Malaysia",Selangor,Sepang,Operational
-Evo Bangi,2.9627284,101.7554702,ChIJ0YrAtNLLzTERiE7ySrs-oPs,"Kompleks EVO, jalan Medan 2D, Seksyen 9, 43650 Bandar Baru Bangi, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-ÆON Cheras Selatan Shopping Centre,3.0335152,101.7650236,ChIJKVnSSM00zDERaZUF8esnYvA,"Aeon Cheras Selatan, 43200 Cheras, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-BMC Mall,3.0549073,101.7871801,ChIJTWnJM5g0zDER4f59d-KJlmk,"Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-D'Pulze Shopping Centre,2.9220548,101.650968,ChIJn_QIW_u2zTERR19CqNnhQCA,"Persiaran Multimedia, Cyber 12, 63000 Cyberjaya, Selangor, Malaysia",Selangor,Sepang,Operational
-Gem In Mall,2.9222215,101.6344813,ChIJyxGIeNu2zTERFbLcWSCIHKA,"Persiaran Sepang, Cyber 11, 63000 Cyberjaya, Selangor, Malaysia",Selangor,Sepang,Operational
-Malakat Mall,2.9250968,101.649777,ChIJ7Vlj7Sy3zTERnMQZemN1eMM,"65, Lingkaran Cyber Point Timur, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",Selangor,Sepang,Permanently closed
-Shaftsbury Square Cyberjaya,2.922597,101.6618951,ChIJG3xmI1a2zTERGiNTMW1dQS8,"Shaftsbury Square, 63000 Cyberjaya, Selangor, Malaysia",Selangor,Sepang,Operational
-Metro Point Kajang,2.9916367,101.793722,ChIJCRzZkH3MzTER3oaPdPiLtVQ,"Jalan Jelok 8, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-Plaza Metro Kajang,2.991358,101.7892036,ChIJ1d1T94LLzTERtdPxjbCKA4I,"4, Jln Tun Abdul Aziz, Seksyen 1, 43000 Kajang, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-ÆON Mall Bukit Raja,3.0608814,101.4722676,ChIJ-RCB3RtTzDERgjFNARnOeLg,"Persiaran Bukit Raja 2, Bandar Baru Klang, 41150 Klang, Selangor, Malaysia",Selangor,Klang,Operational
-ÆON Mall Bukit Tinggi,2.9939452,101.444546,ChIJfXQttWGtzTERDwyK5FEdWh8,"Persiaran Batu Nilam 1/KS06, Bandar Bukit Tinggi 2, 41200 Klang, Selangor, Malaysia",Selangor,Klang,Operational
-Galleri Klang Sentral,3.1076348,101.4394522,ChIJTdnufvlTzDERZQvBWAsIeiQ,"C-21-G, Galeri Klang Sentral, Jalan Klang Sentral 15/KU5, Meru, 41050 Klang, Selangor, Malaysia",Selangor,Klang,Operational
-GM Klang Wholesale City,2.991067,101.4500001,ChIJk0y_6eOtzTEREtrW6-lE6Jg,"GM Klang Wholesale City, Jalan Kasuarina 1, Bandar Botanik, 41200 Klang, Selangor, Malaysia",Selangor,Klang,Operational
-Klang Parade,3.0637778,101.4536951,ChIJd3HmqG1TzDER96-aEJZcJME,"No. 2112, KM2, Jln Meru, Kawasan 17, 41050 Klang, Selangor, Malaysia",Selangor,Klang,Operational
-KSL Esplanade Mall,2.9584083,101.4670464,ChIJux40w8atzTERS6T73BQlLNw,"No.1, Jalan Langat KS9, Bandar Bestari, 41200 Klang, Selangor, Malaysia",Selangor,Klang,Operational
-Central Mart Saujana Utama,3.2029401,101.4866555,ChIJcauijoVazDER-eeanivRJ0g,"Jalan Bidara 6/3, Saujana Utama, 47000 Sungai Buloh, Selangor, Malaysia",Selangor,Kuala Selangor,Operational
-Coalfields Retail Park,3.2440668,101.4750457,ChIJwXc_tUBbzDERH-pGAtBLt7s,"Jalan BSC 2C/1, 48020 Sungai Buloh, Selangor, Malaysia",Selangor,Kuala Selangor,Operational
-KIPMall Desa Coalfields,3.2355597,101.4896135,ChIJR1Tij7lbzDERiJ0_Vu-aZd4,"Jalan DC 4/5, Desa Coalfields, 47000 Sungai Buloh, Selangor, Malaysia",Selangor,Kuala Selangor,Operational
-Saujana Utama Mall,3.2023922,101.4858932,ChIJw3Fb_IVazDERR4QK22lfNpo,"Saujana Utama 3, 47000 Sungai Buloh, Selangor, Malaysia",Selangor,Kuala Selangor,Operational
-1 Utama,3.1480679,101.6164417,ChIJL-Qvn9JOzDERBLmeTTrrgf0,"1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-3 Damansara,3.1304749,101.6269411,ChIJQd-9d0hJzDER65xpZRO9F6c,"3, Jalan SS 20/27, Damansara Intan, 47400 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Amcorp Mall,3.105097,101.646955,ChIJwVTE-9pLzDERQ5LnvPeHUUo,"18, Jalan, Persiaran Barat, Seksyen 52 Petaling Jaya, 46050 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Atria Shopping Gallery,3.1270963,101.6165176,ChIJ8bk3pUxJzDERrFejLGpKfIg,"Jalan SS 22/23, Damansara Jaya, 47400 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-CITTA Mall,3.1121867,101.5790712,ChIJgy-5zSlMzDERHBFPl7YJ7Zs,"1, Jalan PJU 1a/48, Ara Damansara, 47301 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Empire City Mall,3.1663492,101.6148348,ChIJtbMbU8tIzDERJXAjyEJrH0E,"8, Jalan Damansara, Jalan PJU 8/3a, Empire City, 47820 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Evolve Concept Mall,3.110051,101.586496,ChIJpbkDxCZMzDERkKzyJKOd8Ko,"Evolve Concept Mall Pacific Place, Jalan PJU 1a/4, Ara Damansara, 47301 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-IPC Shopping Centre,3.1563946,101.6111185,ChIJlSyJwCtPzDERZF0AU9hYoL8,"2, Jalan PJU 7/2, Mutiara Damansara, 47800 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Jaya One,3.1184035,101.6354371,ChIJe9aC1F1JzDERgZCaZVmX0fc,"72A, Jln Profesor Diraja Ungku Aziz, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Jaya Shopping Centre,3.109189,101.6371808,ChIJL1DQlOBLzDERdyz6BPjUSxY,"Jalan 14/17, Seksyen 14, 46100 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Megah Rise,3.1143577,101.6117016,ChIJPWu-pvJPzDER1ms4E0GV6cM,"Jln SS 24/8, Taman Megah, 47301 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Paradigm Mall Petaling Jaya,3.1051171,101.5959701,ChIJDZNKSRhMzDERhJVpBl2HvHU,"1, Jalan SS 7/26a, Ss 7, 47301 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Seventeen Mall,3.1289528,101.6347262,ChIJGYrCEkFJzDERptEPU8zlMrA,"998, Jalan 17/38, Seksyen 17, 46400 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Sunway Giza,3.1501529,101.5917264,ChIJMaQVaOBOzDER9CQ0pux-nz4,"No. 2, Jalan PJU 5/14, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Tropicana Gardens Mall,3.149194,101.5931032,ChIJURCa6nxPzDERIbpqvPUmBMw,"2A, Persiaran Surian, Tropicana Indah, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-168 Park Selayang Mall,3.2492923,101.6494422,ChIJIVxiEP5HzDERR9canUbXu4U,"168 Park Selayang, Jln Kuching, 68100 Batu Caves, Selangor, Malaysia",Selangor,Gombak,Coming soon
-ÆON Rawang Anggun Shopping Centre,3.3173712,101.5365756,ChIJh-4j0IlDzDERlED_h9E2NiU,"1, Persiaran Anggun, Taman Anggun, 48000 Rawang, Selangor, Malaysia",Selangor,Gombak,Operational
-Selayang Capitol Complex,3.2406846,101.6489044,ChIJG7bWIPBGzDER30yCxOwPBjI,"Exit Lebuhraya Selayang - Kepong, Taman Selayang Jaya, 68100 Batu Caves, Selangor, Malaysia",Selangor,Gombak,Operational
-Selayang Mall,3.2374871,101.6441905,ChIJg3PYtmBGzDERdVqsZizorps,"Jalan SU 9, Taman Selayang Utama, 68100 Batu Caves, Selangor, Malaysia",Selangor,Gombak,Operational
-Ecohill Walk Mall,2.9247455,101.8568295,ChIJt0_QKSfPzTERfALQ8n0p4Ps,"Kompleks Membeli Belah Dataran Ecohill, Jln Ecohill 1/2, Setia Ecohill, 43500 Semenyih, Selangor, Malaysia",Selangor,Ulu Langat,Operational
-Gateway@klia2,2.7440889,101.6856391,ChIJT9FTwpW_zTERH9f-OJEKg0Q,"Lbh KLIA, 43900 Klia, Selangor, Malaysia",Selangor,Sepang,Operational
-Mitsui Outlet Park KLIA Sepang,2.7802014,101.6772793,ChIJDXMXsz2_zTERvT6djfbjm9w,"Persiaran Komersial, 64000 Klia, Selangor, Malaysia",Selangor,Sepang,Operational
-ÆON Taman Equine Shopping Centre,2.99525,101.6751274,ChIJmRd8hae1zTERltVkEopzj_0,"2, Jln Equine, Pusat Bandar Putra Permai, 43300 Seri Kembangan, Selangor, Malaysia",Selangor,Petaling,Operational
-South City Plaza,3.028645,101.709432,ChIJp2lg1avKzTERSIwZUO-zjaU,"Lot No. S2.72(D2), 2nd Floor, South City Plaza Persiaran Serdang Perdana Seksyen 1, Taman Serdang Perdana, 43300 Seri Kembangan, Selangor, Malaysia",Selangor,Petaling,Operational
-The Mines Shopping Mall,3.0285941,101.719161,ChIJ-Q7SA67KzTERHsCzroKfMwo,"L1-07A, Jalan Dulang, Mines Wellness City, 43300 Seri Kembangan, Selangor, Malaysia",Selangor,Petaling,Operational
-AEON Mall Shah Alam,3.0767621,101.5482713,ChIJ5U48LKBNzDER-vfQfcuk_44,"Jln Akuatik 13/64, Seksyen 13, 40100 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Anggerik Mall,3.0712092,101.5199959,ChIJrbQvOIFSzDERMQTWyIJi8Nw,"2-23A, UTC Selangor/Anggerik Mall, Seksyen 14, 40000 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Central i-City,3.0624082,101.4817408,ChIJxV2SUPtSzDERQ4GW7znn1UY,"No. 1, Persiaran Multimedia, Seksyen 7, Jalan Plumbum 7/102, I-City, 40000 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Elmina Lakeside Mall,3.1804038,101.5087376,ChIJWzWvBgBRzDERFJIngI5lFa0,"5GH5+PQ Elmina, Urban Park, 47000 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-IRDKL Mall,3.056825,101.489588,ChIJNaLb6edSzDERj3ZtohlkhuU,"1, Jln Serai Wangi M 16/M, Alam Avenue, 40000 Shah Alam, Selangor, Malaysia",Selangor,Klang,Operational
-Kompleks PKNS Shah Alam,3.0706712,101.5171661,ChIJQ435kYZSzDERvs0A5EFX4Xs,"Persiaran Tasik, Seksyen 14, 40000 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Ole-Ole Shopping Centre,3.0436554,101.516821,ChIJka7DoAJTzDERZO_3XaYyHms,"7, Jalan Pinang A 18/A, Seksyen 18, 40200 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Plaza Alam Sentral,3.0739915,101.517169,ChIJ5zrKEodSzDERWzp6P9_-9FI,"Plaza Alam Sentral, Jalan Majlis, Seksyen 14, 40000 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Plaza Shah Alam,3.0843475,101.5233127,ChIJufVDm1NTzDERqqA6mwY8bxo,"Jalan Tengku Ampuan Zabedah E 9/E, Seksyen 9, 40100 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-SACC Mall Shah Alam,3.0713715,101.5176559,ChIJU93Z2oZSzDERszvBCDApVBo,"14/9, Jalan Perbadanan, Seksyen 14, 40000 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Setia City Mall,3.1094685,101.4602178,ChIJU_KM2n9SzDERdHKiiYBVsyM,"7, Persiaran Setia Dagang Bandar Setia Alam, Seksyen, U13 Shah Alam, 40170 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Space U8 Mall,3.1118583,101.552338,ChIJpyvTJd9NzDERHPcwy7OYJgU,"1-22-1, 1st floor Space u8 mall, 1st FLR Space U8, Persiaran Pasak Bumi, U 8, 40150 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Star Avenue Lifestyle Mall,3.1545825,101.5536314,ChIJS-J9QLNPzDERY3uv7tysDw0,"3, Jalan Zuhal U5/179, Bandar Pinggiran Subang, 40150 Shah Alam, Selangor, Malaysia",Selangor,Petaling,Operational
-Da Men Mall,3.0580052,101.5925509,ChIJF_wzeSBNzDERefV2CNjNvUQ,"1, Persiaran Kewajipan, Usj 1, 47600 Subang Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-NU Empire Shopping Gallery,3.0817783,101.5828038,ChIJ1dO4iFpMzDERNDCXYKfbsSg,"Jalan SS 16/1, Ss 16, 47500 Subang Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-IOI Mall Puchong Jaya,3.0449441,101.6180882,ChIJY59uVFhLzDERnI07aUhL3VY,"Ioi Mall, 23, Lebuhraya Damansara - Puchong, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",Selangor,Petaling,Operational
-M Square Puchong,3.0035617,101.6047165,ChIJOemsOhNNzDERTMGWTPxsElU,"Jalan Dm 2, Taman, Desa Millennia, 47150 Puchong, Selangor, Malaysia",Selangor,Petaling,Operational
-Main Place Mall,3.026518204,101.5814685,ChIJMdeF3S-zzTERdoSxPotqcY0,"Level 2, Jalan USJ 21/10, Persiaran Kewajipan, Usj 21, 47630 Subang Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Pallazo 19 Mall,3.0328342,101.5887162,ChIJ08HolDSzzTERfe2RqBdEDdQ,"The 19 usj City Mall, Persiaran Kewajipan, Usj 19, 47620 Subang Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-One City Mall,3.029997164,101.5802037,ChIJZ4Wf3iSzzTERt9ItbpQSfww,"Jalan USJ 25/1B, One City, 47650 Subang Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-"Setia Walk, Puchong",3.0309621,101.6168062,ChIJyWmMG1VLzDER651sEIJsamI,"13a, Persiaran Wawasan, Pusat Bandar Puchong, 47160 Puchong, Selangor, Malaysia",Selangor,Petaling,Operational
-SS15 Courtyard,3.0779644,101.5865449,ChIJ_VJGQVlMzDERCBLSw3Cupz4,"Jln SS 15/4G, Ss 15, 47500 Subang Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Subang Parade,3.0814893,101.5851028,ChIJH4fKE1tMzDERdH2TyRMZgSY,"Jalan Kemajuan Subang, Ss 16, 47500 Subang Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Sunway Pyramid,3.0720837,101.6063455,ChIJm21YdodMzDERJW_y1EmlGV4,"3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Sunway South Quay Mall,3.0622737,101.6095194,ChIJqxHtQ4ZMzDERS44aRfOCSG4,"3, Jalan PJS 11/11, 46150 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Coming soon
-The Summit USJ,3.0602399,101.593544,ChIJAWRCs-xMzDERGXu15ptW7D8,"Summit USJ, Persiaran Kewajipan, Usj 1, 47600 Subang Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Gamuda Walk Mall,3.0005954,101.5335162,ChIJ82p61YWyzTERnDXFYJ83z6Y,"Persiaran Anggerik Vanilla, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia",Selangor,Klang,Operational
-Quayside Mall,2.9568618,101.5536023,ChIJq9RAz1ezzTERX4EZ4ZVN5VI,"Gamuda Kemuning, 25.7, Persiaran Freesia, 42500 Telok Panglima Garang, Selangor, Malaysia",Selangor,Kuala Langat,Operational
-Sanctuary Mall,2.9442869,101.5427859,ChIJRR75e1SxzTERbUXBx4_nSVI,"Persiaran Eco Sanctuary, 8/3, Eco Santuari, 42500, Selangor, Malaysia",Selangor,Kuala Langat,Operational
-Kemaman Centre Point,4.232841,103.421785,ChIJ0dYaB-SGyDERLVS6QJvRrb8,"Jalan Da Omar, Kampung Gong Pauh, 24000 Kemaman, Terengganu, Malaysia",Terengganu,Kemaman,Operational
-"Mesra Mall, Kemasik",4.4407097,103.4484901,ChIJS82krqtwyDERUZrVD7V7Kgs,"Mesra Mall, Lot 6490, Jalan Kemaman - Dungun, Kampung Baru, 24200 Kemasik, Terengganu, Malaysia",Terengganu,Kemaman,Operational
-Mayang Mall,5.3372027,103.1437707,ChIJkV8pWwC9tzERDJ8evf28sJ8,"301, Jalan Haji Mat Taukey, Kampung Surau Pasir, 20000 Kuala Terengganu, Terengganu, Malaysia",Terengganu,Kuala Terengganu,Operational
-Paya Bunga Square/Sentral,5.3310209,103.1366439,ChIJKWgBk3m-tzERQo31ZdjbAsA,"Paya Bunga Square Jalan Masjid Zainal Abidin, 20100 Kuala Terengganu, Terengganu, Malaysia",Terengganu,Kuala Terengganu,Operational
-Elements Mall Malacca,2.1826003,102.2625,ChIJe41XzwTu0TERWyzxuEakSZE,"Jalan Melaka Raya 23, Hatten City, 75000 Melaka, Malaysia",Melaka,Melaka Tengah,Operational
-Hatten Square,2.1892815,102.2519395,ChIJcTCHCOHx0TER4G3mZonKf8M,"Hatten Square, Jln Merdeka, Taman Costa Mahkota, 75000 Malacca, Malaysia",Melaka,Melaka Tengah,Operational
-K7 Community Mall,2.2086896,102.2425329,ChIJt0hAhc3x0TER2jyEOngXcZg,"Kampung Tujuh, 75300 Melaka, Malaysia",Melaka,Melaka Tengah,Operational
-Terminal Pahlawan (Melaka wholesale city),2.1891228,102.252384,ChIJS58QpOHx0TERz6n0DErg8jM,"105, Jln Merdeka, Taman Melaka Raya, 75000 Melaka, Malaysia",Melaka,Melaka Tengah,Operational
-118 Mall,3.157614208,101.700342,ChIJ8dfhij5JzDERYoQs1Ff8HjI,"Jalan Hang Jebat, Presint Merdeka 118, 50118 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-GMBB,3.1448922,101.7045655,ChIJCW4fF_tJzDERAm6Qigjh_LY,"No. 2, Jalan Robertson, Bukit Bintang, 50150 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Aurora Place Mall,3.0541289,101.670174,ChIJyeLLY-dKzDEROShjSMmhWZE,"No.1, Persiaran Jalil 1 Bandar Bukit Jalil, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Viva Home,3.1224512,101.7190798,ChIJq6qqaxA2zDERc1QNF8uJ4M8,"Unit 2-72 Level 2 Viva Home Shopping Mall, No 85, Jln Loke Yew, Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-District K @ KL Digital City,3.1936438,101.6783387,ChIJeWVGURNHzDERlmCJ-qKLc2s,"Jln Ipoh, Taman Bamboo, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
-Met Galleria,3.17564556,101.6698089,ChIJzUyYxShGzDER5kGjVfYdAYY,"Jln Boulevard, Kompleks Kerajaan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
-The Sphere,3.110397,101.6677958,ChIJKcsZmylKzDERRLEz6OsHQaA,"The Sphere, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-D'Immersione Avenue,3.1696577,101.668301,ChIJswbvx11IzDERS1-gT_4eENQ,"Jln Dutamas 1, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
-United Point,3.1909466,101.6530567,ChIJMfRbWf1JzDER7RitXa3JRjQ,"Jalan Lang Emas, Segambut, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
-Sunway Big Box,1.3976123,103.6286736,ChIJTRUlEvsJ2jERXZwBkeEWloo,"Pusat Komersial Sunway Marketplace, Persiaran Medini 5, Sunway City, 79250 Iskandar Puteri, Johor, Malaysia",Johor,Johor Bahru,Operational
-U Mall,1.5468943,103.6222994,ChIJHbv4Cxt02jERCdL--LJNl2Q,"Lot F3, 4,5 ,, U Mall, 45, Jalan Pulai 20, Taman Pulai Utama, 81110 Skudai, Johor, Malaysia",Johor,Johor Bahru,Operational
-Holiday Plaza,1.4883429,103.76009,ChIJb-pU-W5t2jER2KyRwu_opLc,"Jalan Dato Sulaiman, Taman Century, 80250 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Komtar JBCC,1.4639632,103.7627382,ChIJIyLLVcMS2jER0xwvgEmFUk4,"KOMTAR JBCC, City Centre, 80000 Johor Bahru, Johor, Malaysia",Johor,Johor Bahru,Operational
-Today's Mall,1.508331439,103.8736175,ChIJX_zfneBq2jER-sY9V5LmnU8,"Today's Market, Jln Suria 1, Bandar Baru Seri Alam, 81750 Masai, Johor, Malaysia",Johor,Johor Bahru,Operational
-U Sentral Shopping Centre,2.512795453,102.8226529,ChIJO-sDKifTzzER0bMA4VtNffw,"Taman Bandar Utama,, Jalan Utama 3/2, 85000 Segamat, Johor, Malaysia",Johor,Segamat,Operational
-City Plaza,6.11800525,100.370224,ChIJw9j5qL9ESzARDYG3ix5-iWg,"Jalan Tunku Ibrahim, Bandar Alor Setar, 05000 Alor Setar, Kedah, Malaysia",Kedah,Kota Setar,Operational
-Star Parade,6.1226878,100.3731654,ChIJm9f-nsdESzARYWg0sdOSTAo,"888, Tingkat 4, Kompleks Star Parade, Jalan Teluk Wanjah, Bandar Alor Setar, 05200 Alor Setar, Kedah, Malaysia",Kedah,Kota Setar,Operational
-Amanjaya Mall,5.6425186,100.5451707,ChIJB26VaQ4qSzAR2MTxXJNU9KY,"Amanjaya, 08000 Sungai Petani, Kedah, Malaysia",Kedah,Kuala Muda,Operational
-Central Square,5.6369764,100.4885066,ChIJn8IIaDUpSzARFwFQa-MY2qU,"4.09.01, 4th Floor No, 23, Jalan Kampung Baru, Taman Patani Jaya, 08000 Sungai Petani, Kedah, Malaysia",Kedah,Kuala Muda,Operational
-SP Plaza,5.6454815,100.488562,ChIJ60JydtIpSzAROEnKcT8pKnI,"Taman Sri Tanjung, 08000 Sungai Petani, Kedah, Malaysia",Kedah,Kuala Muda,Operational
-Village Mall,5.661820472,100.5012862,ChIJ3xCTU7kpSzARFd3wH1oWgb0,"Jalan Legenda 1, Lagenda Heights, 08000 Sungai Petani, Kedah, Malaysia",Kedah,Kuala Muda,Operational
-Gio Mall,3.8124961,103.326357,ChIJKQjrAZG6yDERuei33QBbSxw,"A91, Jalan Tun Ismail, Sri Dagangan Bussiness Centre, 25000 Kuantan, Pahang, Malaysia",Pahang,Kuantan,Operational
-All Seasons Place,5.3963425,100.2904981,ChIJpYwcnibCSjARqRr6b9AJHnY,"6H-1-21, All Seasons Place, Lebuh Thean Teik, Air Itam, 11500 George Town, Penang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Island 88,5.4504594,100.3064297,ChIJJZ1MKADDSjARgP06DyNFHyA,"118, Jln Tanjung Tokong, Seri Tanjung Pinang, 10470 George Town, Penang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Southbay Plaza,5.2846084,100.289281,ChIJ5dGGLry_SjAR7PqNCZSJcKU,"1, Cangkat Batu Maung, 11960 Bayan Lepas, Pulau Pinang, Malaysia",Pulau Pinang,Barat Daya,Operational
-Sunshine Central,5.3986026,100.2867255,ChIJoUnBVljDSjARifgYO7C4VKU,"No 8-1-1, Sunshine Mall @ Sunshine Central, Jln Thean Tek, Bandar Baru Air Itam, 11500 Ayer Itam, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Design Village,5.2440117,100.4382786,ChIJEzqvkN-5SjARYVj8cOHO0qc,"733, Jalan Cassia Barat 2, Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang, Malaysia",Pulau Pinang,Seberang Perai Selatan,Operational
-City Mall,5.9616421,116.0976587,ChIJhaIleg9pOzIR0kd2u6vQj14,"City Mall, Jln Lintas, 88300 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-Plaza Shell,5.97808741,116.0747608,ChIJxyCMxJBpOzIRXm5Dqh7V5-c,"29, Jln Tunku Abdul Rahman, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",Sabah,Kota Kinabalu,Operational
-City Point Mall,3.1708857,113.0429503,ChIJLT7c_VvAHTIRy8JOxtNXh94,"98, Jln Keppel, Shahida Commercial Centre, 97000 Bintulu, Sarawak, Malaysia",Sarawak,Bintulu,Operational
-Times Square Mega Mall,3.197834847,113.0885479,ChIJ_ZnV0zbBHTIROMVv66gSveo,"97000 Bintulu, Sarawak, Malaysia",Sarawak,Bintulu,Operational
-Crown Square,1.551439169,110.371468,ChIJsf8PCben-zERAIwCfTT6PmE,"93450 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Eco Mall,1.5821345,110.3314548,ChIJZyffXjqp-zERpiMsP8Kcews,"Eco-mall Petra Jaya, Samariang, 93050 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Green Heights Mall,1.5004196,110.3465204,ChIJ_TVTbq2g-zERCcAi1y-a27g,"Green Heights, Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-MetroMall,1.568209819,110.3074121,ChIJbZiTScgJ-zER2AFbYxXFoXc,"Jalan Metrocity Boulevard, Taman Fah Tah, 93050 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-OneJaya Lifestyle Mall,1.5180717,110.3657902,ChIJrc_T1BWn-zERGWo82CjtwzQ,"Onejaya Shopping Complex, 11430, Jalan Song, Tabuan Heights, 93350 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-One TJ ICT Shopping Complex,1.5064918,110.3745468,ChIJXRDckiin-zERbiGD1TSr1ug,"Lot 14665, Block 11, Jalan Stutong, 93350 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Sarawak Plaza,1.558035959,110.353811,ChIJtSVC9Omn-zERYtJmyKedO6A,"Sarawak Plaza Shopping Complex, 291, Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-The Hills,1.555845158,110.351459,ChIJEzU_Beun-zERXlv7cdwoIpo,"Interhill Place, 8, Jalan Bukit Mata Kuching, 93100 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Wisma Sentosa,1.4763719,110.3326037,ChIJJe6j8p2g-zERLAeCTKCevTY,"Jalan Liu Shan Bang, Kota Sentosa, 93250 Kuching, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Pelita Tunku,4.3906043,113.9875761,ChIJC4GnUM5IHzIReo4WAdETfIg,"Unit 2-19, 2nd Floor, Wisma Pelita Tunku, Jalan Padang, 98000 Miri, Sarawak, Malaysia",Sarawak,Miri,Operational
-Eastern Mall,1.363563,110.4023114,ChIJf-wwmhmf-zERDldg1wuphTM,"9C72+CW, 94200 Siburan, Sarawak, Malaysia",Sarawak,Kuching,Operational
-Delta Mall,2.3119647,111.8468549,ChIJ8_9wb4V_9zERjNtw4Gqe054,"Taman Seduan 8, 96000 Sibu, Sarawak, Malaysia",Sarawak,Sibu,Operational
-The Swan Square,2.3257134,111.8535895,ChIJAbr87ot_9zERov8uxMqoRug,"CP01, Ground Floor, Car Park, 2, Jalan Ling Kai Cheng 12A, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",Sarawak,Sibu,Operational
-Centro Mall,3.053046771,101.4631326,ChIJLWzQMTxTzDER-Nba9QSDrcE,"8, Jalan Batu Tiga Lama, Kawasan 16, 41300 Klang, Selangor, Malaysia",Selangor,Klang,Operational
-Harbour Place,3.025839915,101.4240804,ChIJtXEqvcurzTER4gcNKbJ58RM,"42000, Persiaran Raja Muda Musa, Taman Suria, 42000 Pelabuhan Klang, Selangor, Malaysia",Selangor,Klang,Operational
-One Plaza,3.3213719,101.2720783,ChIJ4fQCuFnzzDERQBgoVH2PZtU,"Lot 1, Ground Floor, 5, Jalan Medan Niaga 2, Kampung Baharu, 45000 Kuala Selangor, Selangor, Malaysia",Selangor,Kuala Selangor,Operational
-The Curve,3.157957295,101.6114265,ChIJL2McUClPzDERAKfQzz0msNs,"6, Jln PJU 7/3, Mutiara Damansara, 47810 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-The Starling,3.1352052,101.6230055,ChIJq9te9e9JzDERX-ByCY7XagM,"6, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor, Malaysia",Selangor,Petaling,Operational
-Langkawi Fair Shopping Mall,6.3097561,99.8559572,ChIJ2Rx4voCASzARDUgXoCXXD-o,"Persiaran Putra Kuah, Kuah, 07000 Langkawi, Kedah, Malaysia",Kedah,Langkawi,Operational
-Straits Quay,5.4580314,100.3133518,ChIJXb6HaCTDSjARjZhU6LZAiBA,"Jalan Seri Tanjung Pinang 10470 Tanjong Tokong, Penang Malaysia, Seri Tanjung Pinang, Tanjung Tokong, Pulau Pinang, Malaysia",Pulau Pinang,Timur Laut,Operational
-Harbour Mall Sandakan,5.8387165,118.1196601,ChIJ67qB8y7FODIRTSid5jAJRTY,"Harbour Square, Pusat Bandar Sandakan, 90000 Sandakan, Sabah, Malaysia",Sabah,Sandakan,Operational
-KTCC Mall,5.3334412,103.1503367,ChIJW-iiBAC_tzERY_3pgY4sRhY,"3-88 Level 3, Muara Selatan, KTCC Mall, Jalan Sultan Zainal Abidin, 20000 Kuala Terengganu, Terengganu, Malaysia",Terengganu,Kuala Terengganu,Operational
-Imperio mall,2.1824027,102.2614664,ChIJ_WhWncnv0TERPFuySTt-gI0,"192, Melaka Raya, 75000 Malacca, Malaysia",Melaka,Melaka Tengah,Permanently closed
+name,lat,lng,place_id,formatted_address,website,state,district,status
+Lot 10,3.146781096,101.7115865,ChIJURADLNA3zDERBUon9ANBTiQ,"50, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",https://lot10.com.my/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Quill City Mall,3.160096716,101.7000884,ChIJzw7vn65JzDER5r0wpUhcXU4,"1018, Jln Sultan Ismail, Bandar Wawasan, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",https://www.quillcitymall.com.my/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Johor Bahru City Square,1.462723945,103.7632381,ChIJZ6vyT8MS2jERZbHkx3oUHnQ,"106-108, Jalan Wong Ah Fook, Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",https://www.citysqjb.com/,Johor,Johor Bahru,Operational
+KSL City Mall,1.486076191,103.7623898,ChIJZ6EbFTBt2jERflX9tqaEOF0,"LG 64, 33, Jalan Seladang, Taman Abad, 80250 Johor Bahru, Johor, Malaysia",https://www.kslcity.com.my/,Johor,Johor Bahru,Operational
+R&F Mall Johor Bahru,1.459024368,103.7694707,ChIJubVfkDgT2jERyx5LuRIvIw0,"L2-086-A5, Mercu, 1, Jalan Tanjung Puteri, Tanjung Puteri, 80300 Johor Bahru, Johor, Malaysia",https://rnfmalljb.com/,Johor,Johor Bahru,Operational
+Aman Central,6.125050122,100.3668115,ChIJpRemiblESzARdkytmmL-ofQ,"Aman Central, 1, Darul Aman Hwy, Kampung Lubok Peringgi, 05100 Alor Setar, Kedah, Malaysia",https://www.amancentral.com.my/,Kedah,Kota Setar,Operational
+MesaMall Nilai,2.825161021,101.7773824,ChIJN7EK_JLGzTERZxVcqpdLtwQ,"MESAMALL, Persiaran Ilmu, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan, Malaysia",https://mesamall.com.my/wp/,Negeri Sembilan,Seremban,Operational
+East Coast Mall,3.818684003,103.3262857,ChIJDXO-Huu7yDERTxdtz5jz2po,"Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang, Malaysia",https://eastcoastmall.com.my/,Pahang,Kuantan,Operational
+Tree Square Mall,5.463589457,100.283741,ChIJX0qXozDDSjARQlRc5-kbTkw,"88, Jalan Sungai Kelian, 11200 Tanjung Bungah, Pulau Pinang, Malaysia",https://www.facebook.com/treesquarepenang/,Pulau Pinang,Timur Laut,Operational
+Strand Mall,3.155329455,101.5936863,ChIJ_QZk0CFPzDERh2npbnmrS7g,"46-G, Jalan PJU 5/22 Encorp Strand Pusat Perdagangan Kota Damansara, Pju 5 Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",https://www.strandmall.com.my/,Selangor,Petaling,Operational
+SB Mall,3.209028245,101.5636181,ChIJNRb3oIdFzDERxkP158Ex-WA,"Lot 2-18, 2, Seksyen U20, Bandar Baru Sungai Buloh, 40160 Shah Alam, Selangor, Malaysia",https://www.sbmall.com.my/,Selangor,Petaling,Operational
+Great Eastern Mall,3.1602108,101.736936,ChIJW2BdmLA3zDERQI0BrKeUURc,"303, Jln Ampang, Desa Pahlawan, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",https://greateasternmall.com.my/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Bangsar Shopping Centre,3.1428401,101.6675173,ChIJ7_y5Tq9JzDERVkRzAXei3c8,"285, Jalan Maarof, Bangsar, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",https://www.bsc.com.my/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Bangsar Village I & II,3.129626,101.670946,ChIJ3frksplJzDER5USO8zLKNs0,"1, Jalan Telawi 1, Bangsar, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",https://www.bangsarvillage.com/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+NU Sentral,3.1328277,101.6873496,ChIJgakKKSVJzDERjXMeoGqoR98,"Nu Sentral Shopping Mall, Jalan Tun Sambanthan, City Centre, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",https://www.nusentral.com/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Berjaya Times Square,3.1421984,101.7105512,ChIJQ47BkCg2zDER3BvZuEV9la8,"Berjaya Times Square, Imbi, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",https://berjayatimessquarekl.com/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Bukit Bintang Plaza,3.1457406,101.7102981,ChIJqYGucyk2zDERpJ37kYeZQPM,"Bukit Bintang Plaza, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",Not Available,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Temporarily closed
+Fahrenheit 88,3.1472735,101.7130436,ChIJg5laCyw2zDERUuHjHTLlnok,"179, Jln Gading, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",https://fahrenheit88.com/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Imbi Plaza,3.1438109,101.7112198,ChIJ2T6f3yg2zDERCa7pS_8xabQ,"Jln Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",Not Available,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Kenanga Wholesale City,3.1367328,101.7078259,ChIJdbawVSc2zDERjwW5Qlv7lN4,"2, Jalan Gelugor, Pudu, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Malaysia Grand Bazaar,3.1394696,101.7092656,ChIJ__8_4Sc2zDERysrmJlI01iE,"BBCC Hub, Ground Floor & First Floor, 2, Jln Hang Tuah, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Mitsui Shopping Park LaLaport Bukit Bintang City Centre,3.1408189,101.7086085,ChIJ2wBKclM3zDERxhFO1U42f34,"Lot 2.44A, Level 2, LaLaport, Jln Hang Tuah, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Plaza Low Yat,3.1440858,101.70994,ChIJYYacASk2zDERh3Iqf0NTR1g,"7, Jalan Bintang, Off Jalan Bukit Bintang, Central, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Pavilion Kuala Lumpur,3.1489607,101.7134125,ChIJm1A1iSw2zDERtJ-nsFBslu0,"168, Jln Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Sungei Wang Plaza,3.1451126,101.7114909,ChIJw_uZIyk2zDERHksxFNzcHb8,"Jln Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+The Exchange TRX,3.1424073,101.7168132,ChIJP3e35y82zDERtMlTjdDsXTg,"Persiaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+The Starhill,3.1467855,101.7113043,ChIJ2S0HAyo2zDERg94Jy1u7n78,"Bukit Bintang, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Pavilion Bukit Jalil,3.0502354,101.670963,ChIJ1WK28udKzDERlczc3oAKZCQ,"2, Persiaran Jalil 8, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+1 Shamelin Shopping Centre,3.1227265,101.7401395,ChIJY1Zv3m82zDERcvJ69kHY4iw,"100, Jalan 4/91, Taman Shamelin Perkasa, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,Selangor,Ulu Langat,Operational
+AEON Taman Maluri Shopping Centre,3.1259253,101.7283988,ChIJI2uKaRM2zDERpt7du-HIaqk,"Jalan Jejaka, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Cheras Leisure Mall,3.0909294,101.7431317,ChIJm1EIWx01zDERxrth90qvHkQ,"Level 3, Jalan Manis 6, Taman Bukit Segar, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Cheras Sentral Mall,3.0787772,101.7447049,ChIJQyguwK41zDERImQvNoDevks,"Jln 3/144a, Taman Len Seng, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+EkoCheras Mall,3.0934935,101.7391395,ChIJvaM1Vdw1zDERCEBYgTm3xU8,"No.693, Batu, 5, Jln Cheras, Taman Mutiara Barat, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Ikon Connaught,3.0814646,101.7314185,ChIJF8iv8yI1zDERZussn_gmmZ0,"IKON CONNAUGHT MALL, 160, Jalan Cerdas, Taman Connaught, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+MyTOWN Shopping Centre,3.1348713,101.722742,ChIJB3uwzD02zDERHQMlA6UmnJU,"6, Jalan Cochrane, Seksyen 90, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Sunway Velocity Mall,3.1278714,101.7248453,ChIJwYo9AhQ2zDERokwJnyvbwhY,"Lingkaran Sunway Velocity, Sunway Velocity, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+8 Conlay,3.1502299,101.7153463,ChIJ0bmF6xg3zDERcVT0Cdt-Fao,"8, Jalan Conlay, Kuala Lumpur, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
+Avenue K Shopping Mall,3.1594766,101.7135149,ChIJ____xNA3zDERO4igW3-sa28,"156, Jln Ampang, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Intermark Mall,3.1613001,101.7199536,ChIJVXXIZcU3zDERkpdEfCQBDT8,"Intermark Mall, 348, Jln Tun Razak, Kampung Datuk Keramat, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Shoppes At Four Seasons Place,3.1581836,101.7137683,ChIJH4WTx-w3zDERMZYvtKRjnyI,"145, Jln Ampang, Kuala Lumpur City Centre, 50450 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Suria KLCC,3.1582482,101.7121664,ChIJH5xmLdE3zDERKa4a_IywVck,"241, Menara Berkembar Petronas, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+The LINC KL,3.1589303,101.7209621,ChIJc51XDnA3zDERKPSkKRzOSpI,"360, Jln Tun Razak, Taman U Thant, 50400 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Damansara City Mall,3.1455193,101.6624926,ChIJsS6I5KlJzDERAmJx91OQpUk,"6, Jalan Damanlela, Bukit Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Pavilion Damansara Heights,3.1468172,101.6632101,ChIJTYNQiKlJzDERfLsxWWHHoIU,"3, Jalan Damanlela, Pusat Bandar Damansara, 50490 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+CapSquare Centre,3.1541482,101.7001134,ChIJ69s5ZyxIzDERCww7H-uT6dI,"Level 31, Menara AIA Capsquare, Jalan Munshi Abdullah, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+City One Plaza,3.1552049,101.6980047,ChIJl23w5h9JzDERYHGHhlhknmc,"Jalan Munshi Abdullah, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Pertama Complex,3.1573072,101.6952903,ChIJt3kp4jFIzDERYTTxCkrBGZs,"1222, Jalan Tuanku Abdul Rahman, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+SOGO Kuala Lumpur,3.1560783,101.6952893,ChIJbUbW7y1IzDERi6WYVG8fI5c,"190, Jalan Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Sunway Putra Mall,3.1665524,101.6924341,ChIJy4nAbDlJzDER6HZyA4ZtdpE,"100, Jalan Putra, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Plaza GM Kuala Lumpur,3.1659492,101.6970891,ChIJbdTbniRIzDERn3eiw4-WWb8,"Plaza Gm, Chow Kit, 50350 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Mutiara Complex,3.1889954,101.6808872,ChIJsS_IjnVIzDER3khU7BWGt9E,"568, Jalan Ipoh 3.3 Miles Kuala Lumpur, Batu Complex Bussiness Centre, 51200 Wilayah Persekutuan, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Sungai Mas Plaza,3.2024719,101.6717983,ChIJ4ypzlM9HzDER74ZKM0oKUpY,"5, Jln Ipoh, Taman Kok Lian, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Bloomsvale Shopping Gallery,3.0753999,101.6606866,ChIJcZG6-6VLzDERVQQ8jzfsz10,"Jalan Puchong, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",https://www.bloomsvale.shopping/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Pearl Point Shopping Mall & Pearl Shopping Gallery,3.0846946,101.6733384,ChIJSwoQIphLzDERUmua0iZ1wfg,"Menara Pearl Point 2 No. 2A, Jalan Sepadu, Off, Jln Klang Lama, Taman United, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+The Scott Garden,3.095009,101.6746841,ChIJAc0ITThKzDERckunp8Gzf_s,"The Scott Garden, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+ÆON Mall Metro Prima,3.2133117,101.6395118,ChIJnzFSBLZHzDER8smiHSIjJKM,"52100, Aeon Mall, Metro Prima, 52100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Brem Mall,3.2044611,101.6675995,ChIJ31oLl85HzDERW9aX56STRI0,"Jalan Jambu Mawar, Taman Sri Delima, 52000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Kepong Village Mall,3.213966,101.6355931,ChIJc3JwNGpGzDERY2k7mh1IIbA,"Kepong, 52100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Kompleks Desa,3.2096844,101.6303428,ChIJ3ex_IhNGzDERn71vITeNv4g,"Jln Kepong, Taman Kepong, 52100 Kuala Lumpur, Selangor, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+KL Midtown,3.1813458,101.6681835,ChIJiTdPDQBJzDER6SHneiLuSDU,"5MJ9+H5, Dutamas, 51200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
+Mid Valley Megamall,3.117196,101.678054,ChIJS9Y7UY5JzDERudeQ8EDhRmw,"Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+The Gardens Mall,3.119085603,101.676042,ChIJs8bC5Y5JzDERJ6ehASo_-20,"Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",https://www.thegardensmall.com.my/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+KL Eco City Mall,3.1193326,101.6743881,ChIJM_iX7QRJzDERQ8YMmhuPIaI,"INC, 3, Jalan Bangsar, KL Eco City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+KL Gateway Mall,3.114035,101.6634081,ChIJq6reQYBJzDERGDH3SiooRZI,"2, Jalan Kerinchi, Kampung Kerinchi, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Nexus Bangsar South,3.10968,101.6653807,ChIJAQDAtStKzDERH_KXp7vMzNk,"7, Jalan Kerinchi, Bangsar South, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Pudu Plaza,3.136739,101.7135169,ChIJ9_g05Tc3zDERUKOSW2JVqtU,"Jalan Landak, Pudu, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Pudu Sentral,3.1456853,101.7006055,ChIJm5FoTNFJzDER2-pitV9m-e4,"PUDU SENTRAL, 12, Jln Pudu, City Centre, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Plaza Salak Park,3.0827782,101.7024706,ChIJ14mYXXdKzDERq3Rr43idU3k,"2, Jalan 1/125e, Taman Desa Petaling, 57100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+1 Mont Kiara,3.1659615,101.652742,ChIJz6U4mPFIzDERbNcRkGIp1LI,"1, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+163 Retail Park,3.1664583,101.6523213,ChIJZ6ZzKPJIzDER5e9LSMzFTJE,"8, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Hartamas Shopping Centre,3.163504,101.656995,ChIJQdVhI_dIzDERjqhpE-AGlew,"60, Jalan Sri Hartamas 1, Taman Sri Hartamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Plaza Mont Kiara,3.166001,101.6519883,ChIJ1_6OgcWDt4cRRtLBkclRW_o,"A-6-10, BLOCK A, PLAZA MONT KIARA, 2, Jalan Kiara, Mont Kiara, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Publika Shopping Gallery,3.1714242,101.6642001,ChIJIVqWDl5IzDERNCOhnX8t_NU,"1, Jln Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Solaris Parq The Mall,3.1741036,101.669243,ChIJz7cgxeNJzDER3GiIYLm7ga8,"7, Changkat Hartamas, Solaris On The Park, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
+SAMA Square,3.194148,101.7202435,ChIJgbO7djc5zDER-o3yr2hLeL4,"Jalan 1/23c, Kampung Baru Air Panas, 53200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Setapak Central,3.205435,101.7199889,ChIJL4BKORI4zDERB8t2wthEFkI,"67, Jln Taman Ibu Kota, Taman Danau Kota, 53300 Kuala Lumpur, Wilayah Persekutuan, Malaysia",https://setapakcentral.com.my/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+ÆON AU2  Shopping Centre,3.1771405,101.7507835,ChIJ6buhvJ03zDER8pfjKKl8zTY,"No.6, Jalan Taman Setiawangsa (Jalan, 37/56, AU2 Taman setiawangsa, Taman Keramat, 54200 Kuala Lumpur",https://aeonmallmy.com/mall/aeon-mall-au2-setiawangsa,Selangor,Gombak,Operational
+Datum Jelatek Mall,3.1672198,101.7361289,ChIJUZc8R7w3zDERXY-b6exTmJc,"Datum Jelatek, P1, Jln Jelatek, Taman Keramat, 54200 Wilayah Persekutuan, Federal Territory of Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Endah Parade,3.063303,101.6951981,ChIJg-Gw-o9KzDERlqNBQvsTb-Q,"Endah Parade, 1, Jalan 1/149e, Taman Sri Endah, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+KL East Mall,3.2247781,101.7304658,ChIJRf33Eh05zDERKqnpK_diqS4,"823, Jln Lingkaran Tengah 2, KL Timur, 53100 Kuala Lumpur, Selangor, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+M3 Mall,3.217628,101.7184995,ChIJR-PQ0m84zDERfECwtBmV0Yk,"Jln Madrasah, Taman Melati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Melawati Mall,3.2109589,101.7487551,ChIJMx-1emc5zDERTPzdmoMthqE,"Mall, Jalan Bandar 12, Taman Melawati, 53100 Kuala Lumpur, Selangor, Malaysia",,Selangor,Gombak,Operational
+Glo Damansara,3.132696,101.6298517,ChIJj_dWfzhJzDERI9HaoLGBJq8,"699, Jln Damansara, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,Selangor,Petaling,Operational
+ÆON Alpha Angle,3.2021198,101.7341702,ChIJ9RA0jTw4zDERk9FZzp5Vixs,"Jalan R1, Seksyen 1, Bandar Baru, Wangsa Maju, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Wangsa Walk Mall,3.1985818,101.7422055,ChIJMWftky84zDERqc2Bp25UPdY,"1, wangsa walk mall, Wangsa permai, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Financial Park Labuan,5.275694,115.2486421,ChIJGyOescQYIzIRhd8ZgfdWjII,"Financial Park, 87000 Labuan, Wilayah Persekutuan Labuan, Malaysia",https://www.fpl.com.my/,W.P. Labuan,W.P. Labuan,Operational
+Labuan Times Square,5.2748104,115.2452661,ChIJPe04m9sYIzIReKb7ZnYkkzU,"Bandar Labuan, 87000 Labuan, Labuan Federal Territory, Malaysia",,W.P. Labuan,W.P. Labuan,Operational
+Alamanda Shopping Centre,2.9395291,101.7106171,ChIJRdkIxt_JzTERBh81g8-8zvk,"Jalan Alamanda, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",,W.P. Putrajaya,W.P. Putrajaya,Operational
+IOI City Mall Putrajaya,2.970663,101.7136681,ChIJQWjHIQzKzTERgAEUgEQ4mCw,"Management Office, Unit T2-3A-3 & Unit T2-3A-3A Level 3A, IOI City Tower Two, Lbh IRC, Ioi Resort, 62502 Putrajaya, Selangor, Malaysia",,Selangor,Sepang,Operational
+Suria Mall Putrajaya,2.9197362,101.6840939,ChIJZ2VNlMO3zTERdOmXhPzPWcs,"LOTG03,SURIA MALL NO1, Jalan P3c, Presint 3, 62100 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",,W.P. Putrajaya,W.P. Putrajaya,Operational
+Shaftsbury Putrajaya,2.9392876,101.7136518,ChIJPf15QeLJzTERBF_7gws28kU,"RESIDENCES) MENARA SHAFTSBURY STELLAR PUTRAJAYA, UG-31, Jalan Alamanda, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya, Malaysia",,W.P. Putrajaya,W.P. Putrajaya,Operational
+Batu Pahat Mall,1.8638484,102.9620825,ChIJvSc_pbFQ0DER0627YD-67RQ,"Lot G51 & G52 Ground Floor, Batu Pahat Mall, Jln Kluang, 83000 Batu Pahat, Johor, Malaysia",,Johor,Batu Pahat,Operational
+Square One Mall,1.865365069,102.9495851,ChIJB4x1rNZQ0DERFtqFdw5NFaQ,"Jalan Persiaran Flora Utama, Taman Flora Utama, 83000 Batu Pahat, Johor, Malaysia",https://squareonemall.com.my/,Johor,Batu Pahat,Operational
+The Summit Batu Pahat,1.8574715,102.9351368,ChIJp9hnB81W0DER_rYnnlBxPyc,"88, Jalan Bakau Condong, Kampung Pegawai, 83000 Batu Pahat, Johor, Malaysia",,Johor,Batu Pahat,Operational
+ÆON Mall Bukit Indah,1.4817523,103.6557625,ChIJt0xtwktz2jERRS2DKtCZfp0,"Grand Mezzanine, 8, Jalan Indah 15/2, Taman Bukit Indah, 81200 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+ÆON Taman Universiti Shopping Centre,1.5427763,103.6291529,ChIJWTczPA902jERgXy_vW9D17o,"No.4, Jalan Pendidikan, Taman Universiti, 81300 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Eco Galleria,1.441624,103.6168291,ChIJnbxVEQAL2jERWoFkzMTrP44,"Jalan Eko Botani 3 Taman Eko Botani, 79100 Iskandar Puteri Johor Darul Ta’zim Malaysia Nusajaya, 79100 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Mall of Medini,1.4290229,103.6331061,ChIJTWnN_ogL2jER_vHyehiA0K4,"Mall of Medini, 79100 Iskandar Puteri, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Perling Mall,1.4968847,103.6808712,ChIJG5hWzSFz2jERVitZ5-SQqao,"3, Persisiran Perling, Taman Perling, 81200 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Skudai Parade,1.5413937,103.6607335,ChIJH2vohcJz2jERcbvJaheCHcI,"SK 18 Batu 10 MUHIBBAH Jalan Bertingkat Skudai Skudai, Skudai, 81300 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Temporarily closed
+Sutera Mall,1.517129,103.6714742,ChIJ5-YuwMFz2jERCJbqqo0ig0U,"L1-046, Sutera Mall, 1, Jalan Sutera Tanjung 8/4, Taman Sutera Utama, 81300 Skudai, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Tasik Central,1.5144949,103.6558659,ChIJMzC4uXVz2jERDMi3_zkpoB0,"Plaza Tasek, 2, Jalan Pendekar 16, Taman Ungku Tun Aminah, 81300 Skudai, Johor, Malaysia",,Johor,Johor Bahru,Operational
+ÆON Mall Bandar Dato' Onn,1.563759,103.7345281,ChIJ2St8mxxu2jERTeACpDMGci4,"Aeon Mall, 3, Jln Dato' Onn 3, Bandar Dato Onn, 81100 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+ÆON Mall Tebrau City,1.5490688,103.7959073,ChIJsQTqQ11t2jERF_ULAhUiHKs,"S122A level 2, Centre Court, Aeon Tebrau City Shopping Centre, Persiaran Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+ÆON Permas Jaya Shopping Centre,1.4960141,103.8178832,ChIJ0dhK26Fs2jERQRHi53-CWwc,"1, Jalan Permas Utara, Bandar Baru Permas Jaya, 81750 Masai, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Angsana Johor Bahru Mall,1.4949273,103.7057484,ChIJH9Llir9y2jERFryY-pcx09Y,"Lot 2-09) , Level 2, Angsana Johor Bahru Mall, Lbh Skudai, Pusat Bandar Tampoi, 81200 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Beletime Danga Bay,1.4642404,103.7290203,ChIJEbcwvM8N2jER44RtBXa_ZmU,"No.01-01, Shopping Mall Ground Floor, Bay Point Persiaran Danga Perdana Country Garden, Danga Bay, 80200 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Galleria@Kotaraya,1.4594943,103.7630603,ChIJj17Dt8IS2jERpo41GcSpoJE,"Jalan Trus, UTC, 80000 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Paradigm Mall Johor Bahru,1.5156318,103.6857437,ChIJIf-ff_9y2jERb19MfG9Nuw0,"K013, Paradigm Mall, Skudai Hwy, Taman Bukit Mewah, 81200 Johor Bahru, Johor, Malaysia",https://www.paradigmmall.com.my/jb/,Johor,Johor Bahru,Operational
+Paragon Market Place,1.5153202,103.7428389,ChIJVYHWPTJt2jERwzbuMKY3FDQ,"135, Jalan Tampoi, Kampung Bahru Majidee, 81100 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Pelangi Leisure Mall,1.483721,103.7743674,ChIJS-Vizylt2jER6GoSyWU-KJk,"Jalan Serampang, Taman Sri Tebrau, 80400 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Plaza Pelangi,1.4804916,103.7651672,ChIJEVipoi1t2jERSAPBSPOsOpg,"Jalan Kuning, Taman Pelangi, 80400 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Plaza Sentosa,1.4915921,103.7687572,ChIJ3x2X5iNt2jERRmlFqf_ZSmA,"Jalan Sutera Taman Sentosa, Taman Sentosa, 80150 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+SKS Mall Larkin,1.4974273,103.7434755,ChIJwYtNEsVt2jERPDtjpi5weXg,"Jalan Garuda, Larkin Jaya, 80350 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Stellar Walk,1.4872413,103.8092637,ChIJLyls4KVs2jERrPRjhyCb2TQ,"Stellar Walk, Jln Persiaran Senibong, Permas Jaya, 81750 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+"The Mall, Mid Valley Southkey",1.5013338,103.7774187,ChIJtc_vgOFs2jERtTpxahI--kw,"1, Persiaran Southkey 1, Southkey, 80150 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Toppen Shopping Centre,1.5523863,103.7974892,ChIJ5eu_6p9u2jERBYoI5dwLfzY,"Toppen Shopping Centre, No. 33A, Jln Harmonium, Taman Desa Tebrau, 81100 Johor Bahru, Johor, Malaysia",https://toppen.my/,Johor,Johor Bahru,Operational
+Zenith Lifestyle Centre,1.4635729,103.7622119,ChIJc_QVmcQS2jERVI2dHSzjWdI,"82C, Jalan Trus, Bandar Johor Bahru, 80000 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Kluang Mall,2.0400737,103.3205798,ChIJF0wwO65t0DERDAwUFJpUux8,"Jln Rambutan, Taman Suria, 86000 Kluang, Johor, Malaysia",,Johor,Kluang,Operational
+Kluang Parade,2.0358294,103.3203579,ChIJwdaNIz9t0DERdwS6ls4HCY4,"2, Jalan Sentol, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",,Johor,Kluang,Operational
+Heritage Mall,1.73460401,103.9048307,ChIJGZX1r4Vg2jERkWbPx7iBSjQ,"Jalan Seri Warisan 2, Bandar Kota Tinggi, 81900 Kota Tinggi, Johor, Malaysia",https://www.facebook.com/hmwholesalecitymall/,Johor,Kota Tinggi,Operational
+Plaza Kota Tinggi,1.7305973,103.9032291,ChIJ98DzU4Vg2jERSCPuQX77dTI,"18, 19, Jalan Niaga 2, Kampung Makam, 81900 Kota Tinggi, Johor, Malaysia",,Johor,Kota Tinggi,Operational
+ÆON Mall Kulaijaya,1.6405852,103.6170961,ChIJAYXRIel52jEROJztI31cKfk,"F49, Bandar Indahpura, 81000 Kulai, Johor, Malaysia",,Johor,Kulai,Operational
+IOI Mall Kulai,1.6481162,103.6265492,ChIJmQ5JFMx72jER6SVA4Lu05ds,"LG-01, Lower Ground Floor, Lebuh Putra Utama, Bandar Putra Kulai, 81000 Kulai, Johor, Malaysia",,Johor,Kulai,Operational
+Johor Premium Outlets,1.6028601,103.6215983,ChIJi9eLLjp32jERCIzJKhsQF7k,"Jalan Premium Outlets, Bandar Indahpura, 81000 Kulai, Johor, Malaysia",,Johor,Kulai,Operational
+Kulai Centre Point,1.6616982,103.6031146,ChIJcdGR_KV52jER0QGlXt-kusE,"Lot 1566, 20, Jln Besar, Taman Mewah, 81000 Kulai, Johor, Malaysia",,Johor,Kulai,Operational
+Wetex Parade,2.0445951,102.5662887,ChIJqam9lw-50TERvkqdhvcILoM,"69, Jalan Ali, Pekan Muar, 84000 Muar, Johor, Malaysia",,Johor,Muar,Operational
+SKS City Mall,1.5739228,104.2075825,ChIJVQ9aqDtM2jERBke0FwaS1kg,"Bandar Penawar, 81930 Kota Tinggi, Johor, Malaysia",,Johor,Kota Tinggi,Operational
+Plaza Pontian,1.4812175,103.3922154,ChIJDcEel3eY0DERf0b8w22jlXg,"Pontian Plaza, Kampung Atap, 82000 Pontian District, Johor, Malaysia",,Johor,Pontian,Operational
+Segamat Central,2.5100262,102.8118698,ChIJGcBipS7TzzERyqPdjm-UbBg,"Segamat Central Shopping Centre, Jln Kolam Air, Kampung Gubah, 85000 Segamat District, Johor, Malaysia",,Johor,Segamat,Operational
+Alor Setar Mall,6.0813012,100.3608522,ChIJDUwp1nFESzAReousEvPJIGI,"Lot F29, Ground Floor, Alor Setar Mall, Perusahaan, Kaw, Tandop, 05400 Alor Setar, Kedah, Malaysia",,Kedah,Kota Setar,Operational
+Sentosa Plaza,6.122489086,100.3640669,ChIJ2UuRCrtESzAR-6b9dN2fKNo,"Jln Tunku Abdul Rahman Putra, Bandar Alor Setar, 05150 Alor Setar, Kedah, Malaysia",https://www.facebook.com/SentosaPlaza/?locale=ms_MY,Kedah,Kota Setar,Operational
+Jitra Mall,6.2611857,100.41829,ChIJ36e7SjVYSzARzYYwpAKfgNg,"29, Pekan Jitra 3, Pekan Jitra, 06000 Jitra, Kedah, Malaysia",,Kedah,Kubang Pasu,Operational
+Kulim Landmark Central,5.384861,100.546452,ChIJa-j6CfbLSjARtVV68Dok1zk,"Kulim Landmark Central, 09000 Kulim, Kedah, Malaysia",,Kedah,Kulim,Operational
+Cenang Mall,6.2907234,99.7278025,ChIJKW5Pt96HSzARGGghnTvlAnI,"Lot 2605, Cenang, Mukim, Jalan Pantai Chenang, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",,Kedah,Langkawi,Operational
+Langkawi Parade,6.3272016,99.8383876,ChIJw8y-HWl_TDARPcxEZf3K_9Y,"21, Lorong Tiram, 07000 Kuah, Kedah, Malaysia",,Kedah,Langkawi,Operational
+Petani Parade,5.6129572,100.4840391,ChIJfZL1tUrWSjARoYglzxmHPc0,"Taman Sejati Indah, 08000 Sungai Petani, Kedah, Malaysia",,Kedah,Kuala Muda,Operational
+G-Orange Mall Gua Musang,4.8923057,101.9758601,ChIJQX70cAAHyjER1tU7BOuoYIs,"18300 Gua Musang, Kelantan, Malaysia",,Kelantan,Gua Musang,Operational
+KB Mall,6.1174606,102.2401375,ChIJ46TVO5CvtjERw5To4Somqtw,"1, Jalan Hamzah, Bandar Kota Bharu, 15050 Kota Bharu, Kelantan, Malaysia",,Kelantan,Kota Bharu,Operational
+ÆON Mall Kota Bharu,6.1100676,102.2307775,ChIJDetvNZOvtjERYI9DEER4m2s,"Lembah Sireh, 15050 Kota Bharu, Kelantan, Malaysia",,Kelantan,Kota Bharu,Operational
+G-Orange Mall Tunjong,6.065843,102.238763,ChIJqUnR2vavtjERQ8H9p3mRNK8,"LOT 2138, WISMA G ORANGE, TUNJUNG, BATU 4 1/2, 15050 Kota Bharu, Kelantan, Malaysia",,Kelantan,Kota Bharu,Operational
+Kota Seri Mutiara Shopping Centre,6.1129974,102.2500503,ChIJcYILOOGvtjERj9BOPL0jFyY,"Jalan Pasir Puteh, Kota Sri Mutiara 97, 15000, Kota Bharu, Bandar Kota Bharu, 15150 Kota Bharu, Kelantan, Malaysia",,Kelantan,Kota Bharu,Operational
+Freeport A'Famosa Outlet,2.4449511,102.2066086,ChIJ7eg6HasDzjERCs5TACadUM4,"Jalan Kemus / Sempang Ampat, 78000 Alor Gajah, Melaka, Malaysia",,Melaka,Alor Gajah,Operational
+ÆON Mall Melaka Shopping Centre,2.236076039,102.2823085,ChIJNeuezJXv0TERt8FKFaQtOGQ,"Jalan Tun Abdul Razak, 75450 Melaka, Malaysia",,Melaka,Melaka Tengah,Operational
+ÆON Mall Bandaraya Melaka,2.2148518,102.2463583,ChIJYSuWmy7w0TER_OZpQ4xr9tQ,"2, Jalan Lagenda 2, Taman 1 Lagenda, 75400 Melaka, Malaysia",,Melaka,Melaka Tengah,Operational
+Dataran Pahlawan Melaka Megamall,2.1899761,102.2504291,ChIJhXSb5-Dx0TERyKwfXu_R9LE,"Jln Merdeka, Banda Hilir, 75000 Melaka, Malaysia",,Melaka,Melaka Tengah,Operational
+Mahkota Parade,2.1886862,102.2504107,ChIJw6soFdbx0TERjNXnPt6ax80,"Lot B-02, Mahkota Parade, 1, Jln Merdeka, Taman Costa Mahkota, 75000 Melaka, Malaysia",,Melaka,Melaka Tengah,Operational
+The Shore Shopping Gallery,2.2029405,102.2499114,ChIJCRqgSNfx0TERyquQAWjDFn0,"193, Pinggiran @ Sungai Melaka, Jalan Persisiran Bunga Raya, Kampung Bunga Paya Pantai, 75100 Melaka, Malaysia",,Melaka,Melaka Tengah,Operational
+"Kiara Square, Bahau",2.8105786,102.395537,ChIJP2YG1qFpzjERqselOurt2as,"98, Jalan Kiara 2, Pusat Perniagaan Kiara, 72100 Bahau, Negeri Sembilan, Malaysia",,Negeri Sembilan,Jempol,Operational
+ÆON Mall Nilai,2.8175917,101.7907081,ChIJ66_dAS_HzTERCsqE42E13uY,"2, Persiaran Pusat Bandar, Putra Point, 71800 Nilai, Negeri Sembilan, Malaysia",,Negeri Sembilan,Seremban,Operational
+Regina Mall,2.5240049,101.8014949,ChIJAUZVZH_xzTEReVB6FR73Ytc,"Jalan Pantai, Kampung Bahasa Kapor, 71000 Port Dickson, Negeri Sembilan, Malaysia",https://reginamall.com.my/homepage,Negeri Sembilan,Port Dickson,Operational
+ÆON Seremban 2 Shopping Centre,2.7013839,101.9119475,ChIJl3dCKuvnzTERjsPXEP6qFXk,"F25 1st FLOOR, ÆON SEREMBAN 2 SHOPPING CENTRE, 112, Persiaran S2 B1, Seremban 2, 70300 Seremban, Negeri Sembilan, Malaysia",,Negeri Sembilan,Seremban,Operational
+"Angsana Seremban Mall, Ampangan",2.7229112,101.9622402,ChIJrxZhBUvfzTERX9TGe81V27U,"Jalan Ampangan, Plaza Ampangan, 70400 Seremban, Negeri Sembilan, Malaysia",,Negeri Sembilan,Seremban,Operational
+Centrepoint Seremban Shopping Mall,2.7228949,101.955192,ChIJEymTi4zdzTERdVnybvURBKo,"33, Jalan Dato Siamang Gagap, Betaria Business Centre, 70100 Seremban, Negeri Sembilan, Malaysia",,Negeri Sembilan,Seremban,Operational
+Era Square,2.725947,101.9316442,ChIJ-ZjwrXndzTERdvW5svfdosE,"Era Square, 70200 Seremban, Negeri Sembilan, Malaysia",,Negeri Sembilan,Seremban,Operational
+KM Plaza,2.7232503,101.9373625,ChIJrYKPLILdzTER78R2yiiDGZM,"Jalan Tuanku Munawir, Bandar Seremban, 70000 Seremban, Negeri Sembilan, Malaysia",,Negeri Sembilan,Seremban,Operational
+Palm Mall,2.7198558,101.9229003,ChIJv6oHQLfdzTERWABFn-UQqoU,"Level 4, Palm Mall, Jalan Sungai Ujong, Kemayan Square, 70200 Seremban, Negeri Sembilan, Malaysia",,Negeri Sembilan,Seremban,Operational
+Seremban Gateway,2.7167752,101.9194177,ChIJU3JplYnnzTERm2AvZ9YUdtM,"Lebuhraya Seremban - Bukit Nenas, 70200 Seremban, Negeri Sembilan, Malaysia",,Negeri Sembilan,Seremban,Operational
+Seremban Prima,2.7201239,101.9411523,ChIJj94nKIfdzTERUE7AHMCBaQM,"Lot S05A, Jalan Dato Bandar Tunggal, Bandar Seremban, 70000 Seremban, Negeri Sembilan, Malaysia",,Negeri Sembilan,Seremban,Operational
+"Cameron Centrum, Brinchang",4.4951467,101.389435,ChIJVxw69mRZyjER6KiCWLl7Sng,"F9WQ+2R, Brinchang, 39000 Brinchang, Pahang, Malaysia",,Pahang,Cameron Highlands,Operational
+"Cameron Fair Shopping Centre, Tanah Rata",4.4692283,101.3758977,ChIJX0J78YhXyjERC1NaDN-Dk6E,"Cameron Fair Tanah Rata Rata, Tanah Rata, 39000 Tanah Rata, Pahang, Malaysia",,Pahang,Cameron Highlands,Operational
+"Cameron Square, Brinchang",4.5080977,101.4079935,ChIJ20W8gqFZyjERxpUMVqPdzGo,"Brinchang, 39000 Brinchang, Pahang, Malaysia",,Pahang,Cameron Highlands,Operational
+Awana SkyCentral,3.4039773,101.7835567,ChIJe3CFsT0UzDERHul0m-p7sW0,"Awana Transport Hub Genting Highlands Resorts, 69000 Genting Highlands, Pahang, Malaysia",,Pahang,Bentong,Operational
+First World Plaza,3.4229492,101.7934354,ChIJ235KkwAUzDERH3vgvWTDy4w,"Genting Highlands, 69000 Genting Highlands, Pahang, Malaysia",,Pahang,Bentong,Operational
+Genting Highlands Premium Outlet,3.4033765,101.7831159,ChIJQwP5jDwUzDERqbMpmoMrOxU,"KM13, 69000 Genting Highlands, Pahang, Malaysia",,Pahang,Bentong,Operational
+SkyAvenue,3.4253103,101.7971696,ChIJnS8ZEgEUzDERPCZ8T9g2rvs,"Resorts World Genting, Genting Highlands, 69000 Genting Highlands, Pahang, Malaysia",,Pahang,Bentong,Operational
+Berjaya Megamall,3.8151965,103.3301266,ChIJQ8uNAZG6yDERxj6Er1okPwQ,"G33, (Ground Floor), Berjaya Megamall, Jalan Tun Ismail, 25000, Kuantan, Pahang, 25000 Kuantan, Pahang, Malaysia",,Pahang,Kuantan,Operational
+Kuantan City Mall,3.8175383,103.3276516,ChIJL8ndyJO6yDERPPk1Ik4szJc,"Jalan Putra Square 6, Putra Square, 25300 Kuantan, Pahang, Malaysia",,Pahang,Kuantan,Operational
+Kuantan Parade,3.8046137,103.3226062,ChIJmwiZg3-7yDEREO95KCC8QEc,"Jalan Haji Abdul Rahman, 25000 Kuantan, Pahang, Malaysia",,Pahang,Kuantan,Operational
+Teruntum Complex,3.8032162,103.3239878,ChIJYR1UzYK6yDERw_q63ChBP6o,"Teruntum Complex, 25000 Kuantan, Pahang, Malaysia",,Pahang,Kuantan,Operational
+Temerloh Mall,3.4405988,102.4159799,ChIJTZ-R0JS4zjER4gfNQUD9-k0,"Lorong Temerloh Mall, 28000 Temerloh, Pahang, Malaysia",,Pahang,Temerloh,Operational
+TMG Temerloh,3.4580056,102.4017715,ChIJZ3qtdvi4zjERAAp2YE8V7nU,"Pusat Perniagaan Cengal 2, 87, Kampung Carak Paya Dalam, 28000 Temerloh, Pahang, Malaysia",,Pahang,Temerloh,Operational
+Mentakab Star Mall,3.471256,102.331764,ChIJzxUKzBO6zjERVgo96TTJPoo,"Lot F-74, Tingkat 2, Mentakab Star Mall, No.1, Jalan Star City 1, Star City, 28400 Mentakab, Pahang, Malaysia",,Pahang,Temerloh,Operational
+1st Avenue Mall,5.4130454,100.3311692,ChIJiW2u2vHDSjARY7j9FGS58aM,"182, Jalan Magazine, 10300 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+Bukit Jambul Complex,5.333558,100.2913328,ChIJY49WfUTASjARbSbexT9iW5I,"3A-06-01, Kompleks Bukit Jambul, Jalan Rumbia, Kampung Seberang Paya, 11900 Bayan Lepas, Penang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+City Junction,5.4497754,100.3049765,ChIJuSjvO4rDSjAR-vEgrfPqUmw,"2, Persiaran Lengkuas 2, Tanjung Tokong, 10470 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+D'Piazza Mall,5.3265257,100.2833421,ChIJq4Mf6mrASjAR8xp7dE9WrnQ,"70-1-76 D'Piazza Mall, Bayan Baru, 11900 Bayan Lepas, Pulau Pinang, Malaysia",,Pulau Pinang,Barat Daya,Operational
+GAMA Supermarket & Departmental Store,5.4134887,100.3283316,ChIJ7VazjpXDSjARYStsepOafXI,"Wisma Gama, No.1, Jalan Dato Keramat, 10150 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+GBS@Mayang,5.326666,100.2850209,ChIJwS-OUzfBSjARbC6nqMwbYN8,"Jalan Mahsuri, Bandar Bayan Baru, 11900 Bayan Lepas, Pulau Pinang, Malaysia",,Pulau Pinang,Barat Daya,Operational
+Gurney Paragon,5.4357359,100.311185,ChIJHTeoOQbDSjARsTHDtwiCS9Y,"163d, Persiaran Gurney, 10250 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+Gurney Plaza,5.4380431,100.3100232,ChIJbV1ghQPDSjARqoUoHwF0xjM,"170, Persiaran Gurney, Pulau Tikus, 10250 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+ICT Digital Mall,5.4145698,100.3295888,ChIJ2XnugpbDSjARJDud-jMiUY8,"ICT KOMTAR, Jln Penang, 10000 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+KOMTAR,5.4145872,100.3297474,ChIJP4BcxJXDSjARIkAwoVy-ih8,"Komtar, 10450 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+M Mall O2O,5.4125569,100.3247849,ChIJ2ziG27jDSjARhoP6nQ0i4pE,"Jalan Dato Keramat, 10150 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+One Precinct,5.3252774,100.2849948,ChIJc9RdG2vASjARY_wOBCsNT_E,"Lengkok Mayang Pasir, Jalan Mayang Pasir1, Bandar Bayan Baru, 11950 Bayan Lepas, Penang, Malaysia",,Pulau Pinang,Barat Daya,Operational
+Penang Plaza,5.4140975,100.3285271,ChIJ1XsrrZfDSjARNLmpeFnkmiM,"George Town, Penang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+Penang Times Square,5.412176,100.3256387,ChIJx4NOur_DSjARgnX41oDHC9g,"144, Jalan Dato Keramat, George Town, 10150 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+Prangin Mall,5.414683,100.331112,ChIJtyM86gTDSjARnGWY72xSErw,"Prangin Mall, No 33, Jalan Dr Lim Chwee Leong, George Town, 10100 George Town, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+Queensbay Mall,5.3331774,100.3066084,ChIJM9-dQfbASjARRVPI8nLX1Po,"Queensbay Mall, 100, Persiaran Bayan Indah, 11900 Bayan Lepas, Pulau Pinang, Malaysia",,Pulau Pinang,Barat Daya,Operational
+Udini Square,5.3782376,100.3142186,ChIJ9QZIaHDBSjAR6cc61_RZX80,"Lebuh Tunku Kudin 3, 11700 Gelugor, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+AEON Mall Bukit Mertajam,5.3210688,100.4775282,ChIJJ765yjbISjARftvwF1hc4Io,"Lot 30908, Jalan Rozhan, Alma, 14000 Bukit Mertajam, Pulau Pinang, Malaysia",,Pulau Pinang,Seberang Perai Tengah,Operational
+Auto-City Penang,5.3377822,100.4315799,ChIJzT4LUdDHSjARrdCODy4xUmM,"Highway Auto-city, 1688-F8, Jalan Perusahaan, Bukit Tengah, 13600 Perai, Pulau Pinang, Malaysia",,Pulau Pinang,Seberang Perai Tengah,Operational
+Bukit Mertajam Wholesale City,5.365458,100.4590091,ChIJv5O4mOXISjARKozSIPcWMXY,"Bukit Mertajam, Penang, Malaysia",,Pulau Pinang,Seberang Perai Tengah,Operational
+"Klippa Shopping Centre , DT , extension  completed; full project TBC in 2025.)",5.2334398,100.4405397,ChIJj_43oZW3SjARbdm23NYYapQ,"752, Persiaran Cassia Barat 8, Bandar Cassia, 14100 Pulau Pinang, Malaysia",,Pulau Pinang,Seberang Perai Selatan,Coming soon
+Megamal Pinang,5.3761839,100.4001367,ChIJA94VQ2PGSjARnuHtz6USRNE,"2828, Jln Baru, Bandar Perai Jaya, 13700 Perai, Pulau Pinang, Malaysia",,Pulau Pinang,Seberang Perai Tengah,Operational
+Pearl City Mall,5.2773477,100.4906019,ChIJyazIok62SjARWFPGmfRttu4,"8936, Jalan Tasek Mutiara 2, Bandar Tasek Mutiara, 14120 Simpang Ampat, Pulau Pinang, Malaysia",,Pulau Pinang,Seberang Perai Selatan,Operational
+Sunway Carnival Mall,5.3986416,100.3976623,ChIJd4X4hs3FSjARHHCpdB9aIkA,"Sunway Carnival Mall 3068, Jalan Todak Pusat Bandar Seberang Jaya, Seberang Jaya, 13700 Perai, Pulau Pinang, Malaysia",,Pulau Pinang,Seberang Perai Tengah,Operational
+ÆON Mall Ipoh Station 18,4.5458419,101.070556,ChIJLcUk0q7pyjERwTcw38YrjBs,"No.2, Susunan Stesen 18, Station 18, 31650 Ipoh, Perak, Malaysia",,Perak,Kinta,Operational
+ÆON Mall Kinta City,4.613871,101.1180371,ChIJs7Ms0R3tyjERlXknc_qhkh4,"2, Jalan Teh Lean Swee, Taman Ipoh Selatan, 31400 Ipoh, Perak, Malaysia",,Perak,Kinta,Operational
+ÆON Mall Klebang,4.6773225,101.1229943,ChIJ--QGJ_mSyjERxcUXrCFETak,"AEON MALL, KLEBANG, 31400 Ipoh, Perak, Malaysia",,Perak,Kinta,Operational
+ÆON Midtown Falim,4.5812758,101.0607619,ChIJTVk6cY3ryjER5TKZzn54rho,"1, Hala Falim 1, Taman Falim, 30200 Ipoh, Perak, Malaysia",,Perak,Kinta,Operational
+Angsana Ipoh Mall,4.6029193,101.0945349,ChIJj_FpyPTsyjER-kmUd0bHGkg,"24, Jalan Raja Ashman Shah, Kampung Kastam Greentown, 30450 Ipoh, Perak, Malaysia",,Perak,Kinta,Operational
+IPOH Parade,4.5959134,101.0900944,ChIJQZydGmHsyjERtEl0E23hdv4,"Ipoh Parade, 105, Jalan Sultan Abdul Jalil, 31350 Ipoh, Perak, Malaysia",,Perak,Kinta,Operational
+Kompleks Yik Foong,4.5969448,101.0813827,ChIJlVasIX3syjERYozWG5-Obcg,"Jalan Laxamana, 30300 Ipoh, Perak, Malaysia",,Perak,Kinta,Operational
+Perak IT Mall,4.6606065,101.1096303,ChIJ68dFc5-TyjERRX8bpKia0lM,"Perak IT Mall, jalan, Tawas Idaman 2, taman tawas idaman, 30010 Ipoh, Perak, Malaysia",,Perak,Kinta,Operational
+Sunway Ipoh Mall,4.619781,101.1467408,ChIJcVLUXFDtyjERghF7f6wHTuA,"Sunway City Ipoh, Ulu Kinta, Perak, Malaysia",,Perak,Kinta,Coming soon
+Kampar Terminal Mall,4.308504,101.1536528,ChIJQTjBbJQcyzER4MfLuLK0QTk,"Kampar, Perak, Malaysia",,Perak,Kampar,Operational
+Tin Village Mall,4.3280891,101.146982,ChIJ9yvIo7viyjER849yN-rr1xk,"lot 312205, Jalan Batu Karang, Taman Kolej Perdana, 31900 Kampar, Perak, Malaysia",,Perak,Kampar,Operational
+"Kerian Sentral Mall, Parit Buntar",5.1274929,100.4826619,ChIJq5LZGc2vSjARe-WEyuiLOqE,"2-01, Jalan Sekolah, Taman Setia Jaya, 34200 Parit Buntar, Perak, Malaysia",,Perak,Kerian,Operational
+ÆON Mall Seri Manjung,4.2201989,100.6709423,ChIJUw2YE6styzERNKfnnqTzfXQ,"Pusat Perniagaan, Jalan Manjung Point 3, 32040 Seri Manjung, Perak, Malaysia",,Perak,Manjung,Operational
+"D'Mall, Seri Iskandar",4.3549694,100.9707164,ChIJh8KeZ9LfyjERxt9xVx1M3mA,"Persiaran SIBC 20, 32600 Bota, Perak, Malaysia",,Perak,Perak Tengah,Operational
+ÆON Mall Taiping,4.8728469,100.7298124,ChIJu92Yh5WuyjERqy5_CJTREio,"Lot G16 & 17, AEON Mall, Jalan Kamunting, 34000 Taiping, Perak, Malaysia",,Perak,Larut Dan Matang,Operational
+Taiping Mall,4.8497629,100.7425103,ChIJ6z-P8veuyjERbXm4cgBGUcY,"Jalan Tupai 3A Taiping Mall 33 Level 3A, 34000 Taiping, Perak, Malaysia",,Perak,Larut Dan Matang,Operational
+Taiping Sentral Mall,4.8658188,100.7312078,ChIJIRqTuJSuyjERGHkwbvpNT9I,"36, Jalan Istana Larut, 34000 Taiping, Perak, Malaysia",,Perak,Larut Dan Matang,Operational
+Keningau Mall,5.334461,116.1528357,ChIJP4u9vhbvPDIR1GlIC1RyZi8,"Jalan Masak, 89000 Keningau, Sabah, Malaysia",,Sabah,Keningau,Operational
+Eastern Plaza,4.2541556,117.897002,ChIJh2ZEQ9-dFTIRxOPTIQmhoBU,"Jalan Kuhara, 91000 Tawau, Sabah, Malaysia",,Sabah,Tawau,Operational
+1Borneo Hypermall,6.0351724,116.128932,ChIJvVRqQXtrOzIRFupvUkPRnMs,"ONE BORNEO HYPERMALL LOT G333-G335 & G352-G354 GRD FLR, Jalan Sulaman, 88400 Kota Kinabalu, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+88 Mall,5.9410288,116.0702239,ChIJt_0suiNpOzIRbjxld6SeVGk,"Unnamed Road, Taman Ridgeview, 88200 Kota Kinabalu, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+Centre Point Sabah,5.9781469,116.0718643,ChIJs7_pb5FpOzIRK-YNoFYX3O0,"Centre Point Sabah, 1, Jln Centre Point, 88000 Kota Kinabalu, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+EG Mall Inanam,6.0059057,116.1450236,ChIJyaG12QxsOzIRLnr-vo_5DMk,"Km12, Jalan Tuaran, Inanam, 88400 Kota Kinabalu, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+Grand Merdeka,6.0612614,116.1801472,ChIJB2yY0dRsOzIRUQ7Z_ySglIw,"Grand medeka mall lot g-200, 88450 Menggatal, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+Imago KK Times Square,5.9708621,116.0663544,ChIJGwRDk79pOzIRjM0ywHUkgDM,"KK Times Square, Phase 2, Off Coastal Highway, 88100 Kota Kinabalu, Sabah, Malaysia",https://www.imago.my/,Sabah,Kota Kinabalu,Operational
+Inanam Mall,5.992784,116.1348787,ChIJB5WBsPhrOzIR8kPiSA3lje0,"Jln Nountun, Inanam, 88450 Kota Kinabalu, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+ITCC Penampang,5.9101536,116.0914083,ChIJ19aPpytmOzIROqzrsyYb1eg,"ITCC, Jalan Pintas Penampang, 89500 Penampang, Sabah, Malaysia",,Sabah,Penampang,Operational
+Jesselton Residences,5.9891676,116.0782581,ChIJ5bouxIdpOzIRnVVgMTE8Ez0,"Malaysia, Sabah, Kota Kinabalu, Jln Haji Saman, LOT NO,A-15-06, Block A",,Sabah,Kota Kinabalu,Operational
+Karamunsing Complex,5.9665572,116.072049,ChIJO6SXELxpOzIR7kJB8kTkcKk,"Karamunsing Complex, Kota Kinabalu, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+KK Plaza,5.982796,116.0736188,ChIJM-QZTI5pOzIRjr9n0ABjWcU,"Kk Plaza, Jln Lapan Belas, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+Mega Long Mall,5.9127259,116.1027167,ChIJ1ZskZ51oOzIRLZjgRkA4N3Q,"5th Floor Megalong Shopping Mall., Pekan Donggongon, 89500 Penampang, Sabah, Malaysia",,Sabah,Penampang,Operational
+Oceanus Waterfront Mall,5.9770124,116.0689112,ChIJl47lj5NpOzIRWdYgNk33guk,"LOT C-16&C-17, LOWER GROUND FLOOR, OCEANUS WATERFRONT MALL, 88000 Kota Kinabalu, Sabah, Malaysia",https://www.facebook.com/OceanusMallSabah/,Sabah,Kota Kinabalu,Operational
+Riverson The Walk,5.9689798,116.0644946,ChIJpTn-msBpOzIRHUMFS1nwJWU,"Jln Riverson 1, 88000 Kota Kinabalu, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+Suria Sabah,5.9867933,116.0775039,ChIJZzdhHIZpOzIRr_9CABl11w8,"1, Jln Tun Fuad Stephens, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",,Sabah,Kota Kinabalu,Operational
+Sutera Avenue,5.9670435,116.064869,ChIJCUKEsrhpOzIR9KpoqLrzwas,"Sutera Avenue, Kota Kinabalu, Malaysia",,Sabah,Kota Kinabalu,Operational
+Wisma Merdeka,5.986208089,116.0757571,ChIJcyR-UI9pOzIRZMlZt7wUqik,"Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",Not Available,Sabah,Kota Kinabalu,Operational
+Boulevard Shopping Mall Bintulu,3.2007132,113.0479617,ChIJp8F8YqDBHTIRPE9QOeK8I60,"714, Jalan Tun Razak, 97000 Bintulu, Sarawak, Malaysia",,Sarawak,Bintulu,Operational
+Li Hua Plaza,3.1697643,113.0420422,ChIJJRGfEFzAHTIRSErGRB599Fs,"Jln Abang Galau, Shahida Commercial Centre, 97000 Bintulu, Sarawak, Malaysia",,Sarawak,Bintulu,Operational
+Naim Street Mall,3.1704795,113.0481632,ChIJt56npfXAHTIRW3nVmHLfKhE,"No.1, Old Airport, 97000 Bintulu, Sarawak, Malaysia",,Sarawak,Bintulu,Operational
+Parkcity Commerce Square Mall,3.1833544,113.039575,ChIJUVeI3lLAHTIRCSZqT6CDd84,"Commerce square Mall, Parkcity Commerce Square, 97000 Bintulu, Sarawak, Malaysia",,Sarawak,Bintulu,Operational
+The Spring Bintulu,3.1811596,113.034922,ChIJfV8Zdiin-zERfdb_PjWahro,"Lot 4282, Jalan Tun Abdul Razak, 97000 Bintulu, Sarawak, Malaysia",,Sarawak,Bintulu,Operational
+Aiman Mall,1.4555273,110.445887,ChIJfXcomDai-zERz-25oO6aCkI,"94300 Kota Samarahan, Sarawak, Malaysia",,Sarawak,Samarahan,Operational
+Summer Mall,1.4547885,110.45877,ChIJDVwlAk-i-zERe-mZeB-flMM,"Lot 7455, Block 1, Jln Datuk Mohammad Musa, 94300 Kota Samarahan, Sarawak, Malaysia",,Sarawak,Samarahan,Operational
+La Promenade Mall,1.4959209,110.4020864,ChIJqaE7PTqh-zERjkGXDyapiDY,"No.1, HSL Tower, Lorong La Promenade 2, La Promenade, Kuching - Samarahan Expressway, 94300 Kota Samarahan, Sarawak, Malaysia",,Sarawak,Samarahan,Operational
+ÆON Mall Kuching Central,1.5275039,110.3373277,ChIJSaiwZHun-zERqaT-wcKEGOU,"Mall Management Office, First Floor, Jln Tun Datuk Patinggi Haji Ahmad Zaidi Adruce, Min Chu Garden, 93200 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Aeroville Mall,1.4968283,110.3717632,ChIJRZDk6Weh-zER6V-tx8DteYM,"Lot 19923 (Phase 2) Block 11, Land District, Jln Stutong Baru, Muara Tebas, 93350 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Boulevard Shopping Mall,1.5096009,110.3359475,ChIJKx7fmlmn-zERwUOaYvQCrjI,"Jalan Datuk Tawi Sli, Taman Seng Goon, 93250 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+CityOne Megamall,1.5207249,110.3544307,ChIJV2aCyhSn-zER02e58DpADVM,"T20, 3rd Floor,Mall 2 City, One Megamall, 1, Jalan Song, Taman Phoning, 93350 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Electra House,1.559381208,110.343159,ChIJ2XwF1_Gn-zERdCSANewJzBc,"Jalan Power, 93000 Kuching, Sarawak, Malaysia",Not Available,Sarawak,Kuching,Operational
+Farley Mall,1.4842057,110.3330239,ChIJKTb6OxWh-zERqTu8tWZFcqI,"Lot 4547,Block 233,KNLD, Jalan Penrissen, 6th Mile, 93250 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Genesis Parade,1.5054978,110.2522927,ChIJOch6lFsJ-zERRTmRZkxKNCM,"93250 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Hopoh Shopping Centre,1.5537994,110.3404687,ChIJDTid2vKn-zERQ8O_ZQdPXyw,"93400 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Kuching Sentral,1.481769,110.331728,ChIJaxg4XaCg-zERJUf8IW8YmgY,"Lot 2 ground floor 6th mile, Jalan Penrissen, Kuching Sentral, 93250 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Majma Mall,1.5550688,110.33988,ChIJrYkW_fKn-zERFX83HXrGMmc,"41, Jalan P. Ramlee, 93400 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Matang Mall,1.5745279,110.2960486,ChIJnRQszNkH-zERbcIXvYrntXw,"73 second floor, Lorong Anggerik 7, Taman Matang Jaya, 93050 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Moyan Square,1.499169,110.2510683,ChIJOVsCe-IL-zERtJbvZiNtCQI,"55, Lor Moyan Utama 1, 93250 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Papillon Street Mall,1.5142932,110.3042968,ChIJPdV-8JQJ-zERaH320gmkz5U,"Batu Kawah New Township, Jalan Batu Kawa, Bandar Baru Batu Kawa, 93250 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Plaza Merdeka Shopping Center,1.5585742,110.344017,ChIJKXOlDu6n-zERSKBAccqMThA,"88, Pearl Street, 93000 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Riverside Shopping Complex,1.557896,110.351547,ChIJxTI1fumn-zERWFarXNd_Ggk,"Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+ST3 Shopping Mall,1.5360203,110.3557502,ChIJ-51uE6Cn-zERdPThflnpP_A,"64, Jalan Simpang Tiga, Kampung Kenyalang Park, 93300 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Tabuan Plaza,1.5321647,110.3760371,ChIJB0xXqQGn-zERi8wDDyO5Wts,"93350, Jln Bayor Bukit, Muara Tebas, 93350 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+The Spring Shopping Mall,1.5355458,110.3582016,ChIJNfuDY6Cn-zERvKQMPnRpF04,"304, Persiaran, Kampung Kenyalang Park, 93300 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Tun Jugah Mall,1.5570486,110.3532347,ChIJMxI1GOqn-zERe5fd5SEvu3M,"18, Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Vivacity Megamall,1.5268545,110.3695884,ChIJSQayGQWn-zERvJDO9nzBZsE,"Ground Floor, Management Office, Jalan Wan Alwi, 93350 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Wisma Saberkas,1.5368706,110.3400929,ChIJfwSIFY6n-zERtAIouYpY4wM,"Jalan Tun Abang Haji Openg, 93150 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Wisma Satok,1.5535633,110.3349045,ChIJA0Cyy_Sn-zERsb4j-79-0lc,"Lot 2.20, Level 2, Wisma Satok, Jalan Satok, Kampung Bandarshah, 93400 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Wisma Wan,1.5270422,110.3751205,ChIJcRhDGQOn-zERMFcnlsTL3hc,"Jln Bayor Bukit, Tabuan Jaya, 93350 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Limbang Plaza,4.7550079,115.0091705,ChIJpU95hwmPIjIRbdNJe4_37kU,"Pekan Limbang, 98700 Limbang, Sarawak, Malaysia",,Sarawak,Limbang,Operational
+Bintang Megamall,4.3970478,113.9932847,ChIJwU1sCCxPHzIR38IwE7G8EgQ,"Lot 1264, Jalan Miri Pujut, Bintang Jaya, 98000 Miri, Sarawak, Malaysia",,Sarawak,Miri,Operational
+Boulevard Shopping Mall Miri,4.4151455,114.0129009,ChIJISnM_-dOHzIRQr_Q1a3yK7Q,"Lot 2528, Boulevard Commercial Centre, 98000 Miri, Sarawak, Malaysia",,Sarawak,Miri,Operational
+Miri Plaza,4.405319858,114.0021441,ChIJW_Ks79dOHzIRsKEfnnwKuFI,"Pelita Commercial Centre, 98000 Miri, Sarawak, Malaysia",Not Available,Sarawak,Miri,Operational
+MYY Mall,4.4707827,114.0106985,ChIJTazKyilOHzIR6R1ymSgnA_Q,"Jalan Pasar Lutong, Lutong, 98000 Miri, Sarawak, Malaysia",,Sarawak,Miri,Operational
+Permaisuri Imperial City Mall,4.4004328,113.9903458,ChIJk_8V7C1PHzIR2EQYX_uYF6I,"Permaisuri Imperial City Mall, Jalan Merpati, 98000 Miri, Sarawak, Malaysia",Not Available,Sarawak,Miri,Operational
+Permy Mall,4.4500689,114.0383533,ChIJNQ23dAVOHzIR0_0e66Y2yEE,"Sublot 261, 1st Floor Permy Mall, Bandar Baru Permyjaya, 98000 Miri, Sarawak, Malaysia",,Sarawak,Miri,Operational
+Soon Hup Tower,4.3974004,113.9873538,ChIJ1xpDyjJPHzIR1PGW-L9My0c,"Jalan Merbau, 98000 Miri, Sarawak, Malaysia",,Sarawak,Miri,Operational
+Hann's Residence,2.286578743,111.8475763,ChIJYQtHPxl_9zERddIDeV1Acf8,"Sibu, 96000 Sibu, Sarawak, Malaysia",Not Available,Sarawak,Sibu,Operational
+Sarawak House Shopping Complex,2.289415,111.8300862,ChIJnwUoM9x_9zERbQkSK0LpiuQ,"Jln Kampung Nyabor, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",,Sarawak,Sibu,Operational
+Star Mega Mall,2.3052474,111.8644069,ChIJoZWYO8GB9zERZOSCHnj7MrY,"Jalan Tunku Abdul Rahman, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",,Sarawak,Sibu,Operational
+Wisma Sanyan,2.2905456,111.8253011,ChIJhX-1vNt_9zERgTJ41L75uWk,"Wisma Sanyan, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",,Sarawak,Sibu,Operational
+Plaza Simanggang,1.2360296,111.4580218,ChIJZ-Yu5D5J-TERmox4fTeEVcI,"Jalan Foocow, 95000 Simanggang, Sarawak, Malaysia",,Sarawak,Sri Aman,Operational
+Ampang Point,3.15857069,101.7518256,ChIJY-f_aag3zDER08YcJId9cfI,"Ampang Point, 53, Jln Memanda 9, Taman Dato Ahmad Razali, 68000 Ampang, Selangor, Malaysia",https://www.ampangpoint.com.my/,Selangor,Ulu Langat,Operational
+Axis Atrium,3.136544,101.7472814,ChIJqdxcUVk2zDERTdjv7tDahDE,"AXIS ATRIUM SHOPPING MALL, Jalan Cempaka, Taman Cempaka, 68000 Ampang, Selangor, Malaysia",,Selangor,Ulu Langat,Operational
+Galaxy Ampang,3.1469408,101.7557673,ChIJxV2O5_42zDERDLZBbx_QiE8,"Galaxy Ampang Shopping Centre, Jln Dagang 5, Taman Dagang, 68000 Ampang, Selangor, Malaysia",,Selangor,Ulu Langat,Operational
+Pandan Capital Mall,3.1287959,101.7538286,ChIJveFg9Yo2zDERDsfosU3tEmU,"L2/c2,Pandan Kapital, Persiaran Mpaj, Pandan Indah, 55100 Kuala Lumpur, Selangor, Malaysia",,Selangor,Ulu Langat,Operational
+Spectrum Shopping Mall,3.146098912,101.7650324,ChIJE81VWeM2zDERxL1N0kZ4I9o,"Spectrum Shopping Mall, 3, Jalan Wawasan Ampang 4/2, Bandar Baru Ampang, 68000 Ampang, Selangor, Malaysia",Not Available,Selangor,Ulu Langat,Operational
+Bangi Gateway,2.9331222,101.7659028,ChIJESPI7RLJzTEREW49D-1gnO0,"Bangi Gateway, Seksyen 15, 43650 Bandar Baru Bangi, Selangor, Malaysia",,Selangor,Ulu Langat,Operational
+De Centrum Mall,2.9797909,101.7388572,ChIJMTcVN0DKzTERc3NVDHww7sU,"Jalan Wawasan, Kawasan Institusi Bangi, 43009 Kajang, Selangor, Malaysia",,Selangor,Sepang,Operational
+Evo Bangi,2.9627284,101.7554702,ChIJ0YrAtNLLzTERiE7ySrs-oPs,"Kompleks EVO, jalan Medan 2D, Seksyen 9, 43650 Bandar Baru Bangi, Selangor, Malaysia",,Selangor,Ulu Langat,Operational
+ÆON Cheras Selatan Shopping Centre,3.0335152,101.7650236,ChIJKVnSSM00zDERaZUF8esnYvA,"Aeon Cheras Selatan, 43200 Cheras, Selangor, Malaysia",,Selangor,Ulu Langat,Operational
+BMC Mall,3.0549073,101.7871801,ChIJTWnJM5g0zDER4f59d-KJlmk,"Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor, Malaysia",,Selangor,Ulu Langat,Operational
+D'Pulze Shopping Centre,2.9220548,101.650968,ChIJn_QIW_u2zTERR19CqNnhQCA,"Persiaran Multimedia, Cyber 12, 63000 Cyberjaya, Selangor, Malaysia",,Selangor,Sepang,Operational
+Gem In Mall,2.9222215,101.6344813,ChIJyxGIeNu2zTERFbLcWSCIHKA,"Persiaran Sepang, Cyber 11, 63000 Cyberjaya, Selangor, Malaysia",,Selangor,Sepang,Operational
+Malakat Mall,2.9250968,101.649777,ChIJ7Vlj7Sy3zTERnMQZemN1eMM,"65, Lingkaran Cyber Point Timur, Cyberjaya, 63000 Cyberjaya, Selangor, Malaysia",,Selangor,Sepang,Permanently closed
+Shaftsbury Square Cyberjaya,2.922597,101.6618951,ChIJG3xmI1a2zTERGiNTMW1dQS8,"Shaftsbury Square, 63000 Cyberjaya, Selangor, Malaysia",,Selangor,Sepang,Operational
+Metro Point Kajang,2.9916367,101.793722,ChIJCRzZkH3MzTER3oaPdPiLtVQ,"Jalan Jelok 8, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",,Selangor,Ulu Langat,Operational
+Plaza Metro Kajang,2.991358,101.7892036,ChIJ1d1T94LLzTERtdPxjbCKA4I,"4, Jln Tun Abdul Aziz, Seksyen 1, 43000 Kajang, Selangor, Malaysia",,Selangor,Ulu Langat,Operational
+ÆON Mall Bukit Raja,3.0608814,101.4722676,ChIJ-RCB3RtTzDERgjFNARnOeLg,"Persiaran Bukit Raja 2, Bandar Baru Klang, 41150 Klang, Selangor, Malaysia",,Selangor,Klang,Operational
+ÆON Mall Bukit Tinggi,2.9939452,101.444546,ChIJfXQttWGtzTERDwyK5FEdWh8,"Persiaran Batu Nilam 1/KS06, Bandar Bukit Tinggi 2, 41200 Klang, Selangor, Malaysia",,Selangor,Klang,Operational
+Galleri Klang Sentral,3.1076348,101.4394522,ChIJTdnufvlTzDERZQvBWAsIeiQ,"C-21-G, Galeri Klang Sentral, Jalan Klang Sentral 15/KU5, Meru, 41050 Klang, Selangor, Malaysia",,Selangor,Klang,Operational
+GM Klang Wholesale City,2.991067,101.4500001,ChIJk0y_6eOtzTEREtrW6-lE6Jg,"GM Klang Wholesale City, Jalan Kasuarina 1, Bandar Botanik, 41200 Klang, Selangor, Malaysia",,Selangor,Klang,Operational
+Klang Parade,3.0637778,101.4536951,ChIJd3HmqG1TzDER96-aEJZcJME,"No. 2112, KM2, Jln Meru, Kawasan 17, 41050 Klang, Selangor, Malaysia",,Selangor,Klang,Operational
+KSL Esplanade Mall,2.9584083,101.4670464,ChIJux40w8atzTERS6T73BQlLNw,"No.1, Jalan Langat KS9, Bandar Bestari, 41200 Klang, Selangor, Malaysia",,Selangor,Klang,Operational
+Central Mart Saujana Utama,3.2029401,101.4866555,ChIJcauijoVazDER-eeanivRJ0g,"Jalan Bidara 6/3, Saujana Utama, 47000 Sungai Buloh, Selangor, Malaysia",,Selangor,Kuala Selangor,Operational
+Coalfields Retail Park,3.2440668,101.4750457,ChIJwXc_tUBbzDERH-pGAtBLt7s,"Jalan BSC 2C/1, 48020 Sungai Buloh, Selangor, Malaysia",,Selangor,Kuala Selangor,Operational
+KIPMall Desa Coalfields,3.2355597,101.4896135,ChIJR1Tij7lbzDERiJ0_Vu-aZd4,"Jalan DC 4/5, Desa Coalfields, 47000 Sungai Buloh, Selangor, Malaysia",,Selangor,Kuala Selangor,Operational
+Saujana Utama Mall,3.2023922,101.4858932,ChIJw3Fb_IVazDERR4QK22lfNpo,"Saujana Utama 3, 47000 Sungai Buloh, Selangor, Malaysia",,Selangor,Kuala Selangor,Operational
+1 Utama,3.1480679,101.6164417,ChIJL-Qvn9JOzDERBLmeTTrrgf0,"1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+3 Damansara,3.1304749,101.6269411,ChIJQd-9d0hJzDER65xpZRO9F6c,"3, Jalan SS 20/27, Damansara Intan, 47400 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Amcorp Mall,3.105097,101.646955,ChIJwVTE-9pLzDERQ5LnvPeHUUo,"18, Jalan, Persiaran Barat, Seksyen 52 Petaling Jaya, 46050 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Atria Shopping Gallery,3.1270963,101.6165176,ChIJ8bk3pUxJzDERrFejLGpKfIg,"Jalan SS 22/23, Damansara Jaya, 47400 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+CITTA Mall,3.1121867,101.5790712,ChIJgy-5zSlMzDERHBFPl7YJ7Zs,"1, Jalan PJU 1a/48, Ara Damansara, 47301 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Empire City Mall,3.1663492,101.6148348,ChIJtbMbU8tIzDERJXAjyEJrH0E,"8, Jalan Damansara, Jalan PJU 8/3a, Empire City, 47820 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Evolve Concept Mall,3.110051,101.586496,ChIJpbkDxCZMzDERkKzyJKOd8Ko,"Evolve Concept Mall Pacific Place, Jalan PJU 1a/4, Ara Damansara, 47301 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+IPC Shopping Centre,3.1563946,101.6111185,ChIJlSyJwCtPzDERZF0AU9hYoL8,"2, Jalan PJU 7/2, Mutiara Damansara, 47800 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Jaya One,3.1184035,101.6354371,ChIJe9aC1F1JzDERgZCaZVmX0fc,"72A, Jln Profesor Diraja Ungku Aziz, Seksyen 13, 46200 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Jaya Shopping Centre,3.109189,101.6371808,ChIJL1DQlOBLzDERdyz6BPjUSxY,"Jalan 14/17, Seksyen 14, 46100 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Megah Rise,3.1143577,101.6117016,ChIJPWu-pvJPzDER1ms4E0GV6cM,"Jln SS 24/8, Taman Megah, 47301 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Paradigm Mall Petaling Jaya,3.1051171,101.5959701,ChIJDZNKSRhMzDERhJVpBl2HvHU,"1, Jalan SS 7/26a, Ss 7, 47301 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Seventeen Mall,3.1289528,101.6347262,ChIJGYrCEkFJzDERptEPU8zlMrA,"998, Jalan 17/38, Seksyen 17, 46400 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Sunway Giza,3.1501529,101.5917264,ChIJMaQVaOBOzDER9CQ0pux-nz4,"No. 2, Jalan PJU 5/14, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Tropicana Gardens Mall,3.149194,101.5931032,ChIJURCa6nxPzDERIbpqvPUmBMw,"2A, Persiaran Surian, Tropicana Indah, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+168 Park Selayang Mall,3.2492923,101.6494422,ChIJIVxiEP5HzDERR9canUbXu4U,"168 Park Selayang, Jln Kuching, 68100 Batu Caves, Selangor, Malaysia",https://www.168parkselayang.com.my/,Selangor,Gombak,Operational
+ÆON Rawang Anggun Shopping Centre,3.3173712,101.5365756,ChIJh-4j0IlDzDERlED_h9E2NiU,"1, Persiaran Anggun, Taman Anggun, 48000 Rawang, Selangor, Malaysia",,Selangor,Gombak,Operational
+Selayang Capitol Complex,3.2406846,101.6489044,ChIJG7bWIPBGzDER30yCxOwPBjI,"Exit Lebuhraya Selayang - Kepong, Taman Selayang Jaya, 68100 Batu Caves, Selangor, Malaysia",,Selangor,Gombak,Operational
+Selayang Mall,3.2374871,101.6441905,ChIJg3PYtmBGzDERdVqsZizorps,"Jalan SU 9, Taman Selayang Utama, 68100 Batu Caves, Selangor, Malaysia",,Selangor,Gombak,Operational
+Ecohill Walk Mall,2.9247455,101.8568295,ChIJt0_QKSfPzTERfALQ8n0p4Ps,"Kompleks Membeli Belah Dataran Ecohill, Jln Ecohill 1/2, Setia Ecohill, 43500 Semenyih, Selangor, Malaysia",Not Available,Selangor,Ulu Langat,Operational
+Gateway@klia2,2.7440889,101.6856391,ChIJT9FTwpW_zTERH9f-OJEKg0Q,"Lbh KLIA, 43900 Klia, Selangor, Malaysia",,Selangor,Sepang,Operational
+Mitsui Outlet Park KLIA Sepang,2.7802014,101.6772793,ChIJDXMXsz2_zTERvT6djfbjm9w,"Persiaran Komersial, 64000 Klia, Selangor, Malaysia",,Selangor,Sepang,Operational
+ÆON Taman Equine Shopping Centre,2.99525,101.6751274,ChIJmRd8hae1zTERltVkEopzj_0,"2, Jln Equine, Pusat Bandar Putra Permai, 43300 Seri Kembangan, Selangor, Malaysia",,Selangor,Petaling,Operational
+South City Plaza,3.028645,101.709432,ChIJp2lg1avKzTERSIwZUO-zjaU,"Lot No. S2.72(D2), 2nd Floor, South City Plaza Persiaran Serdang Perdana Seksyen 1, Taman Serdang Perdana, 43300 Seri Kembangan, Selangor, Malaysia",,Selangor,Petaling,Operational
+The Mines Shopping Mall,3.0285941,101.719161,ChIJ-Q7SA67KzTERHsCzroKfMwo,"L1-07A, Jalan Dulang, Mines Wellness City, 43300 Seri Kembangan, Selangor, Malaysia",,Selangor,Petaling,Operational
+AEON Mall Shah Alam,3.0767621,101.5482713,ChIJ5U48LKBNzDER-vfQfcuk_44,"Jln Akuatik 13/64, Seksyen 13, 40100 Shah Alam, Selangor, Malaysia",,Selangor,Petaling,Operational
+Anggerik Mall,3.0712092,101.5199959,ChIJrbQvOIFSzDERMQTWyIJi8Nw,"2-23A, UTC Selangor/Anggerik Mall, Seksyen 14, 40000 Shah Alam, Selangor, Malaysia",,Selangor,Petaling,Operational
+Central i-City,3.0624082,101.4817408,ChIJxV2SUPtSzDERQ4GW7znn1UY,"No. 1, Persiaran Multimedia, Seksyen 7, Jalan Plumbum 7/102, I-City, 40000 Shah Alam, Selangor, Malaysia",,Selangor,Petaling,Operational
+Elmina Lakeside Mall,3.1804038,101.5087376,ChIJWzWvBgBRzDERFJIngI5lFa0,"5GH5+PQ Elmina, Urban Park, 47000 Shah Alam, Selangor, Malaysia",https://www.simedarbyproperty.com/malls/elmina-lake-side-mall/,Selangor,Petaling,Operational
+IRDKL Mall,3.056825,101.489588,ChIJNaLb6edSzDERj3ZtohlkhuU,"1, Jln Serai Wangi M 16/M, Alam Avenue, 40000 Shah Alam, Selangor, Malaysia",,Selangor,Klang,Operational
+Kompleks PKNS Shah Alam,3.0706712,101.5171661,ChIJQ435kYZSzDERvs0A5EFX4Xs,"Persiaran Tasik, Seksyen 14, 40000 Shah Alam, Selangor, Malaysia",,Selangor,Petaling,Operational
+Ole-Ole Shopping Centre,3.0436554,101.516821,ChIJka7DoAJTzDERZO_3XaYyHms,"7, Jalan Pinang A 18/A, Seksyen 18, 40200 Shah Alam, Selangor, Malaysia",,Selangor,Petaling,Operational
+Plaza Alam Sentral,3.0739915,101.517169,ChIJ5zrKEodSzDERWzp6P9_-9FI,"Plaza Alam Sentral, Jalan Majlis, Seksyen 14, 40000 Shah Alam, Selangor, Malaysia",,Selangor,Petaling,Operational
+Plaza Shah Alam,3.0843475,101.5233127,ChIJufVDm1NTzDERqqA6mwY8bxo,"Jalan Tengku Ampuan Zabedah E 9/E, Seksyen 9, 40100 Shah Alam, Selangor, Malaysia",,Selangor,Petaling,Operational
+SACC Mall Shah Alam,3.0713715,101.5176559,ChIJU93Z2oZSzDERszvBCDApVBo,"14/9, Jalan Perbadanan, Seksyen 14, 40000 Shah Alam, Selangor, Malaysia",https://www.sacc-mall.com/,Selangor,Petaling,Operational
+Setia City Mall,3.1094685,101.4602178,ChIJU_KM2n9SzDERdHKiiYBVsyM,"7, Persiaran Setia Dagang Bandar Setia Alam, Seksyen, U13 Shah Alam, 40170 Shah Alam, Selangor, Malaysia",https://setiacitymall.com/,Selangor,Petaling,Operational
+Space U8 Mall,3.1118583,101.552338,ChIJpyvTJd9NzDERHPcwy7OYJgU,"1-22-1, 1st floor Space u8 mall, 1st FLR Space U8, Persiaran Pasak Bumi, U 8, 40150 Shah Alam, Selangor, Malaysia",,Selangor,Petaling,Operational
+Star Avenue Lifestyle Mall,3.1545825,101.5536314,ChIJS-J9QLNPzDERY3uv7tysDw0,"3, Jalan Zuhal U5/179, Bandar Pinggiran Subang, 40150 Shah Alam, Selangor, Malaysia",,Selangor,Petaling,Operational
+Da Men Mall,3.0580052,101.5925509,ChIJF_wzeSBNzDERefV2CNjNvUQ,"1, Persiaran Kewajipan, Usj 1, 47600 Subang Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+NU Empire Shopping Gallery,3.0817783,101.5828038,ChIJ1dO4iFpMzDERNDCXYKfbsSg,"Jalan SS 16/1, Ss 16, 47500 Subang Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+IOI Mall Puchong Jaya,3.0449441,101.6180882,ChIJY59uVFhLzDERnI07aUhL3VY,"Ioi Mall, 23, Lebuhraya Damansara - Puchong, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",,Selangor,Petaling,Operational
+M Square Puchong,3.0035617,101.6047165,ChIJOemsOhNNzDERTMGWTPxsElU,"Jalan Dm 2, Taman, Desa Millennia, 47150 Puchong, Selangor, Malaysia",,Selangor,Petaling,Operational
+Main Place Mall,3.026518204,101.5814685,ChIJMdeF3S-zzTERdoSxPotqcY0,"Level 2, Jalan USJ 21/10, Persiaran Kewajipan, Usj 21, 47630 Subang Jaya, Selangor, Malaysia",https://www.mainplace.com.my/,Selangor,Petaling,Operational
+Pallazo 19 Mall,3.0328342,101.5887162,ChIJ08HolDSzzTERfe2RqBdEDdQ,"The 19 usj City Mall, Persiaran Kewajipan, Usj 19, 47620 Subang Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+One City Mall,3.029997164,101.5802037,ChIJZ4Wf3iSzzTERt9ItbpQSfww,"Jalan USJ 25/1B, One City, 47650 Subang Jaya, Selangor, Malaysia",Not Available,Selangor,Petaling,Operational
+"Setia Walk, Puchong",3.0309621,101.6168062,ChIJyWmMG1VLzDER651sEIJsamI,"13a, Persiaran Wawasan, Pusat Bandar Puchong, 47160 Puchong, Selangor, Malaysia",,Selangor,Petaling,Operational
+SS15 Courtyard,3.0779644,101.5865449,ChIJ_VJGQVlMzDERCBLSw3Cupz4,"Jln SS 15/4G, Ss 15, 47500 Subang Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Subang Parade,3.0814893,101.5851028,ChIJH4fKE1tMzDERdH2TyRMZgSY,"Jalan Kemajuan Subang, Ss 16, 47500 Subang Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Sunway Pyramid,3.0720837,101.6063455,ChIJm21YdodMzDERJW_y1EmlGV4,"3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Sunway South Quay Mall,3.0622737,101.6095194,ChIJqxHtQ4ZMzDERS44aRfOCSG4,"3, Jalan PJS 11/11, 46150 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Coming soon
+The Summit USJ,3.0602399,101.593544,ChIJAWRCs-xMzDERGXu15ptW7D8,"Summit USJ, Persiaran Kewajipan, Usj 1, 47600 Subang Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Gamuda Walk Mall,3.0005954,101.5335162,ChIJ82p61YWyzTERnDXFYJ83z6Y,"Persiaran Anggerik Vanilla, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia",https://gamudaland.com.my/developments/gamudawalk/gallery/directory/,Selangor,Klang,Operational
+Quayside Mall,2.9568618,101.5536023,ChIJq9RAz1ezzTERX4EZ4ZVN5VI,"Gamuda Kemuning, 25.7, Persiaran Freesia, 42500 Telok Panglima Garang, Selangor, Malaysia",https://www.quaysidemall.com.my/full/,Selangor,Kuala Langat,Operational
+Sanctuary Mall,2.9442869,101.5427859,ChIJRR75e1SxzTERbUXBx4_nSVI,"Persiaran Eco Sanctuary, 8/3, Eco Santuari, 42500, Selangor, Malaysia",,Selangor,Kuala Langat,Operational
+Kemaman Centre Point,4.232841,103.421785,ChIJ0dYaB-SGyDERLVS6QJvRrb8,"Jalan Da Omar, Kampung Gong Pauh, 24000 Kemaman, Terengganu, Malaysia",,Terengganu,Kemaman,Operational
+"Mesra Mall, Kemasik",4.4407097,103.4484901,ChIJS82krqtwyDERUZrVD7V7Kgs,"Mesra Mall, Lot 6490, Jalan Kemaman - Dungun, Kampung Baru, 24200 Kemasik, Terengganu, Malaysia",,Terengganu,Kemaman,Operational
+Mayang Mall,5.3372027,103.1437707,ChIJkV8pWwC9tzERDJ8evf28sJ8,"301, Jalan Haji Mat Taukey, Kampung Surau Pasir, 20000 Kuala Terengganu, Terengganu, Malaysia",https://www.mayangmall.com.my/,Terengganu,Kuala Terengganu,Operational
+Paya Bunga Square/Sentral,5.3310209,103.1366439,ChIJKWgBk3m-tzERQo31ZdjbAsA,"Paya Bunga Square Jalan Masjid Zainal Abidin, 20100 Kuala Terengganu, Terengganu, Malaysia",,Terengganu,Kuala Terengganu,Operational
+Elements Mall Malacca,2.1826003,102.2625,ChIJe41XzwTu0TERWyzxuEakSZE,"Jalan Melaka Raya 23, Hatten City, 75000 Melaka, Malaysia",,Melaka,Melaka Tengah,Operational
+Hatten Square,2.1892815,102.2519395,ChIJcTCHCOHx0TER4G3mZonKf8M,"Hatten Square, Jln Merdeka, Taman Costa Mahkota, 75000 Malacca, Malaysia",,Melaka,Melaka Tengah,Operational
+K7 Community Mall,2.2086896,102.2425329,ChIJt0hAhc3x0TER2jyEOngXcZg,"Kampung Tujuh, 75300 Melaka, Malaysia",,Melaka,Melaka Tengah,Operational
+Terminal Pahlawan (Melaka wholesale city),2.1891228,102.252384,ChIJS58QpOHx0TERz6n0DErg8jM,"105, Jln Merdeka, Taman Melaka Raya, 75000 Melaka, Malaysia",,Melaka,Melaka Tengah,Operational
+118 Mall,3.157614208,101.700342,ChIJ8dfhij5JzDERYoQs1Ff8HjI,"Jalan Hang Jebat, Presint Merdeka 118, 50118 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",Not Available,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+GMBB,3.1448922,101.7045655,ChIJCW4fF_tJzDERAm6Qigjh_LY,"No. 2, Jalan Robertson, Bukit Bintang, 50150 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Aurora Place Mall,3.0541289,101.670174,ChIJyeLLY-dKzDEROShjSMmhWZE,"No.1, Persiaran Jalil 1 Bandar Bukit Jalil, Bukit Jalil, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Viva Home,3.1224512,101.7190798,ChIJq6qqaxA2zDERc1QNF8uJ4M8,"Unit 2-72 Level 2 Viva Home Shopping Mall, No 85, Jln Loke Yew, Cheras, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+District K @ KL Digital City,3.1936438,101.6783387,ChIJeWVGURNHzDERlmCJ-qKLc2s,"Jln Ipoh, Taman Bamboo, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
+Met Galleria,3.17564556,101.6698089,ChIJzUyYxShGzDER5kGjVfYdAYY,"Jln Boulevard, Kompleks Kerajaan, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",https://www.klmetropolis.com/met-galleria/,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
+The Sphere,3.110397,101.6677958,ChIJKcsZmylKzDERRLEz6OsHQaA,"The Sphere, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+D'Immersione Avenue,3.1696577,101.668301,ChIJswbvx11IzDERS1-gT_4eENQ,"Jln Dutamas 1, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Coming soon
+United Point,3.1909466,101.6530567,ChIJMfRbWf1JzDER7RitXa3JRjQ,"Jalan Lang Emas, Segambut, 51200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",,W.P. Kuala Lumpur,W.P. Kuala Lumpur,Operational
+Sunway Big Box,1.3976123,103.6286736,ChIJTRUlEvsJ2jERXZwBkeEWloo,"Pusat Komersial Sunway Marketplace, Persiaran Medini 5, Sunway City, 79250 Iskandar Puteri, Johor, Malaysia",,Johor,Johor Bahru,Operational
+U Mall,1.5468943,103.6222994,ChIJHbv4Cxt02jERCdL--LJNl2Q,"Lot F3, 4,5 ,, U Mall, 45, Jalan Pulai 20, Taman Pulai Utama, 81110 Skudai, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Holiday Plaza,1.4883429,103.76009,ChIJb-pU-W5t2jER2KyRwu_opLc,"Jalan Dato Sulaiman, Taman Century, 80250 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Komtar JBCC,1.4639632,103.7627382,ChIJIyLLVcMS2jER0xwvgEmFUk4,"KOMTAR JBCC, City Centre, 80000 Johor Bahru, Johor, Malaysia",,Johor,Johor Bahru,Operational
+Today's Mall,1.508331439,103.8736175,ChIJX_zfneBq2jER-sY9V5LmnU8,"Today's Market, Jln Suria 1, Bandar Baru Seri Alam, 81750 Masai, Johor, Malaysia",Not Available,Johor,Johor Bahru,Operational
+U Sentral Shopping Centre,2.512795453,102.8226529,ChIJO-sDKifTzzER0bMA4VtNffw,"Taman Bandar Utama,, Jalan Utama 3/2, 85000 Segamat, Johor, Malaysia",Not Available,Johor,Segamat,Operational
+City Plaza,6.11800525,100.370224,ChIJw9j5qL9ESzARDYG3ix5-iWg,"Jalan Tunku Ibrahim, Bandar Alor Setar, 05000 Alor Setar, Kedah, Malaysia",Not Available,Kedah,Kota Setar,Operational
+Star Parade,6.1226878,100.3731654,ChIJm9f-nsdESzARYWg0sdOSTAo,"888, Tingkat 4, Kompleks Star Parade, Jalan Teluk Wanjah, Bandar Alor Setar, 05200 Alor Setar, Kedah, Malaysia",,Kedah,Kota Setar,Operational
+Amanjaya Mall,5.6425186,100.5451707,ChIJB26VaQ4qSzAR2MTxXJNU9KY,"Amanjaya, 08000 Sungai Petani, Kedah, Malaysia",,Kedah,Kuala Muda,Operational
+Central Square,5.6369764,100.4885066,ChIJn8IIaDUpSzARFwFQa-MY2qU,"4.09.01, 4th Floor No, 23, Jalan Kampung Baru, Taman Patani Jaya, 08000 Sungai Petani, Kedah, Malaysia",,Kedah,Kuala Muda,Operational
+SP Plaza,5.6454815,100.488562,ChIJ60JydtIpSzAROEnKcT8pKnI,"Taman Sri Tanjung, 08000 Sungai Petani, Kedah, Malaysia",,Kedah,Kuala Muda,Operational
+Village Mall,5.661820472,100.5012862,ChIJ3xCTU7kpSzARFd3wH1oWgb0,"Jalan Legenda 1, Lagenda Heights, 08000 Sungai Petani, Kedah, Malaysia",https://www.villagemall.com.my/,Kedah,Kuala Muda,Operational
+Gio Mall,3.8124961,103.326357,ChIJKQjrAZG6yDERuei33QBbSxw,"A91, Jalan Tun Ismail, Sri Dagangan Bussiness Centre, 25000 Kuantan, Pahang, Malaysia",,Pahang,Kuantan,Operational
+All Seasons Place,5.3963425,100.2904981,ChIJpYwcnibCSjARqRr6b9AJHnY,"6H-1-21, All Seasons Place, Lebuh Thean Teik, Air Itam, 11500 George Town, Penang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+Island 88,5.4504594,100.3064297,ChIJJZ1MKADDSjARgP06DyNFHyA,"118, Jln Tanjung Tokong, Seri Tanjung Pinang, 10470 George Town, Penang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+Southbay Plaza,5.2846084,100.289281,ChIJ5dGGLry_SjAR7PqNCZSJcKU,"1, Cangkat Batu Maung, 11960 Bayan Lepas, Pulau Pinang, Malaysia",,Pulau Pinang,Barat Daya,Operational
+Sunshine Central,5.3986026,100.2867255,ChIJoUnBVljDSjARifgYO7C4VKU,"No 8-1-1, Sunshine Mall @ Sunshine Central, Jln Thean Tek, Bandar Baru Air Itam, 11500 Ayer Itam, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+Design Village,5.2440117,100.4382786,ChIJEzqvkN-5SjARYVj8cOHO0qc,"733, Jalan Cassia Barat 2, Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang, Malaysia",,Pulau Pinang,Seberang Perai Selatan,Operational
+City Mall,5.9616421,116.0976587,ChIJhaIleg9pOzIR0kd2u6vQj14,"City Mall, Jln Lintas, 88300 Kota Kinabalu, Sabah, Malaysia",Not Available,Sabah,Kota Kinabalu,Operational
+Plaza Shell,5.97808741,116.0747608,ChIJxyCMxJBpOzIRXm5Dqh7V5-c,"29, Jln Tunku Abdul Rahman, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",https://plazashellkk.com/,Sabah,Kota Kinabalu,Operational
+City Point Mall,3.1708857,113.0429503,ChIJLT7c_VvAHTIRy8JOxtNXh94,"98, Jln Keppel, Shahida Commercial Centre, 97000 Bintulu, Sarawak, Malaysia",,Sarawak,Bintulu,Operational
+Times Square Mega Mall,3.197834847,113.0885479,ChIJ_ZnV0zbBHTIROMVv66gSveo,"97000 Bintulu, Sarawak, Malaysia",https://www.facebook.com/Timessquarebintulu/,Sarawak,Bintulu,Operational
+Crown Square,1.551439169,110.371468,ChIJsf8PCben-zERAIwCfTT6PmE,"93450 Kuching, Sarawak, Malaysia",Not Available,Sarawak,Kuching,Operational
+Eco Mall,1.5821345,110.3314548,ChIJZyffXjqp-zERpiMsP8Kcews,"Eco-mall Petra Jaya, Samariang, 93050 Kuching, Sarawak, Malaysia",Not Available,Sarawak,Kuching,Operational
+Green Heights Mall,1.5004196,110.3465204,ChIJ_TVTbq2g-zERCcAi1y-a27g,"Green Heights, Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+MetroMall,1.568209819,110.3074121,ChIJbZiTScgJ-zER2AFbYxXFoXc,"Jalan Metrocity Boulevard, Taman Fah Tah, 93050 Kuching, Sarawak, Malaysia",https://www.facebook.com/MatangNewTownship/,Sarawak,Kuching,Operational
+OneJaya Lifestyle Mall,1.5180717,110.3657902,ChIJrc_T1BWn-zERGWo82CjtwzQ,"Onejaya Shopping Complex, 11430, Jalan Song, Tabuan Heights, 93350 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+One TJ ICT Shopping Complex,1.5064918,110.3745468,ChIJXRDckiin-zERbiGD1TSr1ug,"Lot 14665, Block 11, Jalan Stutong, 93350 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Sarawak Plaza,1.558035959,110.353811,ChIJtSVC9Omn-zERYtJmyKedO6A,"Sarawak Plaza Shopping Complex, 291, Jalan Tunku Abdul Rahman, 93100 Kuching, Sarawak, Malaysia",Not Available,Sarawak,Kuching,Operational
+The Hills,1.555845158,110.351459,ChIJEzU_Beun-zERXlv7cdwoIpo,"Interhill Place, 8, Jalan Bukit Mata Kuching, 93100 Kuching, Sarawak, Malaysia",https://thehills.my/,Sarawak,Kuching,Operational
+Wisma Sentosa,1.4763719,110.3326037,ChIJJe6j8p2g-zERLAeCTKCevTY,"Jalan Liu Shan Bang, Kota Sentosa, 93250 Kuching, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Pelita Tunku,4.3906043,113.9875761,ChIJC4GnUM5IHzIReo4WAdETfIg,"Unit 2-19, 2nd Floor, Wisma Pelita Tunku, Jalan Padang, 98000 Miri, Sarawak, Malaysia",,Sarawak,Miri,Operational
+Eastern Mall,1.363563,110.4023114,ChIJf-wwmhmf-zERDldg1wuphTM,"9C72+CW, 94200 Siburan, Sarawak, Malaysia",,Sarawak,Kuching,Operational
+Delta Mall,2.3119647,111.8468549,ChIJ8_9wb4V_9zERjNtw4Gqe054,"Taman Seduan 8, 96000 Sibu, Sarawak, Malaysia",,Sarawak,Sibu,Operational
+The Swan Square,2.3257134,111.8535895,ChIJAbr87ot_9zERov8uxMqoRug,"CP01, Ground Floor, Car Park, 2, Jalan Ling Kai Cheng 12A, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",,Sarawak,Sibu,Operational
+Centro Mall,3.053046771,101.4631326,ChIJLWzQMTxTzDER-Nba9QSDrcE,"8, Jalan Batu Tiga Lama, Kawasan 16, 41300 Klang, Selangor, Malaysia",https://www.centro.com.my/centro-mall/,Selangor,Klang,Operational
+Harbour Place,3.025839915,101.4240804,ChIJtXEqvcurzTER4gcNKbJ58RM,"42000, Persiaran Raja Muda Musa, Taman Suria, 42000 Pelabuhan Klang, Selangor, Malaysia",Not Available,Selangor,Klang,Operational
+One Plaza,3.3213719,101.2720783,ChIJ4fQCuFnzzDERQBgoVH2PZtU,"Lot 1, Ground Floor, 5, Jalan Medan Niaga 2, Kampung Baharu, 45000 Kuala Selangor, Selangor, Malaysia",,Selangor,Kuala Selangor,Operational
+The Curve,3.157957295,101.6114265,ChIJL2McUClPzDERAKfQzz0msNs,"6, Jln PJU 7/3, Mutiara Damansara, 47810 Petaling Jaya, Selangor, Malaysia",https://thecurve.com.my/,Selangor,Petaling,Operational
+The Starling,3.1352052,101.6230055,ChIJq9te9e9JzDERX-ByCY7XagM,"6, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor, Malaysia",,Selangor,Petaling,Operational
+Langkawi Fair Shopping Mall,6.3097561,99.8559572,ChIJ2Rx4voCASzARDUgXoCXXD-o,"Persiaran Putra Kuah, Kuah, 07000 Langkawi, Kedah, Malaysia",,Kedah,Langkawi,Operational
+Straits Quay,5.4580314,100.3133518,ChIJXb6HaCTDSjARjZhU6LZAiBA,"Jalan Seri Tanjung Pinang 10470 Tanjong Tokong, Penang Malaysia, Seri Tanjung Pinang, Tanjung Tokong, Pulau Pinang, Malaysia",,Pulau Pinang,Timur Laut,Operational
+Harbour Mall Sandakan,5.8387165,118.1196601,ChIJ67qB8y7FODIRTSid5jAJRTY,"Harbour Square, Pusat Bandar Sandakan, 90000 Sandakan, Sabah, Malaysia",,Sabah,Sandakan,Operational
+KTCC Mall,5.3334412,103.1503367,ChIJW-iiBAC_tzERY_3pgY4sRhY,"3-88 Level 3, Muara Selatan, KTCC Mall, Jalan Sultan Zainal Abidin, 20000 Kuala Terengganu, Terengganu, Malaysia",,Terengganu,Kuala Terengganu,Operational
+Imperio mall,2.1824027,102.2614664,ChIJ_WhWncnv0TERPFuySTt-gI0,"192, Melaka Raya, 75000 Malacca, Malaysia",,Melaka,Melaka Tengah,Permanently closed

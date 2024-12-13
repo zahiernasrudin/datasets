@@ -6,9 +6,9 @@ This dataset lists all the shopping malls available in Malaysia. It contains inf
 
 ## Dataset Details
 
--   Extracted on October 1 2024
+-   Extracted on December 13 2024
 
--   The dataset contains **219 rows** & **8 columns**
+-   The dataset contains **419 rows** & **8 columns**
 
 | **Column Name**     | **Data Type** | **Description**                                                                                                      | **Example**                                                                                             |
 |--------------|--------------|-------------------------------|--------------|
